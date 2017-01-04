@@ -104,3 +104,64 @@ add value to my life, how does it improve my life, our lives, everybody's
 lives. Bernadette, I am wondering if you know kind of based of the things that
 you've been researching as well and conducting analysis against. Where are you
 finding that the internet of everything adds value ?
+
+The first thing that comes to minds that I've been looking at is solving health
+problems. There are millions of people in the world who lack access to
+specialist. Using new technologies and telehealth and cloud, we could actually
+put specialist in front of those peaople and they can remoteley connect to
+specialist and doctors using Network medical devices and get opinions and so
+on.
+Another area is improving farming and idrigation, you know to help feed the
+world. monitoring animals and using sensors to provide the apropriate irigation
+and conserve water.
+And one of the big areas is that as of now more than half of the world's
+population lives in our near major urban areas. As this increases it's going to
+cause an increadible stress on cities on their infrastructure, on their
+services. and a great exemple is when governements incorporates the internet of
+everything technology to deal with these challenges that are faced by cities.
+Barcelona is that has embraced this internet of everithing by becoming a smart
+connected city and in the course there is a great video about barcelona showing
+how they have become a smart city and how that is improving the life of its
+citizens. SOlutions such as energy efficient lightening and it's not only just
+lighting but it has sensors that senses motions around it so that it can sense
+traffic and this really reduces crime  by increasing the intensity of light as
+it noticies motions. They have also implemented parking censor so that connect
+to your smartphone so that people can park more afficiently because it is
+beeing found that 30% congestion is caused by people driving around looking for
+parking spot.
+
+That's amazing, I don't know how many time I've found myself driving in
+circles.
+I know, I'm doing it all the time. The other thing I really like is that they
+have implemented sensors on garbage cans so that they send a signal whn they're
+full, so we don't have to waste services picking up the garbage, they have
+smart transportations, smart bus stops, so you can go to the bus stop and say
+"Yea, I'm looking for/ When is my bus going to get here", click on the screen
+and while you're waiting you can find out about entertainement in the area. And
+Wifi is available in the city even in the subway. So, you know, this has really
+made Barcelona a very wonderful place to live
+
+So it's like you had all these services that used to be kind of isolated
+(insulated ?) provided in sideloads, you know, you had your tracers, you had, you
+know, you had street lighting, you had your wifi you had your transportations
+services. But now rather than all those things kind of working in sideloads,
+they're all kind of comming together, they're presempting some ?inovation?.
+It's more of an unified service provided by the city. That's more relevent to
+me and what I'm doing as an inividual inside of the city. It's like it's custom
+taillored for me. it's like, you know, the trash service is organized around my
+schedule, the lighting it's organised around my schedule, transportation,
+organized around my schedule. Something very very different. It's not me as
+individual needing to adapt to the city services shedules, but it's almost like
+the city is providing a much, more personnalized service organized around me
+but, so, at the same time it's also more effcicient.You know, they're not using
+energy, they're not using resources where they don't need to be used. As we
+talked about this innerconnection of everything, you know, it's really easy for
+me to think abour the sideloads and how to make think work, how to connect
+things to provide a certain service. You know, how to get the trash service
+running by itself, how to get the transportation running by itself. But as we
+talk about inner connecting all of these things, you know, that, to me is what
+we eluded to earlier in the call. it's just, it 's impressive ?level? of
+complexity, with a lot of details that go into it. And so I'm wondering as we
+look at this IOE opportunity, you know, how do we handle challenges, What are
+the attributes and the caracteristics. You know, the ?ideal? that give us kind
+of control
