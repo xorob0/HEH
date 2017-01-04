@@ -163,5 +163,44 @@ talk about inner connecting all of these things, you know, that, to me is what
 we eluded to earlier in the call. it's just, it 's impressive ?level? of
 complexity, with a lot of details that go into it. And so I'm wondering as we
 look at this IOE opportunity, you know, how do we handle challenges, What are
-the attributes and the caracteristics. You know, the ?ideal? that give us kind
-of control
+the attributes and the caracteristics. You know, the ?ideal?, if you will,
+that give us kind of control over how we implement IOE solutions. You know,
+What are the, how do we make it tengible so that we can be in controlle of it
+and implement it. And dane, I am wondering if you can come in on that kind of
+some of your experience just in the round of networking.
+
+The curiculum, the internet of everything talks about 4 things in particular
+and that is People that are involved, the processes, the data and the things.
+So it's much bigger than just the things.
+
+So yea, those are the four things rodrigo kind of refered to as well. So inside
+of the course it explicitely calls out : People, processes, data and things as
+kind of the foundational elements componnent or pillars if you will of the IOE.
+Bernadette, can you in a little bit on the people aspect, the people pillar on
+the IOE.
+
+Sure, jerry, my thing (thinking ?) it's because the people who ultimately will
+take all this information that's beeing drive from the interation betwen the
+other pillars wich are processes, data and things. And they'll make and form
+decisions that will improve their lives or the lives of others. It's really
+people that provide the intelligence and the inside to take all of that
+information, and there is a lot of it out there that  were exposed to and make
+an usefull solution. You know oneof the things that i've been looking at, I
+found fascionating is all of there wearable sensors that wille allow us to
+acess real time about our helth. ANd that allows us to make a decision about
+how we'll be going to do things that day. Should I have my work out ? Should I
+avoid that donut ? and much more serious things as well of course, we can use
+those to deal with serious illness and like diabetus and heart diseases.
+
+Yea, listening to you talk abot people it, I recall a  quote from John
+chambers, where, you know, he was asked something effective, what is the IOE
+about ? his response , this is not about thecnology at all, but it's about how
+we change peoples lives. So it seems like, you know, the IOE is really routed
+first in , you know, where is that value, where is that social impact or
+benefit that comes as a result of our ability to connect all these desparate
+things, connecting the unconnected, if you will. But i seems like the people
+beeing served is one aspect, but then, you know, again rodrigo had eluded to
+processes and you know we've definitely talked about it a little bit in the
+context of this conversation and, you know processes beeing called out by cisco
+and the definition of IOE is one of those core pillars. Describe that a little
+bit for me to end, You know, what is processes in this context
