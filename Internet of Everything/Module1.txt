@@ -235,4 +235,108 @@ realizing those benefits through new processes that we're able to take
 advantage of the inforation that is now available. SO as we talked about
 information, I've heard the term data, we talked about the data as one of these
 pillars and the also I heard earlier the term big data in that context if you
-guys could come and just a little bit on what is data
+guys could come and just a little bit on what is data in the context of IOE and
+why is it such a ig deal
+
+I can take that one, Jeremey, it's my favorite. Right so, this is actually a
+very important point that you make Jeremy, when it come to this pillar, to the
+data pillar it's so much data that it's even hard to wrap your ?head? around
+right ? You see, the idea is that if you have the data that its has enough
+volume, wich you mentioned it has enough velocity, that you also mentionned,
+and it all types of data where we call the variaty. This is conssidered to be
+the big data, if we go back, just to explain a little bit the ??? of the big
+data, it says the volume amount of data,if you're trying, if you're talking
+about looking at a specific event, you're monitoring an event, such as the
+weather, it's a lot of informations, so the volume of the data is really high,
+you have a lot of data to take care of, to process, right ? it's a lot of data
+comming at you very high speed so you have to be able to handle that. Network
+itself has to be hable to handle that, and when I say the network I'm
+talking about routers, I'm talking about the layer to switches, yea, I'm
+talking about the firewalls, I'm talking about the entire network really as a
+whole has to be able to process and has to be able to handle all this data that
+is coming at you very fast. The last V is the variety, so the data comming to
+you does not necesserly has a specific type a specific way or a specific shape
+right ? You can be looking at pictures, you can be looking at entries you can
+be looking at text you can be looking at some log files comming from a server;
+I mean, the data doesn't really, does not necesserly comes at ou in a specific
+form so this is what (why?) we mean by saying the variaty of this data. I'm
+thinking 2012 an organisation online even added a fourth V with their calling
+Veracity.
+I've never heard that term before, I haven't  heard veracity before, so in
+listening wath you describe it's essencially the thrust ???? of the big data
+That's right
+So we talked about people, the beneficiaries of the IOE at the same time
+contributors and producers as well as consumers inside of it. We've talked
+about how processes is it's changes in process and process inside of the IOE
+that makes it happen. And we've talked about data is kind of a key resource in
+what is happening, what process can take advantage of. In a conversation around
+data, you know, we're talking about a lot of data, a lot of information and
+we've commented a few times on like sensors and things when we're talking about
+things here, and we're talking about the internet of things and we talked about
+how the internet of everithing will take advantage of the internet of things.
+What are things cause it sounds like we're talking about , you know, you're
+talking about sensors that you put into the ground, you know, what are things
+
+I can answer that, Jeremy, things have been around for a while, you know,
+you've already mentionned iPad and smartphones and computers. We all know that
+that connects, it's not something new. But what we're talking about here when
+we say the internet of things it's about the stuff that we didn't connect
+before it's connecting the unconnected and making them accessible over a
+network. So the internet of things , and I should mention that a lot of people
+mistake , they say the internet of everything hen they mean the internet of
+things and vice-verca but the internet of things specifficaly refers to those
+object that we can attach sensors to and we can collect real time data and make
+decisions based on that.
+So you're talking about, like, my coffee cup sitting right here ?
+this is gonna get connected ?
+You can if you want to, if you want to measure the temperature and make sure
+that it's too hot right now, I want my coffe cup to talk to my smartphone to
+tell me when the temperature reaches a certain temperatures and that's when you
+want to drink it you could do that !
+Now I wanted to tell somebody else that they need to come and give me some
+coffe
+That's what I was gonna say, you can do even better, you can measure how much
+of the coffee is left in the cup and tell your coffee maker to get you a new
+pot cause you're out of coffee
+that totally makes sense, I saw, I remember seeing an advertisement for a
+moisture sensor that goes into a baby's diaper and it sends a tweet to a phone
+that tells a
+They need to change their childs diaper and that just blows my mind and it's so
+that idea seems so expensive to me but I guess what we're talking about is that
+this stuff isn't that expensive anymore
+
+That's it, I don't now if you've heard of moore's law, I know we mentionned
+more law in the course but moore's low basically talks about the icroprocessor
+doubling in power and reducing n cost in term of how much we pay for them and
+you know they make chips now that would fit on the end of your finger, it's a
+sensor chip they could sense temperatur, moisture, like you said and it also
+has wifi, and you know, how much do you thing you'd pay for a chip like that ?
+You know initially when someone asked me that was like hundred, tow hundred
+dollars, but they make them now for 99 cents. You know so these are thing that
+you can attach on almost anything and you can retrieve that data to do someting
+with it. And the thing that blows
+So you mentionned Moor's law, it's 99cts like, say, now give it, give it.
+yhea, three years and it's you know
+Jow much then ?
+Penies !
+Znt the thing that blows me away right now is that it's estimated that only one
+% of things are connected right now, there is still 99% of things that we could
+connect. Not to say that we need to connect everything, but there is still a
+lot of stuff that's out there that we can connect and it's been predicted by
+the year 2020 that we're gonna have 50 billions devices that are connected to
+the internet. Now that is in my opinion minid blowing.
+This has been fantastic and I wanna thanks every body here who has provided
+input and helped explain what is the internet of everything, what is this
+opportunity. The internet of everything takes into account or takes advantage
+of 4 key pillars people, primary beneficiaries of it facilitated by processes
+that takes into account data that is generated by thingd. ANd so it's those 4
+pillars people processes data and things that are kind of the key attributes or
+the handholds if you will, the componnent of the internet of everything that
+help us realize this value
+
+fascinating stuff ! I'd like to thanks all of ou guys, Bernadette, Bob, dane,
+rodrigo for joining me on this podcast. We hope for you guys, our audiance,
+that you're intrigued and inspierd to investigate the internet of everything
+and how it can change the way you work, live, play, and learn, so until next
+time
+Thanks for listening !
