@@ -1,31 +1,33 @@
 Hello, this is Jerremy creech, I am a manager at Cisco's system.
-I am working inside the product developpement for the Cisco's networking
-accademy program And you are listening to the first of a serie of podcast
-introducing the internet of everithing, or, as we call it, the IOE.
-This podcast serie is a companion to the Cisco's networking academy
+I am working inside of the product developpement for the Cisco's networking
+accademy program.
+And you are listening to the first of a serie of podcast introducing the
+internet of everything, or, as we call it, the IOE.
+This podcast serie is a companion to the Cisco networking academy's
 introduction to the IOE course and today we will be answering the question
 "What is the IOE".
 
 My guest today are Dane Albargetty, you might know him from danecourses.com. He
 is also a cheap contributor inside the content developpement for the networking
-accademy program ad also joining us is Rodrigo odriono Technologist
+accademy program.
+And also joining us is Rodrigo Foriano Technologist
 extraordinary and also key contributor to a lot of the activity developpement
 and content developpement inside of the networking academy program as well.
-And then also joining us from the Cartel of northies is Bernadette O'Brian,
+And then also joining us from the Cartel of ??? is Bernadette O'Brian,
 Networking academy instructor and also contributor to networking academy
 developpement and the content we create.
-And the last and certenely not least is BOB Fishon also a networking academy
+And the last and certainely not least is Bob Fishon also a networking academy
 instrucor, award winning instructor in canada. Also a Cisco Press author.
 
 So as we talked about the evolution of internet we witnessed a number of
-different distinct phases. Among these phases is connectivity starting int he
+different distinct phases. Among these phases connectivity starting in the
 late 60's and that's when, you know, we were just starting to get disparate
-cmputing system connected together just for the basic sharing of information.
+computing system connected together just for the basic sharing of information.
 From there it kind of transitionned into a system of exchange with the network
 economy, where thing became more transactional. We saw the rise of e-commerce
 and then, more recently we've seen the collaborative experience in the internet
 where getting the right people doing the right thing together at the right
-time, you know, all empowered and facilate by the internet, but most recent is
+time, you know, all empowered of and facilate by the internet, but most recent is
 the current tranistion that's taking place with the internet of everything, the
 IOE. And so, Rodrigo, can you tell me what is the IOE ?
 
@@ -33,30 +35,30 @@ So, I'm just gonna give you an exemple :
 Let's say you need to buy a pair of shoes for someone that you love and so you
 get on your phone and you give im a call and of course this is a video call.
 This is not the 1960's anymore. So you get on your phone, you place the video
-call and you have a little conversation trying to learn a litle more about what
-kind of shoes the person like right ? So, once you know that you get in your
-car and you realize that the mall close-by hase the perfect store for you to
+call and you have a little conversation trying to learn a little more about what
+kind of shoes the person likes right ? So, once you know that you get in your
+car and you realize that the mall close-by has the perfect store for you to
 buy that pair of shoes. So you push the address of the mall into your GPS and
-you just go to that mall. Your car ,because of the GPS, it knows where it-s
-close to the mall and when it approches the mall it is able to talk to the
-computer at the mall handling the parking lot and ask for a parking spot. When
+you just go to that mall. Your car ,because of the GPS, it knows where it's
+close to the mall and when as it approches the mall it is able to talk to the
+computer at the mall handling the parking lot and asks for a parking spot. When
 comming in a mall, I need a parking spot. The mall computer handeling the
 parking lot has informations of course on the parking lot what's taken and
-what's available, ut it also knows about the weather, it knows about the city,
+what's available, but it also knows about the weather, it knows about the city,
 it knows about what time it is, it knows that it's about to get a rush hour,
 And it knows also that in that specific city, the north portion of the city get
 really bad when it's rush hour and it's about to rain. So the computer picks up
-a free parking spot toward the south side of that mall to make it easyer for
+a free parking spot toward the south side of that mall to make it easier for
 you to leave the mall. So the computer get's that information through your gps
 and now you can safefully navigate to what is currently at that specific
-moement, the best parking spot in the mall that's available to you. This is the
-IOE, becaus eif you think about it, you placed the call to an other person,
+moment, the best parking spot in the mall that's available to you. This is the
+IOE, because if you think about it, you placed the call to an other person,
 wich is an interaction between two people : People to people. Because of that,
 you entered an address into you GPS in your car, this is an interaction between
 a person and a machine, right it's a people to machine type of interaction. As
 the mall computer was making a call of the best parking spot for you, it needed
 to rely on a bunch of data on the weather, on the city itself, on the parking
-spot that were actually open for use. So that's the data, right? You're using
+spot that were actually open for you. So that's the data, right? You're using
 the data to do that. And this is all possible because it relies on
 comunications protocols and applications and all kinds of structures details
 that are going on the background. That's what we call the process. So this is
@@ -66,24 +68,25 @@ a way to interact to connect people, things processus and data.
 Sounds awefully complex, sounds complex, sounds like there is a lot of
 interactions, there is a lot of things going on. it makes me wonder, I mean,
 part of value of the internet right now is just it's the ubiquity of it. And so
-It kind of make me wonder as we talk about the internet of Everithing, while
+It kind of make me wonder as we talk about the internet of everything, while
 you, Rodrigo, you're really lining out kind of , you know , the opportunity or
 the potential of it, you know, I find myself wondering, you know, how big of a
-deal is it  really ? You know bob inside of the things that you've been
-researching, the things that you enderstand, you know, what can you land in an
-answer to that question of how big of a deal is the internet of Everithing ?
+deal is it  really ? You know Bob inside of the things that you've been
+researching, the things that you understand, you know, what can you land in an
+answer to that question of how big of how big of a deal is the internet of
+Everything ?
 
-Well, I my humble opinion, it's a mass of big deal, you knwo when we think of
+Well, I my humble opinion, it's a mass of big deal, you know when we think of
 the internet of everything, I think right now, we're at the very tip of an
-iceberg or at like, the beginning of an avalanche. And I think, back to the
+iceberg or at ,like, the beginning of an avalanche. And I think, back to the
 early 90's when I remember seeing on the news they where talking about this
 thing called the internet and something called the world wide  web and you know
 , and we'd be able to communicate with people around the world and easily and
 such and I remember at the time thinking "Waw ! this is gonna really cool but
 how big is it going to get ?", And you know, within a matter of years, no five
 year later, ten years later, like the internet has now become something that we
-all use and think as something we should have available to us. The UN say that
-the internet is now something that it's a vital right for humans to have. ANd
+all use and think as something we should have available to us. The UN said that
+the internet is now something that it's a vital right for humans to have. And
 you know, consider as well like cellphones or phones 30 the years ago you
 just talked to people and 15 years ago cellphones you could text. But take what
 your smartphone can do now. You know, it's, it can connect all kinds of things,
@@ -91,15 +94,15 @@ you can research all kind of things, it connect to your car, it connect to
 like, at home I have a thermostat where it's controlled, I can control it with
 my phone. It's all connected ! Companies use , you know use the, manage their
 energy more efficiently as well, like, ?helium? ventilation systems in buildings
-before ?all pneumatic? . But now it's all automated and connected to the
-networks, so a company can adjust, you know, temperatur more efficiently, they
-can close light more efficiently and so on so forth
+before all automatic . But now it's all automated and connected to the
+networks, so a company can adjust, you know, temperatures more efficiently, they
+can close light more efficiently and so on so forth.
 
 Well I recognise what you are talking about, I mean like lot of things
 beeing connected. A question I find myself asking as the release the internet of
-Everithing, you know, while i've recogniezed the value and the savings that I
+everything, you know, while i've recogniezed the value and the savings that I
 have personnaly benefited from the internet in the past phases of the internet.
-You know as I think of the internet of Everything, i'm looking for where dos it
+You know as I think of the internet of Everything, i'm looking for where does it
 add value to my life, how does it improve my life, our lives, everybody's
 lives. Bernadette, I am wondering if you know kind of based of the things that
 you've been researching as well and conducting analysis against. Where are you
@@ -108,38 +111,39 @@ finding that the internet of everything adds value ?
 The first thing that comes to minds that I've been looking at is solving health
 problems. There are millions of people in the world who lack access to
 specialist. Using new technologies and telehealth and cloud, we could actually
-put specialist in front of those peaople and they can remoteley connect to
-specialist and doctors using Network medical devices and get opinions and so
+put specialist in front of those people and they can remoteley connect to
+specialist and doctors using network medical devices and get opinions and so
 on.
-Another area is improving farming and idrigation, you know to help feed the
-world. monitoring animals and using sensors to provide the apropriate irigation
+Another area is improving farming and irrigation, you know to help feed the
+world. monitoring animals and using sensors to provide the appropriate irrigation
 and conserve water.
 And one of the big areas is that as of now more than half of the world's
 population lives in our near major urban areas. As this increases it's going to
 cause an increadible stress on cities on their infrastructure, on their
 services. and a great exemple is when governements incorporates the internet of
 everything technology to deal with these challenges that are faced by cities.
-Barcelona is that has embraced this internet of everithing by becoming a smart
+Barcelona is that has embraced this internet of everything by becoming a smart
 connected city and in the course there is a great video about barcelona showing
 how they have become a smart city and how that is improving the life of its
-citizens. SOlutions such as energy efficient lightening and it's not only just
+citizens. Solutions such as energy efficient lightening and it's not only just
 lighting but it has sensors that senses motions around it so that it can sense
 traffic and this really reduces crime  by increasing the intensity of light as
-it noticies motions. They have also implemented parking censor so that connect
-to your smartphone so that people can park more afficiently because it is
+it noticies motions. They have also implemented parking sensors so that connect
+to your smartphone so that people can park more efficiently because it is
 beeing found that 30% congestion is caused by people driving around looking for
 parking spot.
 
 That's amazing, I don't know how many time I've found myself driving in
 circles.
+
 I know, I'm doing it all the time. The other thing I really like is that they
-have implemented sensors on garbage cans so that they send a signal whn they're
-full, so we don't have to waste services picking up the garbage, they have
+have implemented sensors on garbage cans so that they send a signal when they're
+full, so we don't have to waste services picking up the garbage. They have
 smart transportations, smart bus stops, so you can go to the bus stop and say
 "Yea, I'm looking for/ When is my bus going to get here", click on the screen
 and while you're waiting you can find out about entertainement in the area. And
 Wifi is available in the city even in the subway. So, you know, this has really
-made Barcelona a very wonderful place to live
+made Barcelona a very wonderful place to live.
 
 So it's like you had all these services that used to be kind of isolated
 (insulated ?) provided in sideloads, you know, you had your tracers, you had, you
@@ -153,20 +157,20 @@ schedule, the lighting it's organised around my schedule, transportation,
 organized around my schedule. Something very very different. It's not me as
 individual needing to adapt to the city services shedules, but it's almost like
 the city is providing a much, more personnalized service organized around me
-but, so, at the same time it's also more effcicient.You know, they're not using
+but, so, at the same time it's also more efficient.You know, they're not using
 energy, they're not using resources where they don't need to be used. As we
 talked about this innerconnection of everything, you know, it's really easy for
 me to think abour the sideloads and how to make think work, how to connect
 things to provide a certain service. You know, how to get the trash service
 running by itself, how to get the transportation running by itself. But as we
 talk about inner connecting all of these things, you know, that, to me is what
-we eluded to earlier in the call. it's just, it 's impressive ?level? of
+we eluded to earlier in the call. it's just, it 's impressive level of
 complexity, with a lot of details that go into it. And so I'm wondering as we
 look at this IOE opportunity, you know, how do we handle challenges, What are
 the attributes and the caracteristics. You know, the ?ideal?, if you will,
 that give us kind of control over how we implement IOE solutions. You know,
-What are the, how do we make it tengible so that we can be in controlle of it
-and implement it. And dane, I am wondering if you can come in on that kind of
+What are the, how do we make it tengible so that we can be in control of it
+and implement it. And Dane, I am wondering if you can come in on that kind of
 some of your experience just in the round of networking.
 
 The curiculum, the internet of everything talks about 4 things in particular
@@ -175,7 +179,7 @@ So it's much bigger than just the things.
 
 So yea, those are the four things rodrigo kind of refered to as well. So inside
 of the course it explicitely calls out : People, processes, data and things as
-kind of the foundational elements componnent or pillars if you will of the IOE.
+kind of the foundational elements components or pillars if you will of the IOE.
 Bernadette, can you in a little bit on the people aspect, the people pillar on
 the IOE.
 
@@ -185,80 +189,80 @@ other pillars wich are processes, data and things. And they'll make and form
 decisions that will improve their lives or the lives of others. It's really
 people that provide the intelligence and the inside to take all of that
 information, and there is a lot of it out there that  were exposed to and make
-an usefull solution. You know oneof the things that i've been looking at, I
+an usefull solution. You know one of the things that i've been looking at, I
 found fascionating is all of there wearable sensors that wille allow us to
-acess real time about our helth. ANd that allows us to make a decision about
+acess real time about our helth. And that allows us to make a decision about
 how we'll be going to do things that day. Should I have my work out ? Should I
-avoid that donut ? and much more serious things as well of course, we can use
+avoid that donut ? And much more serious things as well of course, we can use
 those to deal with serious illness and like diabetus and heart diseases.
 
 Yea, listening to you talk abot people it, I recall a  quote from John
 chambers, where, you know, he was asked something effective, what is the IOE
-about ? his response , this is not about thecnology at all, but it's about how
-we change peoples lives. So it seems like, you know, the IOE is really routed
+about ? his response , this is not about technology at all, but it's about how
+we change peoples lives. So it seems like, you know, the IOE is really ?routed?
 first in , you know, where is that value, where is that social impact or
-benefit that comes as a result of our ability to connect all these desparate
-things, connecting the unconnected, if you will. But i seems like the people
-beeing served is one aspect, but then, you know, again rodrigo had eluded to
+benefit that comes as a result of ?now? our ability to connect all these disparate
+things, connecting the unconnected, if you will. But it seems like the people
+beeing served is one aspect, but then, you know, again Rodrigo had eluded to
 processes and you know we've definitely talked about it a little bit in the
-context of this conversation and, you know processes beeing called out by cisco
+context of this conversation and, you know processes beeing called out by Cisco
 and the definition of IOE is one of those core pillars. Describe that a little
-bit for me to end, You know, what is processes in this context
+bit for me to end, you know, what is processes in this context.
 
 Processes is pretty much the thing that interconnects the people the data and
 the things. The processes is the innerconnection of those three things and, in
 the curiculum it defines the processes as the ability to deliver the right data
-to the right person or thing, or device, at the rght time. And that's really
+to the right person or thing, or device, at the right time. And that's really
 what the process piece is. It's how that data in the internet of everything,
-how it flows, how it's beeing utilizes. The processes are the integration
+how it flows, how it's beeing utilized. The processes are the integration
 piece, they facilitate an intergration between people wich the curiculum
 defines as a people to peolpe connection, so people exchanging data with other
 people wheter it's through a social networking, applications over the internet
 or something like that and then machine to people, so people recieving real
-time data over the internet to their smrtphone or their smartwatch or some type
+time data over the internet to their smartphone or their smartwatch or some type
 of device and then also machine to machine, so we have machines, we have smart
-devices, we havesmart sensor in the home, we have smart sensor in the field, in
+devices, we have smart sensor in the home, we have smart sensor in the field, in
 industie, in retail, commercial uses and those devices are picking up
 information that wasn't capable before, but today, we do have the capabilities,
-with the advance technologies, the advances in computers, the advances in the
+with the advances in technologies, the advances in computers, the advances in the
 amount of storage of data that we can do, with the fact that the internet is
-now so much more expensive with cloud computing. SO those connections, machne
+now so much more expensive with cloud computing. So those connections, machne
 to machinr, machine to people, and people to people are more relevent today,
 given that this is the right time-place because our technology has advanced so
 far that we can now, we can take in this data from everywhere and we can
-process it, we can analyze it. SO the process is really, that's what it does,
-it brings the people, the data and the things together
+process it, we can analyze it. So the process is really, that's what it does,
+it brings the people, the data and the things together.
 
 So, as we talked about the internet of everything and people beeing the
-ultimate beneficiairy of the opportunity and what it represents and they are
+ultimate beneficiary of the opportunity and what it represents and they are
 realizing those benefits through new processes that we're able to take
-advantage of the inforation that is now available. SO as we talked about
+advantage of the information that is now available. So as we talked about
 information, I've heard the term data, we talked about the data as one of these
 pillars and the also I heard earlier the term big data in that context if you
 guys could come and just a little bit on what is data in the context of IOE and
-why is it such a ig deal
+why is it such a big deal.
 
 I can take that one, Jeremey, it's my favorite. Right so, this is actually a
 very important point that you make Jeremy, when it come to this pillar, to the
 data pillar it's so much data that it's even hard to wrap your ?head? around
 right ? You see, the idea is that if you have the data that its has enough
 volume, wich you mentioned it has enough velocity, that you also mentionned,
-and it all types of data where we call the variaty. This is conssidered to be
-the big data, if we go back, just to explain a little bit the ??? of the big
-data, it says the volume amount of data,if you're trying, if you're talking
+and it's all types of data where we call the variaty. This is conssidered to be
+the big data, if we go back, just to explain a little bit the Vs of the big
+data, it says the volume amount of data, if you're trying, if you're talking
 about looking at a specific event, you're monitoring an event, such as the
 weather, it's a lot of informations, so the volume of the data is really high,
 you have a lot of data to take care of, to process, right ? it's a lot of data
 comming at you very high speed so you have to be able to handle that. Network
-itself has to be hable to handle that, and when I say the network I'm
+itself has to be handle to handle that, and when I say the network I'm
 talking about routers, I'm talking about the layer to switches, yea, I'm
 talking about the firewalls, I'm talking about the entire network really as a
 whole has to be able to process and has to be able to handle all this data that
 is coming at you very fast. The last V is the variety, so the data comming to
 you does not necesserly has a specific type a specific way or a specific shape
-right ? You can be looking at pictures, you can be looking at entries you can
+right ? You can be looking at pictures, you can be looking at entries, you can
 be looking at text you can be looking at some log files comming from a server;
-I mean, the data doesn't really, does not necesserly comes at ou in a specific
+I mean, the data doesn't really, does not necessarly comes at you in a specific
 form so this is what (why?) we mean by saying the variaty of this data. I'm
 thinking 2012 an organisation online even added a fourth V with their calling
 Veracity.
@@ -268,14 +272,14 @@ That's right
 So we talked about people, the beneficiaries of the IOE at the same time
 contributors and producers as well as consumers inside of it. We've talked
 about how processes is it's changes in process and process inside of the IOE
-that makes it happen. And we've talked about data is kind of a key resource in
+that makes it happen. And we've talked about data is kind of the key resource in
 what is happening, what process can take advantage of. In a conversation around
 data, you know, we're talking about a lot of data, a lot of information and
 we've commented a few times on like sensors and things when we're talking about
 things here, and we're talking about the internet of things and we talked about
-how the internet of everithing will take advantage of the internet of things.
+how the internet of everything will take advantage of the internet of things.
 What are things cause it sounds like we're talking about , you know, you're
-talking about sensors that you put into the ground, you know, what are things
+talking about sensors that you put into the ground, you know, what are things.
 
 I can answer that, Jeremy, things have been around for a while, you know,
 you've already mentionned iPad and smartphones and computers. We all know that
@@ -283,60 +287,61 @@ that connects, it's not something new. But what we're talking about here when
 we say the internet of things it's about the stuff that we didn't connect
 before it's connecting the unconnected and making them accessible over a
 network. So the internet of things , and I should mention that a lot of people
-mistake , they say the internet of everything hen they mean the internet of
+mistake , they say the internet of everything when they mean the internet of
 things and vice-verca but the internet of things specifficaly refers to those
 object that we can attach sensors to and we can collect real time data and make
 decisions based on that.
 So you're talking about, like, my coffee cup sitting right here ?
-this is gonna get connected ?
+This is gonna get connected ?
 You can if you want to, if you want to measure the temperature and make sure
 that it's too hot right now, I want my coffe cup to talk to my smartphone to
 tell me when the temperature reaches a certain temperatures and that's when you
 want to drink it you could do that !
 Now I wanted to tell somebody else that they need to come and give me some
-coffe
+coffee.
+Yhea sure !
 That's what I was gonna say, you can do even better, you can measure how much
 of the coffee is left in the cup and tell your coffee maker to get you a new
-pot cause you're out of coffee
-that totally makes sense, I saw, I remember seeing an advertisement for a
+pot cause you're out of coffee.
+That totally makes sense, I saw, I remember seeing an advertisement for a
 moisture sensor that goes into a baby's diaper and it sends a tweet to a phone
-that tells a
-They need to change their childs diaper and that just blows my mind and it's so
-that idea seems so expensive to me but I guess what we're talking about is that
-this stuff isn't that expensive anymore
+that tells a, well, I hope, its parents or something that they need to change
+their childs diaper and that just blows my mind and it's so that idea seems so
+expensive to me but I guess what we're talking about is that this stuff isn't
+that expensive anymore.
 
-That's it, I don't now if you've heard of moore's law, I know we mentionned
-more law in the course but moore's low basically talks about the icroprocessor
-doubling in power and reducing n cost in term of how much we pay for them and
+That's it, I don't now if you've heard of Moore's law, I know we mentionned
+more law in the course but moore's law basically talks about the microprocessor
+doubling in power and reducing in cost in term of how much we pay for them and
 you know they make chips now that would fit on the end of your finger, it's a
 sensor chip they could sense temperatur, moisture, like you said and it also
 has wifi, and you know, how much do you thing you'd pay for a chip like that ?
-You know initially when someone asked me that was like hundred, tow hundred
+You know initially when someone asked me that was like hundred, two hundred
 dollars, but they make them now for 99 cents. You know so these are thing that
 you can attach on almost anything and you can retrieve that data to do someting
 with it. And the thing that blows
-So you mentionned Moor's law, it's 99cts like, say, now give it, give it.
-yhea, three years and it's you know
-Jow much then ?
+So you mentionned Moor's law, it's 99cts like, say, now give it three years and
+it's you know how much then ?
 Penies !
-Znt the thing that blows me away right now is that it's estimated that only one
+And the thing that blows me away right now is that it's estimated that only one
 % of things are connected right now, there is still 99% of things that we could
 connect. Not to say that we need to connect everything, but there is still a
 lot of stuff that's out there that we can connect and it's been predicted by
 the year 2020 that we're gonna have 50 billions devices that are connected to
-the internet. Now that is in my opinion minid blowing.
+the internet. Now that is in my opinion mind blowing.
+
 This has been fantastic and I wanna thanks every body here who has provided
-input and helped explain what is the internet of everything, what is this
+input and helped explain, you know, what is the internet of everything, what is this
 opportunity. The internet of everything takes into account or takes advantage
 of 4 key pillars people, primary beneficiaries of it facilitated by processes
-that takes into account data that is generated by thingd. ANd so it's those 4
+that takes into account data that is generated by things. And so it's those 4
 pillars people processes data and things that are kind of the key attributes or
-the handholds if you will, the componnent of the internet of everything that
-help us realize this value
+the handholds if you will, the components of the internet of everything that
+help us realize this value.
 
-fascinating stuff ! I'd like to thanks all of ou guys, Bernadette, Bob, dane,
+Fascinating stuff ! I'd like to thanks all of ou guys, Bernadette, Bob, dane,
 rodrigo for joining me on this podcast. We hope for you guys, our audiance,
-that you're intrigued and inspierd to investigate the internet of everything
+that you're intrigued and inspired to investigate the internet of everything
 and how it can change the way you work, live, play, and learn, so until next
-time
+time.
 Thanks for listening !
