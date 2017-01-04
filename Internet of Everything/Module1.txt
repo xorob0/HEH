@@ -204,3 +204,35 @@ processes and you know we've definitely talked about it a little bit in the
 context of this conversation and, you know processes beeing called out by cisco
 and the definition of IOE is one of those core pillars. Describe that a little
 bit for me to end, You know, what is processes in this context
+
+Processes is pretty much the thing that interconnects the people the data and
+the things. The processes is the innerconnection of those three things and, in
+the curiculum it defines the processes as the ability to deliver the right data
+to the right person or thing, or device, at the rght time. And that's really
+what the process piece is. It's how that data in the internet of everything,
+how it flows, how it's beeing utilizes. The processes are the integration
+piece, they facilitate an intergration between people wich the curiculum
+defines as a people to peolpe connection, so people exchanging data with other
+people wheter it's through a social networking, applications over the internet
+or something like that and then machine to people, so people recieving real
+time data over the internet to their smrtphone or their smartwatch or some type
+of device and then also machine to machine, so we have machines, we have smart
+devices, we havesmart sensor in the home, we have smart sensor in the field, in
+industie, in retail, commercial uses and those devices are picking up
+information that wasn't capable before, but today, we do have the capabilities,
+with the advance technologies, the advances in computers, the advances in the
+amount of storage of data that we can do, with the fact that the internet is
+now so much more expensive with cloud computing. SO those connections, machne
+to machinr, machine to people, and people to people are more relevent today,
+given that this is the right time-place because our technology has advanced so
+far that we can now, we can take in this data from everywhere and we can
+process it, we can analyze it. SO the process is really, that's what it does,
+it brings the people, the data and the things together
+
+So, as we talked about the internet of everything and people beeing the
+ultimate beneficiairy of the opportunity and what it represents and they are
+realizing those benefits through new processes that we're able to take
+advantage of the inforation that is now available. SO as we talked about
+information, I've heard the term data, we talked about the data as one of these
+pillars and the also I heard earlier the term big data in that context if you
+guys could come and just a little bit on what is data
