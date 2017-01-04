@@ -40,4 +40,67 @@ buy that pair of shoes. So you push the address of the mall into your GPS and
 you just go to that mall. Your car ,because of the GPS, it knows where it-s
 close to the mall and when it approches the mall it is able to talk to the
 computer at the mall handling the parking lot and ask for a parking spot. When
-comming in a mall, I need a parking spot
+comming in a mall, I need a parking spot. The mall computer handeling the
+parking lot has informations of course on the parking lot what's taken and
+what's available, ut it also knows about the weather, it knows about the city,
+it knows about what time it is, it knows that it's about to get a rush hour,
+And it knows also that in that specific city, the north portion of the city get
+really bad when it's rush hour and it's about to rain. So the computer picks up
+a free parking spot toward the south side of that mall to make it easyer for
+you to leave the mall. So the computer get's that information through your gps
+and now you can safefully navigate to what is currently at that specific
+moement, the best parking spot in the mall that's available to you. This is the
+IOE, becaus eif you think about it, you placed the call to an other person,
+wich is an interaction between two people : People to people. Because of that,
+you entered an address into you GPS in your car, this is an interaction between
+a person and a machine, right it's a people to machine type of interaction. As
+the mall computer was making a call of the best parking spot for you, it needed
+to rely on a bunch of data on the weather, on the city itself, on the parking
+spot that were actually open for use. So that's the data, right? You're using
+the data to do that. And this is all possible because it relies on
+comunications protocols and applications and all kinds of structures details
+that are going on the background. That's what we call the process. So this is
+the long answers, I used kind of an exemple, but that's the IOE. That's exactly
+a way to interact to connect people, things processus and data.
+
+Sounds awefully complex, sounds complex, sounds like there is a lot of
+interactions, there is a lot of things going on. it makes me wonder, I mean,
+part of value of the internet right now is just it's the ubiquity of it. And so
+It kind of make me wonder as we talk about the internet of Everithing, while
+you, Rodrigo, you're really lining out kind of , you know , the opportunity or
+the potential of it, you know, I find myself wondering, you know, how big of a
+deal is it  really ? You know bob inside of the things that you've been
+researching, the things that you enderstand, you know, what can you land in an
+answer to that question of how big of a deal is the internet of Everithing ?
+
+Well, I my humble opinion, it's a mass of big deal, you knwo when we think of
+the internet of everything, I think right now, we're at the very tip of an
+iceberg or at like, the beginning of an avalanche. And I think, back to the
+early 90's when I remember seeing on the news they where talking about this
+thing called the internet and something called the world wide  web and you know
+, and we'd be able to communicate with people around the world and easily and
+such and I remember at the time thinking "Waw ! this is gonna really cool but
+how big is it going to get ?", And you know, within a matter of years, no five
+year later, ten years later, like the internet has now become something that we
+all use and think as something we should have available to us. The UN say that
+the internet is now something that it's a vital right for humans to have. ANd
+you know, consider as well like cellphones or phones 30 the years ago you
+just talked to people and 15 years ago cellphones you could text. But take what
+your smartphone can do now. You know, it's, it can connect all kinds of things,
+you can research all kind of things, it connect to your car, it connect to
+like, at home I have a thermostat where it's controlled, I can control it with
+my phone. It's all connected ! Companies use , you know use the, manage their
+energy more efficiently as well, like, ?helium? ventilation systems in buildings
+before ?all pneumatic? . But now it's all automated and connected to the
+networks, so a company can adjust, you know, temperatur more efficiently, they
+can close light more efficiently and so on so forth
+
+Well I recognise what you are talking about, I mean like lot of things
+beeing connected. A question I find myself asking as the release the internet of
+Everithing, you know, while i've recogniezed the value and the savings that I
+have personnaly benefited from the internet in the past phases of the internet.
+You know as I think of the internet of Everything, i'm looking for where dos it
+add value to my life, how does it improve my life, our lives, everybody's
+lives. Bernadette, I am wondering if you know kind of based of the things that
+you've been researching as well and conducting analysis against. Where are you
+finding that the internet of everything adds value ?
