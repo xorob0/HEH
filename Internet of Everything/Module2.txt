@@ -1,0 +1,6 @@
+This is Jeremy Creech for Cisco systems and you are listening to the second of
+a series of podcast introducing the Internet of Everything, or as we call it
+the IoE. This podcast serie is a companion to the Cisco networking academy's
+introduction to the IoE course and my guest today are joining me again from the
+first episode : Rodrigo Floriano, Dane Albragetti, Bob Fishon and Bernadette
+O'Bryan
