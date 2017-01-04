@@ -1,0 +1,43 @@
+Hello, this is Jerremy creech, I am a manager at Cisco's system.
+I am working inside the product developpement for the Cisco's networking
+accademy program And you are listening to the first of a serie of podcast
+introducing the internet of everithing, or, as we call it, the IOE.
+This podcast serie is a companion to the Cisco's networking academy
+introduction to the IOE course and today we will be answering the question
+"What is the IOE".
+
+My guest today are Dane Albargetty, you might know him from danecourses.com. He
+is also a cheap contributor inside the content developpement for the networking
+accademy program ad also joining us is Rodrigo odriono Technologist
+extraordinary and also key contributor to a lot of the activity developpement
+and content developpement inside of the networking academy program as well.
+And then also joining us from the Cartel of northies is Bernadette O'Brian,
+Networking academy instructor and also contributor to networking academy
+developpement and the content we create.
+And the last and certenely not least is BOB Fishon also a networking academy
+instrucor, award winning instructor in canada. Also a Cisco Press author.
+
+So as we talked about the evolution of internet we witnessed a number of
+different distinct phases. Among these phases is connectivity starting int he
+late 60's and that's when, you know, we were just starting to get disparate
+cmputing system connected together just for the basic sharing of information.
+From there it kind of transitionned into a system of exchange with the network
+economy, where thing became more transactional. We saw the rise of e-commerce
+and then, more recently we've seen the collaborative experience in the internet
+where getting the right people doing the right thing together at the right
+time, you know, all empowered and facilate by the internet, but most recent is
+the current tranistion that's taking place with the internet of everything, the
+IOE. And so, Rodrigo, can you tell me what is the IOE ?
+
+So, I'm just gonna give you an exemple :
+Let's say you need to buy a pair of shoes for someone that you love and so you
+get on your phone and you give im a call and of course this is a video call.
+This is not the 1960's anymore. So you get on your phone, you place the video
+call and you have a little conversation trying to learn a litle more about what
+kind of shoes the person like right ? So, once you know that you get in your
+car and you realize that the mall close-by hase the perfect store for you to
+buy that pair of shoes. So you push the address of the mall into your GPS and
+you just go to that mall. Your car ,because of the GPS, it knows where it-s
+close to the mall and when it approches the mall it is able to talk to the
+computer at the mall handling the parking lot and ask for a parking spot. When
+comming in a mall, I need a parking spot
