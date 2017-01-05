@@ -1,9 +1,9 @@
 Hello, this is Jerremy creech, I am a manager at Cisco's system.
 I am working inside of the product developpement for the Cisco's networking
 accademy program.
-And you are listening to the first of a serie of podcast introducing the
+And you are listening to the first of a series of podcast introducing the
 internet of everything, or, as we call it, the IOE.
-This podcast serie is a companion to the Cisco networking academy's
+This podcast series is a companion to the Cisco networking academy's
 introduction to the IOE course and today we will be answering the question
 "What is the IOE".
 

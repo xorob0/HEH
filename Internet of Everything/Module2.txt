@@ -1,6 +1,302 @@
-This is Jeremy Creech for Cisco systems and you are listening to the second of
-a series of podcast introducing the Internet of Everything, or as we call it
-the IoE. This podcast serie is a companion to the Cisco networking academy's
-introduction to the IoE course and my guest today are joining me again from the
-first episode : Rodrigo Floriano, Dane Albragetti, Bob Fishon and Bernadette
-O'Bryan
+This is Jeremy Creech for Cisco Systems and you're listening to the second in a serie
+of podcast introducing the Internet of everything or as we call it the IoE
+This pocast serie is a companion to the Cisco networking Academy's introduction to
+the IoE course and my guest today are joining me again from the first episode
+Rodrigo Floriano, Dan Albragetti, Bob Fishon and Bernadette O'Brian.
+In our previous show we answered the question you know, what the heck is the
+IOE.Today I'm looking forward to exploring this more as we talked about connecting the
+unconnected. So Roderigo in the last show I remember kind of presenting the possibility
+of a sensor in my coffee cup that alerts someone to come and fill it, 'cause,
+you know, it's not gonna be me how fill it, after all, you know, I should know if it's
+empty right ? But if somebody can come fill my cup for me. But my question is
+the IoE really about having, let say, my alarm clock tell a coffee pot to brew some more
+joe ?
+
+Yea that's just like one example of the IoE, right, and the IoE is actually that
+and much much more, once we managed to wrap our heads around the fact that we
+can have things now talking to each other and working to make our life's
+a more efficient and actually more optimized rights we realize that the
+possibilities are really endless in fact there is a video in the course, I
+think it's page 3.1.1.1 that is talking about that subject I'm sorry if I am spoiling
+the video for anybody but actually let me ask a question. Hey Bob how many
+devices that you have in your home right now they are conected to the Internet
+?Yeah
+
+Oh Goss there is all kinds ! In my home and in, like in a lot of other homes and
+typically there will connecting using a wireless or two a wireless router but,
+you know, we can have, you know, most families have computers laptops smart
+phones tablets a gaming consoles like an Xbox. But we also have like smart TVs,
+Apple TV and these are all examples of machine to people communication. There
+is also, you know,  machine to machine connections that we have in our homes
+for example my wife and I are on a get fit program right now so, you know,she
+want me to lose weight so she got me a pedometer and we
+got a weight scale that collects data and wirelessly sends data the servers in
+the cloud and then we can use our iPhones and iPads the download or to look
+at the information to see how good or ,you know, how bad were doing and to see if
+her health plan is working. And there's other examples like recently we got a
+nest thermostat and it's another example of machine to machine to communications
+and now -these- there is whole system, I don't know of some of you folks are
+aware of this is a whole system like the nest thermostat can also connect with smoke
+alarms and CO2 detectors and if you want to get your car to talk to
+to the nest thermostat to the turn it on when you're on your way home. And one
+of the things that I noticed as well, I was on their website the other day they
+have this thing called life affects, a lightbulb for people that are hearing
+impaired so if there is an emergency it'll have a red light flashing
+to conform how, you know, something, they should leave the home such.
+
+How is all this stuff connected then, how is it communicating.
+
+Whaarrraaa, I don't know how deep you want me to go here so I'll keep a low
+light but actually the course does a really nice job covering
+this and explains this in more details. I think it's chapter 3 or such. But back to the
+home we either connect wirelessly or with a wired connection so a wired connection
+would be your typical ethernet cable and laptop to the router you can even use
+your existing power lines now to extend your wireless network so if you're
+getting a bad connection in part of a home you just plug the other device into
+the wall socket your regular electoral socket and it extends your wireless
+connectivity. And then there is the wireless aspect of it as well and for that
+we're usually talking about 802.11 Wi-Fi standards so for example 802.11n or g
+or the newer 802.11ac standards. But you know what's really
+mind-boggling is that we have all of these device that can connect but it's how
+they talks, so that's the other part of how to communicate it's the whole aspect of
+standards and in such. And in networking we call that protocols, devices talk to each
+other and they need to agree on sets of rules and such just like we do
+when we talk to each other and, you know, I have to say that the course again does a
+really good job of covering this information how things Do connect
+
+That's great Bob about, you know, how everything is connected in our house but what stuff outside
+of our house we've been hearing in the course about all the sensors that are
+outside that are in our cars that are in factories and RFID's etc. What about
+these non-IP enabled devices how to those communicate ?
+
+Well it's interesting because
+the idea right now of these smart sensors and the fact that we have all these
+IP enabled devices that are sensors we also have sensors that are non-IP
+enabled a lot of the very low power wireless sensors that are out there use
+protocols that are so small in the power usage, it's so small and the bandwidth is
+so small that they're not always capable of running IP addressing so some of
+those devices are using proprietary protocols at layer 2 and layer 3 to
+communicate to controllers and then the controller is the device that will be
+IP enabled that will then communicate to the cloud or to the network at large.
+So many sensors are not IP enabled right now you have millions of devices that
+had been deployed for instance in the home and a lot of those devices need a
+controller to send information to that is IP enabled to talk and those
+protocols it's pretty interesting right now there's a huge kind of battle going
+over this very issue we have protocols like ZigBee which are
+proprietary and don't really want to talk or communicate using the TCP/IP stack
+in then you have other protocols like six low wireless PAN which is an IPv6
+low power wireless protocol that basically is open source and nonproprietary and
+works with the GPL. So there's a battle kind of going on right now whether
+we're gonna have these sensors which will be IP enabled and mainly IPv6 enabled
+'cause if you think about it if we're gonna connect billions of devices in the next six years
+we're gonna need addressing for those devices and it's not gonna be IPv4, it's
+gonna be IPv6.
+
+So let me make sure I understand here. Dan, you had elluded to layers 2 and layers
+3, which with my networking background, I have some familiarity with, that's the
+OSI networking model and layer 2 and layer 3 dealing with how things connect
+and how they communicate or the protocols that they would uses is what Bob was
+elluding to earlier.
+
+And in the Internet today and we talk about the IP
+addressing which is, you know, you have to have a source and a destination for two
+things to communicat or to talk to one another. Currently, you know, IPv4 is in
+large part what is used to do that. Now, I've heard you talk about IPv6 and my
+understanding is that that is a new spectrum of addresses that facilitates a
+much larger pool of potential addresses than what is presently available with
+IPv4 the issue is as it were starting to come were saturating the pool of
+available addresses out of IPV for so when you talk about IPv6 and we talk
+about connecting the unconnected in an hour talking about RFID's sensors
+actuators also just a huge number approaching billions more things getting
+connected to the Internet the mechanisms that facilitate that connection
+requires the ability to scale hence things like IPv6 do I have the right
+absolutely the IPv6 address space is what's going to be used on moving forward
+to connect all these billions of devices that are now being be online but not
+only that the IPv6 header of the way the IPv6 packet is built it has options
+built-in for for security it's it's streamlined and so it's it's it's pretty
+interesting for those who are hesitant on IPv6 the Internet of everything is
+definitely a huge field in which IPv6 is going to roll out and we already see
+it in these low powered wireless sensors that are now available and that's,
+what you're referring to the six low. But then you talk about there is there's
+also another group that advocating no IP at all with with zig B is is that
+correct that's correct the safety protocols already been implemented across
+millions of devices mainly in home area networks in California and so they
+don't want to I think I think they're hesitant to change but the part of the
+problem was when zig B protocol was developed they were trying to find a
+solution and they felt that the TCP/IP protocol stack was too big basically too
+much information for the type of low-power sensors that are communicating so we
+have it on many sensors in the field that are non-IP enabled devices that have
+to talk to a controller which is almost like the command center that then
+gathers the information from the sensors and so that is oftentimes a
+proprietary on non-Internet-based protocol but a lot of people are moving away
+will there's a push to move away from zig B toward something that would be
+readily Internet available as a couple a couple different flavors and one where
+you have direct Internet connectivity all the way to the sensor and the other
+word news, go-between business controller if you will write and either way it
+presents also security challenge for those of us who are interested in security
+because you don't want someone to be able to take control of devices in your
+home network you know you have point-of-sale machines you have cope machines
+with the credit card readers all those devices now if their internet-enabled
+become a security risk from that perspective it makes me think back to you in
+the first episode we talked about the pillars of the eye being the people in
+the sayings and the processes but they are big part of that was data and and
+I'm really starting to see the case here for the sheer amount of data that can
+start to be generated by thousands and millions billions more things getting
+connected with that data comes the need to be able to analyze process and
+compute against that volume of data how are we how we handle that you know
+where do we handle, take a stab at answering that one man Tammy, and I really
+like the way the course approaches this by looking at past present and future
+computing models because you as we said earlier it is about scaling to deal
+with this and in the past businesses used a client/server computing model you
+meaning that they utilized on-site centralized servers to provide services and
+storage etc. to their abuses and their organization but that's not going to
+work with the amount of data were talking about you know that it's just simply
+not the computing model of choice anymore the rapid expansion of the Internet
+as more people and and more things become connected on the huge increase in
+geographically dispersed mobile users simply the massive amounts of data that
+are being generated have fueled the move to cloud computing cloud computing
+allows businesses and individuals to subscribe to those services using a
+network of servers that are located outside of the organization and access to
+the Internet so the network service provide high-speed intensive cube computing
+Capability that were going to need and that are definitely beyond the scope of
+many businesses are currently so that's the move that's that's where most
+business and businesses are going to deal with this but also the issue of some
+of this data that were getting him is time sensitive and we need to analyze it
+and act upon that feedback that were getting from sensors very quickly and
+having to send the data all the way to the cloud and then back to the local
+network to get those decisions made can be just to timely sell a variation of
+Cloud computing call file computing is being employed to solve this issue this
+file computing brings the distributed services service to the edge of the
+network so we can do that analysis closer to home safe time and also at
+security so some of that money that sensitive information can be kept within
+the organization in the course the example of the smart traffic light system is
+used to not to demonstrate an application of fog computing so the traffic
+lights I'm you sensors to detect pedestrians traffic patterns and even weather
+condition that the smart traffic light system then uses local fog computing to
+do real time analysis right there and then of that data from the sensors to
+make immediate decisions like you can coordinate with other traffic lights in
+the neighborhood on by adjusting the signal cycles you know because of heavy
+traffic in the area or light traffic whatever it may be and even road
+conditions so I think the fog computing really brings the idea of localizing
+some of this analysis and keeping it right within the network and on the edge
+of the network solicited talk about the burner that shows smart traffic lights
+are able to take advantage of fog computing. Thereby taking advantage of the
+data that is generated by those sensors when it's most valuable it but an
+extension of that in the cloud might be looking over the historical record of
+what those sensors have gathered over time kind of a longitudinal analysis to
+be able to find what are those bigger larger trends if you will that they can
+then take into future city planning Street planning or whatever it'll maybe
+even future adjustments to do whatever the algorithms are being used for the
+real-time data is being collected inside the smart traffic light system at the
+fog level is that kind of like how the to my play together exactly you you got
+it just right I really like the smart traffic light example to me I'm thinking
+back to what we discussed and in our previous upset upset one and when we talk
+about the I/O we talked about the pillars of the eye being the people data
+process in sayings and it's interesting how the smart traffic light system,
+pulls all the other thought about how to make things a how to optimize traffic
+how to make things more efficient more safe and having that benefit to the
+people and doing that by leveraging all of these things those things being the
+sensors and detecting what is the traffic detecting what are the environmental
+variables and then taking into account all that data to determine what is the
+best most efficient way to to make use of that system to benefit the people in
+and that's all being facilitated by the process it makes me think back to
+inside of chapter 1 there was a a stories of the connected which really kind of
+brought to life in a house some of this technology is really impacting people's
+lives you know we talked about like in the Barcelona example with the parking
+lots we talk about Eli and Justin thinking about the parking you adjusting
+parking inside a large city I can start to think about all the other different
+types of government services or public services that happen at the I/O we can
+start to benefit I wonder among you guys the are there any other stories any
+other examples that you can think of where like the smart traffic light system
+the other things that you've experienced at this point are there things that
+you've heard of the content to lend some more light on what the benefit is of
+the eye we the curriculum mentions how smart sensors are used in an airport and
+how let's say a jet engine generates terabytes and terabytes of data just
+incredible amounts within such a short time. His shortest 30 minutes hundreds
+of terabytes of data and that data is going to need to be collected and
+analyzed and the Internet of everything makes that possible fact that all these
+companies can now have real-time data I experience it when I'm purchasing
+something online that I want to track that package and I were using UPS and I
+not enjoy seeing you know where my where the package is what the what PO Box
+it's leaving from what truck it's on I enjoy ordering my pizza knowing that
+it's five minutes away and I think it also ended up about this idea it also
+makes sense that if you are able to process and extract information that you
+needed from background data right spot can save a lot of money does not have to
+store you will have to move it you don't have to worry about that anymore it's
+already you know you to the information that you needed out of it it's now it's
+useless you know this information is possibly much smaller than the actual
+brother so yeah it makes total sense to move towards the this kind of beauty it
+makes me think of there is a there's a lot of other articles I've been reading
+101 I remember reading something about in the mining industry how there's these
+smart connected mining's machines that are that are able to coordinate with
+other types of equipment just improve the mining efficiency in addressing just
+huge gains in the productivity which is reducing the cost associated with raw
+resources by the other example becomes the mine is Tesla with her cars and I
+remember seeing an article recently around a Tesla vehicle that you have the
+needed repairs is able to taunt him Sicily call for no whatever those repairs
+are weather was a software download or you just need to send a a some sort of
+notification to the customer saying hey organa Tesla's, send somebody to come
+and pick up your car for you take it to the facility for the repairs are needed
+and then bring it back to you I these are the kinds of things that are just
+starting to be realized with the with the unit of everything all right another
+thing that comes to mind is a deal where I live in you getting into renewable
+resources of energy no wind turbines and with that you're talking about smart
+wind turbines and these are wind turbines that are you I don't know if using
+those wind turbine farms process like massive areas with giant wind turbines
+just all spinning together but talk about other networking those together and
+using software so that they can adjust the blades between all of these
+different wind turbines so that they can minimize the impact that they have on
+one another and improve their efficiency together as a whole so now is not just
+one these wind turbines operating in in isolation of the other ones but now
+it's a it's a networked system generating power from renewable resource
+together which we get again improves the productivity and efficiency getting
+more for less it makes me think of another thing that I sought not too long ago
+which was a there was like a tennis racket handle even I mean covering the
+spectrum of things from mining cars to wind turbines to now I am a tennis
+player or racquetball player and I want the technology to be able to know you
+they put sensors inside of a racket and then it has connectivity to your mobile
+device and is able to track and analyze know how you play the game over time
+and give you tips on how to better leverage your racket how to better leverage
+your swing arm how to put more speed on the ball how to put better spent on the
+ball in assisted in in these are the types of things that the I/O he is
+realizing in the covers you in that gambit that I just talked about all way
+from you massive mining operation you all the way to the racket it's in my hand
+it's a it's a fascinating time fascinating thing to think about I was reading
+today about wireless sensor network projects that are being done with Arduino's
+so small microcomputers and small chips that can run wireless networks and are
+actually creating home networks using TCP/IP version 6 or IPV six network
+stacks and it's pretty interesting so as not to something that's I think you
+come down from companies and corporations to us but also home users are able to
+play with this technology right now with some of these small systems hobbyist
+kids there playing with the raspberry pine with the Arduino and their working
+with six low wireless pan and their working with these 802.15 Bluetooth style
+networks to create their own sensors so it's going to be something that
+develops I think really really quickly I was also reading today about on
+there's an article on the web about a country that looked at shipments that
+came in for a product and him and to consider which countries but these
+products were teapots and when they looked at the manifest it showed one weight
+and then when they when they weighed him again it that showed a different
+weight and they took apart these teapots and found wireless devices wireless
+chips in the teapots and when they looked at the they claim that the the
+wireless chips in the teapots were looking for wireless networks in the home
+and distributing malware in the home so we could have the security situation
+where you know where there's already wireless sensors in your home and your
+your common devices that potentially could be a security risk and the dark side
+of the aisle we guess minimart is it's it's a scary thought but the either your
+refrigerator could be hacking your wireless network at home right now while you
+that you get home from work and you realize that your fridges been turned off
+and there's water everywhere and someone to deny off service in your files so I
+guess the big question here is how do we secure all the stuff you know that I'd
+be a good topic for another podcast I think definitely I think of something the
+love, why like to thank everybody for joining us on the podcast today really
+enjoyed the conversation talking about what all the possibilities are from
+alarm clock in the coffee pot to together to how these things connect inside of
+your house how things communicate together how they how the computing works
+with the clouds and fog are just fantastic conversation in, leading into what
+are some of the concerns security and looking for talking about and subsequent
+podcasts thanks for listening know more about what you just heard check out our
+show notes at www.nettedCAD.com/group/offerings/IOD initial research and
+writing for these podcast by Rick Graziani and Dave Holsinger are audio
+producer is Dan Epstein the Internet of everything podcast series is produced
+by Jeremy Creech and Jane Gibbons and is brought to you by the Cisco networking
+Academy
