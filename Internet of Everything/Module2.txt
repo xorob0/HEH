@@ -102,113 +102,136 @@ And in the Internet today and we talk about the IP
 addressing which is, you know, you have to have a source and a destination for two
 things to communicat or to talk to one another. Currently, you know, IPv4 is in
 large part what is used to do that. Now, I've heard you talk about IPv6 and my
-understanding is that that is a new spectrum of addresses that facilitates a
+understanding is that is a new spectrum of addresses that facilitates a
 much larger pool of potential addresses than what is presently available with
-IPv4 the issue is as it were starting to come were saturating the pool of
-available addresses out of IPV for so when you talk about IPv6 and we talk
-about connecting the unconnected in an hour talking about RFID's sensors
-actuators also just a huge number approaching billions more things getting
-connected to the Internet the mechanisms that facilitate that connection
-requires the ability to scale hence things like IPv6 do I have the right
-absolutely the IPv6 address space is what's going to be used on moving forward
-to connect all these billions of devices that are now being be online but not
-only that the IPv6 header of the way the IPv6 packet is built it has options
-built-in for for security it's it's streamlined and so it's it's it's pretty
+IPv4. The issue is that we're starting to come/ We're saturating the pool of
+available addresses out of IPv4. So when you talk about IPv6 and we talk
+about connecting the unconnected, you know, now we're talking about RFIDs,
+sensors,
+actuators all. You know just a huge number, you know, approaching billions more things getting
+connected to the Internet. The mechanisms that facilitate that connection
+requires the ability to scale, hence things like IPv6. Do I have the right ?
+
+Absolutely, the IPv6 address space is what's going to be used on moving forward
+to connect all these billions of devices that are now being be online. But not
+only that, the IPv6 header, the way the IPv6 packet is built it has options
+built-in for security, it's streamlined and so it's pretty
 interesting for those who are hesitant on IPv6 the Internet of everything is
-definitely a huge field in which IPv6 is going to roll out and we already see
-it in these low powered wireless sensors that are now available and that's,
-what you're referring to the six low. But then you talk about there is there's
-also another group that advocating no IP at all with with zig B is is that
-correct that's correct the safety protocols already been implemented across
+definitely a huge field in which IPv6 is going to roll out. And we already see
+it in these low powered wireless sensors that are now available and,
+
+And that's kind of what you were referring to with, like, the six low PAN. But
+then you talked about/ there is also another group that advocating no IP at all
+with with zigBee, is that correct ?
+
+That's correct, the ZigBee protocols already been implemented across
 millions of devices mainly in home area networks in California and so they
-don't want to I think I think they're hesitant to change but the part of the
-problem was when zig B protocol was developed they were trying to find a
-solution and they felt that the TCP/IP protocol stack was too big basically too
-much information for the type of low-power sensors that are communicating so we
-have it on many sensors in the field that are non-IP enabled devices that have
+don't want to/.I think they're hesitant to change but the part of the
+problem was when zigBee protocol was developed they were trying to find a
+solution and they felt that the TCP/IP protocol stack was too big, basically too
+much information for the type of low-power sensors that are communicating. So we
+have, you know, many sensors in the field that are non-IP enabled devices that have
 to talk to a controller which is almost like the command center that then
 gathers the information from the sensors and so that is oftentimes a
-proprietary on non-Internet-based protocol but a lot of people are moving away
-will there's a push to move away from zig B toward something that would be
-readily Internet available as a couple a couple different flavors and one where
+proprietary, non-Internet-based protocol.
+
+Ok.
+
+But a lot of people are moving away or there is a push to move away from zigBee
+toward something that would be readily Internet available.
+
+Allright, so there is a couple different flavors anyway. One where
 you have direct Internet connectivity all the way to the sensor and the other
-word news, go-between business controller if you will write and either way it
-presents also security challenge for those of us who are interested in security
+where, you know, there is kind of go-between this controller if you will.
+
+Right, and either way
+presents also a security challenge for those of us who are interested in security
 because you don't want someone to be able to take control of devices in your
-home network you know you have point-of-sale machines you have cope machines
+home network you know you have point-of-sale machines you have coke machines
 with the credit card readers all those devices now if their internet-enabled
-become a security risk from that perspective it makes me think back to you in
-the first episode we talked about the pillars of the eye being the people in
-the sayings and the processes but they are big part of that was data and and
-I'm really starting to see the case here for the sheer amount of data that can
-start to be generated by thousands and millions billions more things getting
-connected with that data comes the need to be able to analyze process and
-compute against that volume of data how are we how we handle that you know
-where do we handle, take a stab at answering that one man Tammy, and I really
+become a security risk from that perspective.
+
+It makes me think back to, you know, in
+the first episode we talked about the pillars of the IoE being the people, the
+things and the processes but, you know, a big part of that was data. And, you
+know, I'm really starting to see the case here for the sheer amount of data that can
+start to be generated by, you know, thousands and millions billions more things getting
+connected. And with that data comes the need to be able to analyze process and
+compute against that volume of data. How are, how do we handle that, you know,
+where do we handle ?
+
+I'm gonna take a stab at answering that one Jeremy, and I really
 like the way the course approaches this by looking at past present and future
-computing models because you as we said earlier it is about scaling to deal
-with this and in the past businesses used a client/server computing model you
-meaning that they utilized on-site centralized servers to provide services and
-storage etc. to their abuses and their organization but that's not going to
-work with the amount of data were talking about you know that it's just simply
-not the computing model of choice anymore the rapid expansion of the Internet
-as more people and and more things become connected on the huge increase in
-geographically dispersed mobile users simply the massive amounts of data that
-are being generated have fueled the move to cloud computing cloud computing
+computing models because, you know, as we just said earlier it is about scaling to deal
+with this and in the past businesses used a client/server computing model. You
+know, meaning that they utilized on-site centralized servers to provide services and
+storage etc. to their users and their organization but that's not going to
+work with the amount of data were talking about you know it's just simply
+not the computing model of choice anymore. The rapid expansion of the Internet
+as more people and more things become connected, the huge increase in
+geographically dispersed mobile users, simply the massive amounts of data that
+are being generated have fueled the move to cloud computing. Cloud computing
 allows businesses and individuals to subscribe to those services using a
-network of servers that are located outside of the organization and access to
-the Internet so the network service provide high-speed intensive cube computing
-Capability that were going to need and that are definitely beyond the scope of
-many businesses are currently so that's the move that's that's where most
-business and businesses are going to deal with this but also the issue of some
-of this data that were getting him is time sensitive and we need to analyze it
+network of servers that are located outside of the organization and access
+trough the Internet. So these network servers provide high-speed intensive computing
+capabilities that we're going to need and that are definitely beyond the scope of
+many businesses currently. So, that's the move, that's  where most
+businesses are going to deal with this. But also, we've got the issue of some
+of this data that we're getting him is time sensitive, you know, and we need to analyze it
 and act upon that feedback that were getting from sensors very quickly and
 having to send the data all the way to the cloud and then back to the local
-network to get those decisions made can be just to timely sell a variation of
-Cloud computing call file computing is being employed to solve this issue this
-file computing brings the distributed services service to the edge of the
-network so we can do that analysis closer to home safe time and also at
-security so some of that money that sensitive information can be kept within
-the organization in the course the example of the smart traffic light system is
-used to not to demonstrate an application of fog computing so the traffic
-lights I'm you sensors to detect pedestrians traffic patterns and even weather
-condition that the smart traffic light system then uses local fog computing to
+network to get those decisions made can be just to timely. So a variation of
+Cloud computing called fog computing is being employed to solve this issue. This
+fog computing brings the distributed service to the edge of the
+network so we can do that analysis closer to home. Saves time and also add
+security, so someof that/ I mean that sensitive information can be kept within
+the organization. In the course the example of the smart traffic light system is
+used  to demonstrate an application of fog computing so the traffic
+lights use sensors to detect pedestrians traffic patterns and even weather
+condition that. The smart traffic light system then uses local fog computing to
 do real time analysis right there and then of that data from the sensors to
-make immediate decisions like you can coordinate with other traffic lights in
-the neighborhood on by adjusting the signal cycles you know because of heavy
+make immediate decisions like, it can coordinate with other traffic lights in
+the neighborhood by adjusting the signal cycles, you know, because of heavy
 traffic in the area or light traffic whatever it may be and even road
-conditions so I think the fog computing really brings the idea of localizing
+conditions. So I think the fog computing really brings the idea of localizing
 some of this analysis and keeping it right within the network and on the edge
-of the network solicited talk about the burner that shows smart traffic lights
+of the network.
+
+So listening to you talk about that, Bernadette, so smart traffic lights
 are able to take advantage of fog computing. Thereby taking advantage of the
-data that is generated by those sensors when it's most valuable it but an
-extension of that in the cloud might be looking over the historical record of
+data that is generated by those sensors when it's most valuable.But an
+extension of that into the cloud might be looking over the historical record of
 what those sensors have gathered over time kind of a longitudinal analysis to
 be able to find what are those bigger larger trends if you will that they can
-then take into future city planning Street planning or whatever it'll maybe
-even future adjustments to do whatever the algorithms are being used for the
+then take into future city planning, street planning or whatever. You lnow, maybe
+even future adjustments to whatever the algorithms are being used for the
 real-time data is being collected inside the smart traffic light system at the
-fog level is that kind of like how the to my play together exactly you you got
-it just right I really like the smart traffic light example to me I'm thinking
-back to what we discussed and in our previous upset upset one and when we talk
-about the I/O we talked about the pillars of the eye being the people data
-process in sayings and it's interesting how the smart traffic light system,
-pulls all the other thought about how to make things a how to optimize traffic
+fog level. Is that kind of like how the to might play together ?
+
+Exactly you've got it just right
+
+I really like the smart traffic light example 'cause I'm thinking
+back to what we discussed and in our previous edpisode, episode one, you know
+and when we talked
+about the IoE, and we talked about the pillars of the IoE being the people data
+process and things and it's interesting how the smart traffic light system kind
+of
+pulls it all together. Talking about how to make things/ how to optimize traffic
 how to make things more efficient more safe and having that benefit to the
-people and doing that by leveraging all of these things those things being the
-sensors and detecting what is the traffic detecting what are the environmental
+people and doing that by leveraging all of these things, those things being the
+sensors that are detecting what is the traffic, detecting what are the environmental
 variables and then taking into account all that data to determine what is the
-best most efficient way to to make use of that system to benefit the people in
-and that's all being facilitated by the process it makes me think back to
-inside of chapter 1 there was a a stories of the connected which really kind of
-brought to life in a house some of this technology is really impacting people's
-lives you know we talked about like in the Barcelona example with the parking
-lots we talk about Eli and Justin thinking about the parking you adjusting
+best most efficient way to to make use of that system to benefit the people and
+that's all being facilitated by the process it makes me think back to
+inside of chapter 1 there was a story of the connected which really kind of
+brought to life, you know, how some of this technology is really impacting people's
+lives. You know we talked about like in the Barcelona example with the parking
+lots we talk about, you know/ and just thinking about the parking, you know, adjusting
 parking inside a large city I can start to think about all the other different
-types of government services or public services that happen at the I/O we can
-start to benefit I wonder among you guys the are there any other stories any
-other examples that you can think of where like the smart traffic light system
-the other things that you've experienced at this point are there things that
+types of government services or public services that happen that the IoE can
+start to benefit. I wonder among you guys the are there any other stories any
+other examples that you can think of where like the smart traffic light system,
+other things that you've experienced at this point are there things that
 you've heard of the content to lend some more light on what the benefit is of
 the eye we the curriculum mentions how smart sensors are used in an airport and
 how let's say a jet engine generates terabytes and terabytes of data just
