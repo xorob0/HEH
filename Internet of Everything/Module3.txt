@@ -126,72 +126,94 @@ can do. I hope this explains sensors and actuators but, you know, the bottom lin
 these two things will play a huge role in connecting the unconnected in the
 IOE.
 
-I remember talking and in previous episodes about the machine to machine
-machine to people and people to people interactions in and Baba sounds like
-you're talking quite a bit on the machine to machine aspect and so I'm
-wondering can you tell me a little bit more or our summary tell me a little bit
-more about these interactions a happen inside the IOE solution and Neil were to
-people, and a lot Jeremy I'll answer that one for you and yet we've done a lot
-of talking about machine to machine interaction on but there's also two other
-important interactions and annihilate solution and that's machine to people and
-people to people the people to people interactions are really crucial because
-we talking about people I'm collaborating on in real time of a large geographic
-distances to solve problems and I took I think in an earlier pod cast, I
-mentioned the importance to him medicine in people experts and specialists can
+I remember talking in previous episodes about machine to machine,
+machine to people and people to people interactions and BoB, it sounds like
+you're talking quite a bit on the machine to machine aspect. And so I'm
+wondering, can you tell me a little bit more or somebody tell me a little bit
+more about these interactions that happen inside of the IOE solution and, you
+know, where do
+people come into that?
+
+Jeremy I'll answer that one for you. Yeah we've done a lot
+of talking about machine to machine interaction, but there's also two other
+important interactions in an IOE solution and that's machine to people and
+people to people. The people to people interactions are really crucial because
+we're talking about people collaborating in real time over large geographic
+distances to solve problems. And as I took/ I think in an earlier podcast, I
+mentioned the importance to medicine. You know, people, experts and specialists can
 become available to people over the network and also all kinds of educational
-experts can be available to people across the globe we've also got to talk
-about machine to people, and I think we example of the data that in our
-discussion and in the realm of health and fitness without all kinds of wearable
-kind of devices and sensors that give us feedback on this one particular I was
-reading about recently and is a subcutaneous sensor that can be sorted into
-your on and that monitor is constantly on your blood glucose levels actually
-can send wirelessly information to your healthcare provider and continue on it
-to let you know I'm what you numbers on it so it is a great example of machine
+experts can be available to people across the globe. We've also got to talk
+about machine to people, and I think we've had a ton of examples about that in our
+discussions and in the realm of health and fitness we've got all kinds of wearable
+kind of devices and sensors that give us feedback. And there's one in particular I was
+reading about recently and that is a subcutaneous sensor that can be sorted into
+your arm and that monitors constantly your blood glucose levels. That actually
+can send wirelessly information to your healthcare provider and to you on an
+app
+to let you know what you numbers. But you know/ it is a great example of machine
 to people but also on it goes one step further and send that information to
-your help healthcare provider as well is just you are in itself but listening
-to talk about that specific example Bernadette is so demanding is really one
-thing it sounds painful but once it's there you like a monitoring blood glucose
-levels makes me think of diabetics for example and needing kneading their
-insulin and eating at various times based off of what those glucose levels are
-reading and so I talked to the people to people machine the people aspect of it
+your healthcare provider as well as just you.
+
+I wonder/ but listening to you talk about that specific example Bernadette
+
+Yeah
+
+So, I mean, it's really one thing it sounds painful, inserting a sensor. But
+once it's there, you know, like a monitoring blood glucose
+levels it makes me think of diabetics for example and needing their
+insulin and needing it at various times based off of what those glucose levels are
+reading. And so while you talk about the people to people and the machine the people aspect of it
 is sounds like also there could be a machine to machine aspect to it where
 perhaps you know they have some sort of a system that injects the insulin and
-so based off of an automatic reading it could do an automatic injection exactly
-and that is and that is actually in development there is a nano distribution of
-fund of medication on as a result of those readings and of course in addition
-you know the healthcare provider can look at you know the readings over a
-period of time and make further analysis and diagnosis not just on this patient
-but even you know take all of this data and make other kinds of decisions like
-taking into account you got the you you get that real-time aspect of the data
-which is happening on the machine to machine level has a sensor reads the
+so based off of an automatic reading it could do an automatic injection.
+
+Exactly and that is actually in development. There is a nano distribution of
+medication as a result of those readings and of course in addition,
+you know, the healthcare provider can look at, you know, the readings over a
+period of time and make further analysis and diagnosis. Not just on this
+patient,
+but even, you know, take all of this data and make other kinds of decisions.
+
+And that's kind of like taking into account/ you got the/ you got that real-time aspect of the data
+which is happening on the machine to machine level, a sensor reads the
 glucose levels it determines whether or not it needs to inject insulin but then
 you have that historical data or the longitudinal perspective of the data which
-is your dad and more of a static state rather than data in motion that the
-healthcare providers are able to access in and take into account as they
-consult the respective patient yes Jeremy perfect so you know the real power
-and benefit of the IOE solution now is that we can create communications
-between machines to people and and people to people and machine to machine we
-can incorporate several of those a couple of those interactions in order to
-make those connections now as we've been talking we've got to get cut through
-that proprietary issue and you will be able to link IT and operational
-technology and I don't know if we defined operational technology but when
+is your that is more of a static state rather than data in motion that the
+healthcare providers are able to access and take into account as they
+consult the respective patient.
+
+Yes Jeremy perfect. So you know the real power
+and benefit of the IOE solution is that (from ?) we can create communications
+between machines to people and and people to people and machine to machine, if we
+can incorporate several of those, a couple of those interactions. In order to
+make those connections as we've been talking we've got to get cut through
+that proprietary issue and, you know, be able to link IT and operational
+technology and I don't know if we defined operational technology but we're
 talking about the proprietary systems that are often in place in manufacturing
-for example on that control of the hardware and the software inside of the
-manual and manufacturing plant so how those C equipment to help you talking
-about the technologies alike control the robots or control the I remember
-working in the cement plant doing some network consulting there and they had a
-series of of PLCs programmable logic circuits the controlled like how much our
-real resource lineman and rock was going into crushers and then how much is
-going into kilns and how much was being mixed in but all that operated on, some
-proprietary technologies and so it's a little you're alluding to is the need to
-be able to bridge that which was the operational technology with now more
-traditional IT technologies like there's a need for convergence there
-absolutely and you know that can solve some problems for example in the case of
-manufacturing the IOE using automotive industry example if the manufacturing
-floor can get feedback from social media have consumer surveys and orders that
-a specific model or even a paint color is in high demand process can be
-adjusted immediately so you obviously you know we can save an awful lot of time
-and money with this kind implementation or not I usually is like going into the
+for example, that control the hardware and the software inside of a
+manufacturing plant. So how those equipment...
+
+So, you're talking about the technologies that like, control the robots or
+control the/ I remember
+working in the cement plant doing some network consulting there and they had,
+you know, series of PLCs programmable logic circuits that control like how much
+raw resource ?lime? and rock was going into crushers and then how much was
+going into kilns and how much was being mixed. But all that operated on some
+proprietary technologies and so it sounds like what you're alluding to is the need to
+be able to bridge that, which was the operational technology, with now more
+traditional IT technologies, like there's a need for convergence there.
+
+Absolutely and you know that can solve some problems, for example in the case of
+manufacturing, you know, using automotive industry example. If the manufacturing
+floor can get feedback from social media, consumer surveys and orders that
+are specific model or even a paint color is in high demand process can be
+adjusted immediately. So you/ obviously, you know, we can save an awful lot of time
+and money with this kind implementation.
+
+Or not !
+
+Right !
+I usually is like going into the
 Christmas season they have to think about what they did last Christmas and now
 you can just think about what people are doing today to determine what products
 you need to create it on the floor as soon as possible nearly starting to
