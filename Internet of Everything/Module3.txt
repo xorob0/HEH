@@ -1,1 +1,274 @@
-Are you listening to the third series of podcast introducing the Internet everything I am Jeremy Creech I'll be your hosts and this podcast series is a companion to the Cisco networking Academy's introduction to the IOE course in joining me today is Rodrigo Floriano Bob Fishon Dan Albaghetti and Bernadette Brian in our previous show we answer the question why is my alarm clock talking to my coffeepot and then today I'm looking forward to exploring this more in terms of how do we make this stuff work for us and it it makes me think of him Jean-Louis Gossett and he calls the IOT or the Internet of things a basket of remotes problem so Bob can you explain what Jean-Louis Gossett means when he poses the basket of remotes problem well I think, we have to understand is that in the IOT there's really two rounds earthly realm for industry and manufacturing and big corporations and then there's the consumer market and in the realm of of big industry manufacturing and such of the IOT works really well you know every device has upon them either security embedded there's reliability better because you could be lives are at stake and such so things have to work very well and it's been developments been in operation for years now in the consumer market. I'm sure everyone can relate to this everyone you know you we have a remote for TV remote for Blu-ray remote for DVD remote for your your your receiver and cable in such an effort Jean-Louis guess he was saying was his Wiest we have all of these devices that are smart but their proprietary there's no open standard and make small talk together like the Lord of the rings one remote to control them all and easily will you and I think that's that's what he was leaving to is that we still have a ways to go and end I'm sure that in time but if we look back 10 years ago 20 years ago how the disparate systems were and now how we can do more today with you give us another 5 to 10 years and I think will be a lot further along when it comes to the consumer IOT so I hear you saying Bob is that it is for us to really realize the value of the IOE across all of the sectors whether it's industrial manufacturing or or consumer that's we need to recognize that if we approach this from a private proprietary perspective it's gonna limit the value that we can gain out of what the IOE the opportunity represents a is as we talk about in the standardization and realizing that value how do we implement that Dan I am wondering can you expel a little bit on how we successfully transition to the unit Internet of everything given these challenges well I think that as companies and as people and even at the home user as we have those standards that will get established were to see people to see results in increased revenues reduced costs on employee productivity goes up in order to have better services and all of those things are to help the IOE we get adopted into our everyday lives and in the curriculum it basically highlights the different areas this is to happen in the area of retail and public sector service provider industries and manufacturing so it's going to affect us in all these areas and were already experiencing it to a certain degree with him the smart devices that were carrying with us every day and how we how those have embedded themselves and how we work and how companies do business and unhallowed were already experiencing a lot of these improved efficiencies and the curriculum pointed out in different ways in the mining industry examples in the agricultural industry examples and in retail examples and it points out all of the different technologies and how their there making their way into our daily lives whether that's RFID door sensors employee tags or on shelf sensors point-of-sale purchasing devices all kinds of things in the public sector we have on efficiencies like smart buildings smart lighting smart grids smart traffic systems that improve the flow of traffic and allow for resources to be better deployed for instance at like for traffic police that are monitoring accidents that happen in the city so that they can better deploy their resources to try to reduce traffic accidents within the city in the manufacturing industry with us smart sensors and actuators that are in the field providing operational dashboards to people who can then react that information in real time so we are I think it's gonna happen across all those realms were already seeing it but definitely if we have open standards and we have the move from proprietary protocols to Internet-based protocols and IP-based devices then this is good happen a lot faster so here you are you talking about the value that can be realized as a motivator for the adoption of IOE technologies you also to the need for standardized protocols and you talk about the sensors he talk about the actuators I am wondering if maybe first came to me talk a little bit more about what are the sensors what are these actuators were these things look-alike we can all relate to how a computer can send information to servers and such but I think a lot of the stuff that Dan was mentioning is how do we make these noncomputer devices communicate with us and that's where the sensors come in so sensors basically device I can collect data from the non-computers have the ability to take something from a physical environment converted to electrical signal and that's processed by some controller computer down the road in the sensors of been around for a long time and there's all kinds of amino when you go to the department store and you you purchase something they all know most of the clothing items of merchandise will now have RFID tags or radio frequency identification tags and these tags transmit low-power frequencies to an RFID sent a reader and so the store can keep track of inventory and such your pet may also have an RFID tag the size of a grain of rice at some better under its skin so if it's ever lost the know will have the information that you can do your pet can be returned to you in agriculture and farming animals like cows horses and sheep in our tag with external RFID tags as well and another example is if you consider your car there's all kinds of sensors and if we were categorizing considers motion sensors air temperature sensors humidity sensors soulmate moisture sensors and such so sensors give us the data so the question now is how do we respond to that data was an expert that the actuators and I refer to the actuators has been the muscle behind the Internet of things they make things happen so on actuators really of basic motor that can move or control of a system and in the IOT there's really three types of actuators as hydraulic which uses fluid pressure perform a movement pneumatic which uses compressed air to do basically the same thing and there's electrical muscle powered by motor that converts electrical energy to mechanical operation regardless of how the actuator causes the movement to be performed as basic function is to receive a signal from the controller and do something with it so one when Dan was talking about the industry and such so these sensors and actuators have been around for a long time when it comes to the home it's it's I want is relatively new but it's it's it's coming in more and more and really there's a great packet Tracer lab and and a video I think it's in chapter 3 that covers how the IOE can be implement in a home like I personally like it because it talks about Bob having always cool IOE sensors and actuators but seriously in the package is a scenario you could basically follow it and you could explore a variety of home devices and manipulate the environmental factors like raise the temperature and see what happens where it's raining outside so the spring push and go on and such and a doctor pretty cool little activity that you folks that are taking the course can do hope this explains sensors and actuators but the bottom line is that these two things will play a huge role in connecting the unconnected in the IOE I remember talking and in previous episodes about the machine to machine machine to people and people to people interactions in and Baba sounds like you're talking quite a bit on the machine to machine aspect and so I'm wondering can you tell me a little bit more or our summary tell me a little bit more about these interactions a happen inside the IOE solution and Neil were to people, and a lot Jeremy I'll answer that one for you and yet we've done a lot of talking about machine to machine interaction on but there's also two other important interactions and annihilate solution and that's machine to people and people to people the people to people interactions are really crucial because we talking about people I'm collaborating on in real time of a large geographic distances to solve problems and I took I think in an earlier pod cast, I mentioned the importance to him medicine in people experts and specialists can become available to people over the network and also all kinds of educational experts can be available to people across the globe we've also got to talk about machine to people, and I think we example of the data that in our discussion and in the realm of health and fitness without all kinds of wearable kind of devices and sensors that give us feedback on this one particular I was reading about recently and is a subcutaneous sensor that can be sorted into your on and that monitor is constantly on your blood glucose levels actually can send wirelessly information to your healthcare provider and continue on it to let you know I'm what you numbers on it so it is a great example of machine to people but also on it goes one step further and send that information to your help healthcare provider as well is just you are in itself but listening to talk about that specific example Bernadette is so demanding is really one thing it sounds painful but once it's there you like a monitoring blood glucose levels makes me think of diabetics for example and needing kneading their insulin and eating at various times based off of what those glucose levels are reading and so I talked to the people to people machine the people aspect of it is sounds like also there could be a machine to machine aspect to it where perhaps you know they have some sort of a system that injects the insulin and so based off of an automatic reading it could do an automatic injection exactly and that is and that is actually in development there is a nano distribution of fund of medication on as a result of those readings and of course in addition you know the healthcare provider can look at you know the readings over a period of time and make further analysis and diagnosis not just on this patient but even you know take all of this data and make other kinds of decisions like taking into account you got the you you get that real-time aspect of the data which is happening on the machine to machine level has a sensor reads the glucose levels it determines whether or not it needs to inject insulin but then you have that historical data or the longitudinal perspective of the data which is your dad and more of a static state rather than data in motion that the healthcare providers are able to access in and take into account as they consult the respective patient yes Jeremy perfect so you know the real power and benefit of the IOE solution now is that we can create communications between machines to people and and people to people and machine to machine we can incorporate several of those a couple of those interactions in order to make those connections now as we've been talking we've got to get cut through that proprietary issue and you will be able to link IT and operational technology and I don't know if we defined operational technology but when talking about the proprietary systems that are often in place in manufacturing for example on that control of the hardware and the software inside of the manual and manufacturing plant so how those C equipment to help you talking about the technologies alike control the robots or control the I remember working in the cement plant doing some network consulting there and they had a series of of PLCs programmable logic circuits the controlled like how much our real resource lineman and rock was going into crushers and then how much is going into kilns and how much was being mixed in but all that operated on, some proprietary technologies and so it's a little you're alluding to is the need to be able to bridge that which was the operational technology with now more traditional IT technologies like there's a need for convergence there absolutely and you know that can solve some problems for example in the case of manufacturing the IOE using automotive industry example if the manufacturing floor can get feedback from social media have consumer surveys and orders that a specific model or even a paint color is in high demand process can be adjusted immediately so you obviously you know we can save an awful lot of time and money with this kind implementation or not I usually is like going into the Christmas season they have to think about what they did last Christmas and now you can just think about what people are doing today to determine what products you need to create it on the floor as soon as possible nearly starting to decrease those times from things that are our years or quarters out to like things that are weeks in a dazed out the making more efficient use of the resources that are hand more efficient use of the production processes and I can see that I can see the ripple effect going into the logistics the distribution work goes a it down and thought about that but the value there is is massive yes in fact in that course they have a great video about a slight banana that really explains this beautifully the banana has sensors that signal that I'm getting right ahead of time here earlier than expected in early harvest on that now let's sensor alerts the delivery services and they have to adjust deliveries and get though the ripened bananas to the store in the store they realize that they can have too many bananas so they put the current stock on sale of the shoppers get elected to that via their mobile app on the phone and then on as we put a bananas into the shopping cart allowed to get a delicious banana recipe up on my on the screen on my shopping cart so I can go home and make use of bananas that I think that says it all and insert to make all this stuff works together you know it did to make the stuff for people interact with the system to make the stuff for machines interact with the system and in and for them to interact with one another and to take advantage of the data that is being collected how do we make that work what what's happening behind the scenes if you will to actually get this stuff to work I do and take about one Jeremy and the answer is software it's really you have to write these programs to make all this happen and the idea of writing a program is really the computers they don't really understand it they don't fully understand English at this point I mean we are getting there but but not quite yet right so the only good the only way we have at this moment to to successfully tell the computer how to perform a task of how to do something is ready to write a program in a language that that computer can understand is if you're at your home and you look around you have your cable box you have your TV you have your fridge you have your digital what you have all these electronics are working in their running programs and as long as they are running with no hick ups you will realize there that you don't need that they're doing their jobs and it's great you don't there kind of invisible to you and I think I think that's the key right if you want to get all this stuff to work going back to a Bob was talking about at the beginning we have to write these programs in a way that that there will there will be visible in that sense right in the course if you think is a chapter 3 if I'm not mistaken there is a section about you know if you if you have never written a program this chapter has a little application that is him simulating a coffee monitoring system so if you going to the chapter you see a little application it's running to simulate how the temperature would change and whatnot and a little application was written in a way that if you open it up to open Dakota should be able to understand is about the comments in there but you explaining what each part of the program what it does and how it works so it's a it's a great way to get your feet wet when it comes to programming and I dare to say Jeremy this is gonna be a huge area if you want to get a job in the IOE industry this interview you Jerry for learn how to write programs how to create these things how to how to design a piece of software you are going to be good to go you not to be unemployed to have the explosion of connection is assist as we talk like connecting things there's this deal to facilitate that connection tremendous amount of work related to connectivity but then how much more then the explosion of the programs and the applications to take advantage of those new things that are now connected since I'm starting to see the exponential scale that the IOE opportunity represents in the curriculum Jeremy talks about and I think this is an chapter for the how the interconnections between IOE devices and essentially then also between people that grows in an exponential fashion and talks about Metcalfe's law and how the number of connections between devices and how that's kind of an exponential growth situation and just the enormous amount of potential there that adds value that exponential growth in those connections between devices that are interconnected wirelessly mobility that that adds an amazing amount of value for companies and for people and for efficiencies and for and for the bottom line and values based on the amount of information that can now be shared between devices so if if I understand my counsel all right yet to things that are connected and now those things are sharing information between one another but now add another to that mix and now you have three things that are interconnected so he went from one connection to now a total of three connections with us another single note had one more node and that node is interconnected to all of the other nodes so that the number total number of connections at that point has essentially times itself and thereby the amount of information that can be shared is has risen exponentially right and any value to that system if you take as an example was a fax machine people to have those anymore I guess but the fax machine is useless if it's a low but now you have a second person with the fact that system gain value is now the first person can send information to the second if you keep adding nodes if you keep keep adding those same type of machines the system becomes more and more valuable because now you have more endpoints to send information as you just totally described Facebook are exactly what goes Facebook one is a connection between me and one other person but you get everybody else on there and are all interconnected and and that's exactly Jeremy that's exactly why that that same laws being used a lot to describe and to estimate value of the office social networks that exactly what they're doing other using that law estimate of value up of a social network based on its user base is taking advantage of my counselor make sense of this is been a fantastic conversation I want to think our listeners think the guests I really enjoyed talking about the basket of remotes problem and how that can be resolved as we talk about implementing IOE solutions for the more about what you just heard check our show notes at www.Medicare.com/group/offerings/IOE initial research and writing for these podcast by Rick Graziani and Dave Holsinger are audio producer is Dan Epstein the Internet of everything podcast series is produced by Jeremy Creech and Jane Gibbons and is brought to you by the Cisco networking Academy
+Hello, you are listening to the third in a series of podcast introducing the Internet
+everything. I am Jeremy Creech, I'll be your host and this podcast series is a
+companion to the Cisco networking Academy's introduction to the IOE course. And
+joining me today is Rodrigo Floriano, Bob Fishon, Dane Albaghetti and Bernadette
+O'Brian.
+
+In our previous show we answer the question why is my alarm clock talking
+to my coffeepot. And today I'm looking forward to exploring this more in
+terms of how do we make this stuff work for us and it makes me think of
+Jean-Louis Gossett and he calls the IOT or the Internet of things a basket of
+remotes problem. So Bob can you explain what Jean-Louis Gossett means when he
+poses the basket of remotes problem ?
+
+Well I think, what we have to understand is that
+in the IOT there's really two realms, there is like, the realm for industry and
+manufacturing and big corporations and then there's the consumer market and in
+the realm of big industry manufacturing and such, the IOT works really
+well. You know, every device has ???, they're security embedded there's
+reliability and better, because ,you know, could be lives are at stake and such
+so, things
+have to work very well and it's been developped and it's been in operation for years
+now in the consumer market. I'm sure everyone can relate to this everyone, you
+know, we have a remote for TV remote for Blu-ray remote for DVD remote for
+your receiver and cable in such. And that's what Jean-Louis Gosset was
+saying it was/ we have all of these devices that are smart but their
+proprietary there's no open standard that makes them all talk together like the Lord
+of the rings one remote to control them all and easily/ Sorry
+
+
+I like that Bob, I really like that.
+
+Yeah and I think that's what he was leading to/ it's that we still have a ways to go and
+I'm sure that in time but if we look back 10 years ago 20 years ago how the
+disparate systems were and now how we can do more today. You know, give us
+another 5 to 10 years and I think we'll be, you know, a lot further along when it comes to
+the consumer IOT.
+
+So I hear you saying Bob is that it is for us to really
+realize the value of the IOE across all of the sectors whether it's industrial
+manufacturing or or consumer that's we need to recognize that if we approach
+this from a private proprietary perspective it's gonna limit the value that we
+can gain out of what the IOE the opportunity represents a is as we talk about
+in the standardization and realizing that value how do we implement that Dan I
+am wondering can you expel a little bit on how we successfully transition to
+the unit Internet of everything given these challenges well I think that as
+companies and as people and even at the home user as we have those standards
+that will get established were to see people to see results in increased
+revenues reduced costs on employee productivity goes up in order to have better
+services and all of those things are to help the IOE we get adopted into our
+everyday lives and in the curriculum it basically highlights the different
+areas this is to happen in the area of retail and public sector service
+provider industries and manufacturing so it's going to affect us in all these
+areas and were already experiencing it to a certain degree with him the smart
+devices that were carrying with us every day and how we how those have embedded
+themselves and how we work and how companies do business and unhallowed were
+already experiencing a lot of these improved efficiencies and the curriculum
+pointed out in different ways in the mining industry examples in the
+agricultural industry examples and in retail examples and it points out all of
+the different technologies and how their there making their way into our daily
+lives whether that's RFID door sensors employee tags or on shelf sensors
+point-of-sale purchasing devices all kinds of things in the public sector we
+have on efficiencies like smart buildings smart lighting smart grids smart
+traffic systems that improve the flow of traffic and allow for resources to be
+better deployed for instance at like for traffic police that are monitoring
+accidents that happen in the city so that they can better deploy their
+resources to try to reduce traffic accidents within the city in the
+manufacturing industry with us smart sensors and actuators that are in the
+field providing operational dashboards to people who can then react that
+information in real time so we are I think it's gonna happen across all those
+realms were already seeing it but definitely if we have open standards and we
+have the move from proprietary protocols to Internet-based protocols and
+IP-based devices then this is good happen a lot faster so here you are you
+talking about the value that can be realized as a motivator for the adoption of
+IOE technologies you also to the need for standardized protocols and you talk
+about the sensors he talk about the actuators I am wondering if maybe first
+came to me talk a little bit more about what are the sensors what are these
+actuators were these things look-alike we can all relate to how a computer can
+send information to servers and such but I think a lot of the stuff that Dan
+was mentioning is how do we make these noncomputer devices communicate with us
+and that's where the sensors come in so sensors basically device I can collect
+data from the non-computers have the ability to take something from a physical
+environment converted to electrical signal and that's processed by some
+controller computer down the road in the sensors of been around for a long time
+and there's all kinds of amino when you go to the department store and you you
+purchase something they all know most of the clothing items of merchandise will
+now have RFID tags or radio frequency identification tags and these tags
+transmit low-power frequencies to an RFID sent a reader and so the store can
+keep track of inventory and such your pet may also have an RFID tag the size of
+a grain of rice at some better under its skin so if it's ever lost the know
+will have the information that you can do your pet can be returned to you in
+agriculture and farming animals like cows horses and sheep in our tag with
+external RFID tags as well and another example is if you consider your car
+there's all kinds of sensors and if we were categorizing considers motion
+sensors air temperature sensors humidity sensors soulmate moisture sensors and
+such so sensors give us the data so the question now is how do we respond to
+that data was an expert that the actuators and I refer to the actuators has
+been the muscle behind the Internet of things they make things happen so on
+actuators really of basic motor that can move or control of a system and in the
+IOT there's really three types of actuators as hydraulic which uses fluid
+pressure perform a movement pneumatic which uses compressed air to do basically
+the same thing and there's electrical muscle powered by motor that converts
+electrical energy to mechanical operation regardless of how the actuator causes
+the movement to be performed as basic function is to receive a signal from the
+controller and do something with it so one when Dan was talking about the
+industry and such so these sensors and actuators have been around for a long
+time when it comes to the home it's it's I want is relatively new but it's it's
+it's coming in more and more and really there's a great packet Tracer lab and
+and a video I think it's in chapter 3 that covers how the IOE can be implement
+in a home like I personally like it because it talks about Bob having always
+cool IOE sensors and actuators but seriously in the package is a scenario you
+could basically follow it and you could explore a variety of home devices and
+manipulate the environmental factors like raise the temperature and see what
+happens where it's raining outside so the spring push and go on and such and a
+doctor pretty cool little activity that you folks that are taking the course
+can do hope this explains sensors and actuators but the bottom line is that
+these two things will play a huge role in connecting the unconnected in the IOE
+I remember talking and in previous episodes about the machine to machine
+machine to people and people to people interactions in and Baba sounds like
+you're talking quite a bit on the machine to machine aspect and so I'm
+wondering can you tell me a little bit more or our summary tell me a little bit
+more about these interactions a happen inside the IOE solution and Neil were to
+people, and a lot Jeremy I'll answer that one for you and yet we've done a lot
+of talking about machine to machine interaction on but there's also two other
+important interactions and annihilate solution and that's machine to people and
+people to people the people to people interactions are really crucial because
+we talking about people I'm collaborating on in real time of a large geographic
+distances to solve problems and I took I think in an earlier pod cast, I
+mentioned the importance to him medicine in people experts and specialists can
+become available to people over the network and also all kinds of educational
+experts can be available to people across the globe we've also got to talk
+about machine to people, and I think we example of the data that in our
+discussion and in the realm of health and fitness without all kinds of wearable
+kind of devices and sensors that give us feedback on this one particular I was
+reading about recently and is a subcutaneous sensor that can be sorted into
+your on and that monitor is constantly on your blood glucose levels actually
+can send wirelessly information to your healthcare provider and continue on it
+to let you know I'm what you numbers on it so it is a great example of machine
+to people but also on it goes one step further and send that information to
+your help healthcare provider as well is just you are in itself but listening
+to talk about that specific example Bernadette is so demanding is really one
+thing it sounds painful but once it's there you like a monitoring blood glucose
+levels makes me think of diabetics for example and needing kneading their
+insulin and eating at various times based off of what those glucose levels are
+reading and so I talked to the people to people machine the people aspect of it
+is sounds like also there could be a machine to machine aspect to it where
+perhaps you know they have some sort of a system that injects the insulin and
+so based off of an automatic reading it could do an automatic injection exactly
+and that is and that is actually in development there is a nano distribution of
+fund of medication on as a result of those readings and of course in addition
+you know the healthcare provider can look at you know the readings over a
+period of time and make further analysis and diagnosis not just on this patient
+but even you know take all of this data and make other kinds of decisions like
+taking into account you got the you you get that real-time aspect of the data
+which is happening on the machine to machine level has a sensor reads the
+glucose levels it determines whether or not it needs to inject insulin but then
+you have that historical data or the longitudinal perspective of the data which
+is your dad and more of a static state rather than data in motion that the
+healthcare providers are able to access in and take into account as they
+consult the respective patient yes Jeremy perfect so you know the real power
+and benefit of the IOE solution now is that we can create communications
+between machines to people and and people to people and machine to machine we
+can incorporate several of those a couple of those interactions in order to
+make those connections now as we've been talking we've got to get cut through
+that proprietary issue and you will be able to link IT and operational
+technology and I don't know if we defined operational technology but when
+talking about the proprietary systems that are often in place in manufacturing
+for example on that control of the hardware and the software inside of the
+manual and manufacturing plant so how those C equipment to help you talking
+about the technologies alike control the robots or control the I remember
+working in the cement plant doing some network consulting there and they had a
+series of of PLCs programmable logic circuits the controlled like how much our
+real resource lineman and rock was going into crushers and then how much is
+going into kilns and how much was being mixed in but all that operated on, some
+proprietary technologies and so it's a little you're alluding to is the need to
+be able to bridge that which was the operational technology with now more
+traditional IT technologies like there's a need for convergence there
+absolutely and you know that can solve some problems for example in the case of
+manufacturing the IOE using automotive industry example if the manufacturing
+floor can get feedback from social media have consumer surveys and orders that
+a specific model or even a paint color is in high demand process can be
+adjusted immediately so you obviously you know we can save an awful lot of time
+and money with this kind implementation or not I usually is like going into the
+Christmas season they have to think about what they did last Christmas and now
+you can just think about what people are doing today to determine what products
+you need to create it on the floor as soon as possible nearly starting to
+decrease those times from things that are our years or quarters out to like
+things that are weeks in a dazed out the making more efficient use of the
+resources that are hand more efficient use of the production processes and I
+can see that I can see the ripple effect going into the logistics the
+distribution work goes a it down and thought about that but the value there is
+is massive yes in fact in that course they have a great video about a slight
+banana that really explains this beautifully the banana has sensors that signal
+that I'm getting right ahead of time here earlier than expected in early
+harvest on that now let's sensor alerts the delivery services and they have to
+adjust deliveries and get though the ripened bananas to the store in the store
+they realize that they can have too many bananas so they put the current stock
+on sale of the shoppers get elected to that via their mobile app on the phone
+and then on as we put a bananas into the shopping cart allowed to get a
+delicious banana recipe up on my on the screen on my shopping cart so I can go
+home and make use of bananas that I think that says it all and insert to make
+all this stuff works together you know it did to make the stuff for people
+interact with the system to make the stuff for machines interact with the
+system and in and for them to interact with one another and to take advantage
+of the data that is being collected how do we make that work what what's
+happening behind the scenes if you will to actually get this stuff to work I do
+and take about one Jeremy and the answer is software it's really you have to
+write these programs to make all this happen and the idea of writing a program
+is really the computers they don't really understand it they don't fully
+understand English at this point I mean we are getting there but but not quite
+yet right so the only good the only way we have at this moment to to
+successfully tell the computer how to perform a task of how to do something is
+ready to write a program in a language that that computer can understand is if
+you're at your home and you look around you have your cable box you have your
+TV you have your fridge you have your digital what you have all these
+electronics are working in their running programs and as long as they are
+running with no hick ups you will realize there that you don't need that
+they're doing their jobs and it's great you don't there kind of invisible to
+you and I think I think that's the key right if you want to get all this stuff
+to work going back to a Bob was talking about at the beginning we have to write
+these programs in a way that that there will there will be visible in that
+sense right in the course if you think is a chapter 3 if I'm not mistaken there
+is a section about you know if you if you have never written a program this
+chapter has a little application that is him simulating a coffee monitoring
+system so if you going to the chapter you see a little application it's running
+to simulate how the temperature would change and whatnot and a little
+application was written in a way that if you open it up to open Dakota should
+be able to understand is about the comments in there but you explaining what
+each part of the program what it does and how it works so it's a it's a great
+way to get your feet wet when it comes to programming and I dare to say Jeremy
+this is gonna be a huge area if you want to get a job in the IOE industry this
+interview you Jerry for learn how to write programs how to create these things
+how to how to design a piece of software you are going to be good to go you not
+to be unemployed to have the explosion of connection is assist as we talk like
+connecting things there's this deal to facilitate that connection tremendous
+amount of work related to connectivity but then how much more then the
+explosion of the programs and the applications to take advantage of those new
+things that are now connected since I'm starting to see the exponential scale
+that the IOE opportunity represents in the curriculum Jeremy talks about and I
+think this is an chapter for the how the interconnections between IOE devices
+and essentially then also between people that grows in an exponential fashion
+and talks about Metcalfe's law and how the number of connections between
+devices and how that's kind of an exponential growth situation and just the
+enormous amount of potential there that adds value that exponential growth in
+those connections between devices that are interconnected wirelessly mobility
+that that adds an amazing amount of value for companies and for people and for
+efficiencies and for and for the bottom line and values based on the amount of
+information that can now be shared between devices so if if I understand my
+counsel all right yet to things that are connected and now those things are
+sharing information between one another but now add another to that mix and now
+you have three things that are interconnected so he went from one connection to
+now a total of three connections with us another single note had one more node
+and that node is interconnected to all of the other nodes so that the number
+total number of connections at that point has essentially times itself and
+thereby the amount of information that can be shared is has risen exponentially
+right and any value to that system if you take as an example was a fax machine
+people to have those anymore I guess but the fax machine is useless if it's a
+low but now you have a second person with the fact that system gain value is
+now the first person can send information to the second if you keep adding
+nodes if you keep keep adding those same type of machines the system becomes
+more and more valuable because now you have more endpoints to send information
+as you just totally described Facebook are exactly what goes Facebook one is a
+connection between me and one other person but you get everybody else on there
+and are all interconnected and and that's exactly Jeremy that's exactly why
+that that same laws being used a lot to describe and to estimate value of the
+office social networks that exactly what they're doing other using that law
+estimate of value up of a social network based on its user base is taking
+advantage of my counselor make sense of this is been a fantastic conversation I
+want to think our listeners think the guests I really enjoyed talking about the
+basket of remotes problem and how that can be resolved as we talk about
+implementing IOE solutions for the more about what you just heard check our
+show notes at www.Medicare.com/group/offerings/IOE initial research and writing
+for these podcast by Rick Graziani and Dave Holsinger are audio producer is Dan
+Epstein the Internet of everything podcast series is produced by Jeremy Creech
+and Jane Gibbons and is brought to you by the Cisco networking Academy
