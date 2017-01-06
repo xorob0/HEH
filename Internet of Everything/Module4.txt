@@ -9,64 +9,81 @@ IOE is how it works and we've also talked about what the benefit is to people
 but as we've had these conversations we've also kind of discovered or revealed
 that there are some concerns around security and privacy which is the topic for
 today's conversation. And so Roderigo I wanted to kind of direct this first
-question to you which is, you know, his security is always a concern when were dealing
-with technology and especially prevalent with current events going on here as
-of late what are some of these concerns any kind of you describe that for us
-you shared the problem I think it is because when when we are talking about the
-IOE we have these devices pretty much everywhere right it can be wearing them
-can be in your car can be in your home and at work so people have some concerns
-related to some exploitation of these devices but safe if you have in your home
-and the security system with a set of cameras and someone manages to shoot to
-get a hold of that up you know the hacker attacks it and now it's taking care
-of your cameras right looking through your cameras and it takes over now those
-cameras can be used against you that in the entire system can be used against
-you so this is this is kind of you know the type of concerned that people that
-people have on top of that concern I believe there is also a psychological
-effect where people meet think that you know because of the IOE because as I
-said it's everywhere now they be monitored been watched at all times so walk
-into a store they storm you want to know where you are inside that store what
-kind of shopping you are doing to help you in the future you know to be more
-agile to you but that that that fact that you being watched and you know that
-you'll be monitored it doesn't really doesn't really go well with some people
-now in the other hand because if something goes wrong in a situation like that
-the reputation of the company can be seriously hurt right you have some
-examples I'm sure going talking about business podcast but the case of the
-happened last year with target the they lost a number of cards like millions
-and millions of card numbers from their customers and I am sure that that
-people that got hurt because of bad will not forget that for this year's
-holiday shopping season right so from from the company's aspect it's also
-important to make sure that these things are safe because their reputations on
-the line is a frustrating experience for me I went through two new carpet
-issues as a result of target and Home Depot I have I guess see their ego is
-frustrating you bring up a really good point Roderigo with regards to kind of
-reasons to be concerned about why we need the security or I'm wondering is in,
-and Bernadette I know you've done some kind of research into this is you how do
-we implement the security in the IOE context where does security reside well in
-the course has a as a whole module dedicated to just that question security and
-the Internet everything and John Stewart's chief security officer at Cisco on
-explained in a video presentation the answer to that your house security and
-how it should be and must be included in the Internet everything he emphasizes
-that as more and more devices are connected network administrators and cyber
+question to you which is, you know, security is always a concern when we're dealing
+with technology, especially prevalent with current events going on here as
+of late. What are some of these concerns can you kind of describe that for us ?
+
+Yes sure. The main problem I think it is because when we are talking about the
+IOE we have these devices pretty much everywhere right ? You can be wearing
+them,
+they can be in your car, they can be in your home they can be at work. So people have some concerns
+related to some exploitation of these devices. Let's say if you have in your home
+a security system with a set of cameras and someone manages to
+get a hold of that, of, you know, the hacker attacks it and now it's taking care
+of your cameras right looking through your cameras and it takes over, now those
+cameras can be used against you, that/ the entire system can be used against
+you. So this is kind of, you know, the type of concerned that people
+have. On top of that concern I believe there is also a psychological
+effect, where people may think that, you know, because of the IOE because as I
+said, it's everywhere, now they're beeing monitored they're beeing watched at
+all times so if you walk
+into a store the store may wanna know where you are inside that store, what
+kind of shopping you are doing to help you in the future, you know, to be more
+agile to you. But that fact that you're being watched and you know that
+you'll be monitored it doesn't really go very well with some people.
+Now in the other hand because if something goes wrong in a situation like that,
+the reputation of the company can be seriously hurt, right ? We have some
+examples I'm sure we're gonna be talking about this in this podcast, but the
+case that have
+happened last year with target, they lost a number of cards like millions
+and millions of card numbers from their customers and I am sure that
+people that got hurt because of that will not forget that for this year's
+holiday shopping season, right ? So from from the company's aspect it's also
+important to make sure that these things are safe because their reputation is on
+the line.
+
+Yha, it was a frustrating experience for me I went through two new card
+issues as a result of target and Home Depot. I guess
+
+See there you go
+
+Yea, it's frustrating, you know, you bring  up a really good point Roderigo
+with regards to kind of/
+reasons to be concerned, why we need the security. What I'm wondering is,
+Bernadette I know you've done some kind of research into this, you know, how do
+we implement the security in the IOE context ? Where does security reside ?
+
+Well, the course has a whole module dedicated to just that question, security and
+the Internet of everything. And John Stewart, chief security officer at Cisco,
+explained in a video presentation the answer to that, you know, how security/
+how it should be and must be included in the Internet of everything. He emphasizes
+that as more and more devices are connected, network administrators and cyber
 security experts have to be proactive and ensure that these potentially
-nonsecure devices like sensors actuators smart devices etc. secure here every
-day hasn't just-Roderigo how our information is being stolen cell and vigilance
+nonsecure devices like sensors actuators smart devices etc. are secure. And we
+hear every
+day, as we've just heard from Roderigo, you know, how our information is being
+stolen, so, vigilance
 by these companies as people process data and things all become connected to
-the IOE is essential he also points out that securing all these connections
-come into a network is going to require adaptable and dynamic solutions so it's
+the IOE, is essential. He also points out that securing all these connections
+come into a network is going to require adaptable and dynamic solutions. So it's
 about the network and it's not just about securing the individual devices it's
-about integrating the security throughout the network on your I've been looking
-at their center and he also talks about this to Johnstone that Cisco is taking
-a leadership role in dealing with this issue in the Internet everything there
+about integrating the security throughout the network.You know, I've been looking
+at their ??? and he also talks about this to John Stewart, that Cisco is taking
+a leadership role in dealing with this issue in the Internet of everything.
+They're
 also collaborating with other businesses because you know as we seen it's
-important to these businesses to be prepared and to be proactive pressing issue
-because as devices and people are connecting on this phenomenal rate 50 billion
-connections are going to be on happening within the next 10 years amazing what
-existing assets at the event an issue to is that we've got to prepare the
-experts we got the packs but so they can deal with this on Cisco announced in
+important to these businesses to be prepared and to be proactive. It's a
+pressing issue,
+because as devices and people are connecting at this phenomenal rate 50 billion
+connections are going to be happening within the next 10 years, it's amazing.
+You know, one of the things that is beeing a bit of an issue too, is that we've got to prepare the
+experts/ we've got to prepare expertes, so they can deal with this. Cisco announced in
 October 2014 that they formed an industry talent consortium made up of
-businesses recruiters and educational institutions on to help develop the
+businesses recruiters and educational institutions to help develop the
 skills that are required to cope with this rapid increase in connected devices
-and particularly to address security and privacy issues when it comes to the
+and particularly to address security and privacy issues.
+
+When it comes to the
 IOE that that another another problem with the new thing among the bad guys now
 that actors know which is going for the devices that are not exactly computers
 they are but not in the way we know when it's right to to explain this when you
