@@ -35,85 +35,97 @@ disparate systems were and now how we can do more today. You know, give us
 another 5 to 10 years and I think we'll be, you know, a lot further along when it comes to
 the consumer IOT.
 
-So I hear you saying Bob is that it is for us to really
-realize the value of the IOE across all of the sectors whether it's industrial
-manufacturing or or consumer that's we need to recognize that if we approach
-this from a private proprietary perspective it's gonna limit the value that we
-can gain out of what the IOE the opportunity represents a is as we talk about
-in the standardization and realizing that value how do we implement that Dan I
-am wondering can you expel a little bit on how we successfully transition to
-the unit Internet of everything given these challenges well I think that as
-companies and as people and even at the home user as we have those standards
-that will get established were to see people to see results in increased
-revenues reduced costs on employee productivity goes up in order to have better
-services and all of those things are to help the IOE we get adopted into our
-everyday lives and in the curriculum it basically highlights the different
-areas this is to happen in the area of retail and public sector service
-provider industries and manufacturing so it's going to affect us in all these
-areas and were already experiencing it to a certain degree with him the smart
-devices that were carrying with us every day and how we how those have embedded
-themselves and how we work and how companies do business and unhallowed were
-already experiencing a lot of these improved efficiencies and the curriculum
+So, what I hear you saying Bob is that for us to really
+realize the value of the IOE across all of the sectors whether it's industrial,
+you know,
+manufacturing or consumer that we need to recognize that. If we approach
+this from a proprietary perspective it's gonna limit the value that we
+can gain out of what the IOE/ the opportunity represents. So, as we talk about,
+you know,
+the standardization and realizing that value, how do we implement that ? Dan I
+am wondering can you explain a little bit on how we successfully transition to
+the Internet of everything given these challenges ?
+
+Well I think that as
+companies and as people and even at (as?) the home user as we have those standards
+that will get established we're gonna see/ people are gonna see results in increased
+revenues, reduced costs, employee productivity goes up. And we're gonna have better
+services and all of those things are to help the IOE get adopted into our
+everyday lives. And in the curriculum it basically highlights the different
+areas that this is gonna happen in. The area of retail, public sector, service
+provider industries and manufacturing. So it's goinna affect us in all these
+areas and we're already experiencing it to a certain degree with the smart
+devices that we're carrying with us every day and how we/ how those have embedded
+themselves and how we work and how companies do business and how we're
+already experiencing a lot of these improved efficiencies. And the curriculum
 pointed out in different ways in the mining industry examples in the
 agricultural industry examples and in retail examples and it points out all of
-the different technologies and how their there making their way into our daily
-lives whether that's RFID door sensors employee tags or on shelf sensors
-point-of-sale purchasing devices all kinds of things in the public sector we
-have on efficiencies like smart buildings smart lighting smart grids smart
+the different technologies and how they're making their way into our daily
+lives whether that's RFID door sensors, an employee tags or shelf sensors,
+point-of-sale purchasing devices, all kinds of things. In the public sector we
+have on efficiencies like smart buildings, smart lighting, smart grids, smart
 traffic systems that improve the flow of traffic and allow for resources to be
 better deployed for instance at like for traffic police that are monitoring
 accidents that happen in the city so that they can better deploy their
 resources to try to reduce traffic accidents within the city in the
-manufacturing industry with us smart sensors and actuators that are in the
+manufacturing industry with smart sensors and actuators that are in the
 field providing operational dashboards to people who can then react that
-information in real time so we are I think it's gonna happen across all those
-realms were already seeing it but definitely if we have open standards and we
+information in real time. So we are/ I think it's gonna happen across all those
+realms and we're already seeing it but definitely if we have open standards and we
 have the move from proprietary protocols to Internet-based protocols and
-IP-based devices then this is good happen a lot faster so here you are you
+IP-based devices then this is gonna happen faster.
+
+So I hear you, you know, you're
 talking about the value that can be realized as a motivator for the adoption of
-IOE technologies you also to the need for standardized protocols and you talk
-about the sensors he talk about the actuators I am wondering if maybe first
-came to me talk a little bit more about what are the sensors what are these
-actuators were these things look-alike we can all relate to how a computer can
-send information to servers and such but I think a lot of the stuff that Dan
-was mentioning is how do we make these noncomputer devices communicate with us
-and that's where the sensors come in so sensors basically device I can collect
-data from the non-computers have the ability to take something from a physical
+IOE technologies, you/ also to the need for standardized protocols and you talk
+about the sensors and you talk about the actuators. I am wondering if maybe first
+came to me talk a little bit more about, you know, what are the sensors what are these
+actuators, you know, where these things look like.
+
+We can all relate to how a computer can
+send information to servers and such but I think, you know, a lot of the stuff that Dan
+was mentioning is how do we make these noncomputer devices, you know, communicate with us
+and that's where the sensors come in. So a sensors is basically a device I can collect
+data from the non-computers, and it has the ability to take something from a physical
 environment converted to electrical signal and that's processed by some
-controller computer down the road in the sensors of been around for a long time
-and there's all kinds of amino when you go to the department store and you you
-purchase something they all know most of the clothing items of merchandise will
+controller computer down the road. And the sensors have been around for a long time
+and there's all kinds of, you know,/ when you go to the department store and you
+purchase something/ they all, you know,/ most of the clothing items and merchandise will
 now have RFID tags or radio frequency identification tags and these tags
-transmit low-power frequencies to an RFID sent a reader and so the store can
-keep track of inventory and such your pet may also have an RFID tag the size of
-a grain of rice at some better under its skin so if it's ever lost the know
-will have the information that you can do your pet can be returned to you in
-agriculture and farming animals like cows horses and sheep in our tag with
-external RFID tags as well and another example is if you consider your car
-there's all kinds of sensors and if we were categorizing considers motion
-sensors air temperature sensors humidity sensors soulmate moisture sensors and
-such so sensors give us the data so the question now is how do we respond to
-that data was an expert that the actuators and I refer to the actuators has
-been the muscle behind the Internet of things they make things happen so on
-actuators really of basic motor that can move or control of a system and in the
-IOT there's really three types of actuators as hydraulic which uses fluid
-pressure perform a movement pneumatic which uses compressed air to do basically
-the same thing and there's electrical muscle powered by motor that converts
-electrical energy to mechanical operation regardless of how the actuator causes
-the movement to be performed as basic function is to receive a signal from the
-controller and do something with it so one when Dan was talking about the
-industry and such so these sensors and actuators have been around for a long
-time when it comes to the home it's it's I want is relatively new but it's it's
-it's coming in more and more and really there's a great packet Tracer lab and
-and a video I think it's in chapter 3 that covers how the IOE can be implement
+transmit low-power frequencies to an RFID reader and so the store can
+keep track of inventory and such. Your pet may also have an RFID tag the size of
+a grain of rice at some better under its skin so if it's ever lost, you know,
+it will have the information that you can/ your pet can be returned to you. In
+agriculture and farming, you know, animals like cows horses and sheep now are
+tagged with
+external RFID tags as well. And another example is if you consider your car
+there's all kinds of, you know, sensors and if we were categorizing we could
+say there is motion
+sensors, air temperature sensors, humidity sensors, soulmate and moisture sensors and
+such. So sensors give us the data so the question now is how do we respond to
+that data ? Well that's an export that the actuators and I refer to the actuators has
+been the muscle behind the Internet of things, they make things happen. So an
+actuators really/ a basic motor that can move or control a system and in the
+IOT there's really three types of actuators there is hydraulic which uses fluid
+pressure to perform a movement, pneumatic which uses compressed air to do basically
+the same thing and there's electrical, so powered by motor that converts
+electrical energy to mechanical operation. Now, regardless of how the actuator causes
+the movement to be performed, it's basic function is to receive a signal from the
+controller and do something with it. So when Dan was talking about
+industry and such, so these sensors and actuators have been around for a long
+time when it comes to the home it's/ I won't say it's relatively new but
+it's coming in more and more, and really there's a great packet Tracer lab and
+and a video, I think it's in chapter 3, that covers how the IOE can be implement
 in a home like I personally like it because it talks about Bob having always
-cool IOE sensors and actuators but seriously in the package is a scenario you
-could basically follow it and you could explore a variety of home devices and
-manipulate the environmental factors like raise the temperature and see what
-happens where it's raining outside so the spring push and go on and such and a
-doctor pretty cool little activity that you folks that are taking the course
-can do hope this explains sensors and actuators but the bottom line is that
-these two things will play a huge role in connecting the unconnected in the IOE
+cool IOE sensors and actuators. But seriously in the package tracer scenario you
+could basically follow/ and you could explore a variety of home devices and
+manipulate the environmental factor s like raise the temperature and see what
+happens or it's raining outside so the ?spring machine? go on and such and it's
+actually pretty cool little activity that, you know, folks that are taking the course
+can do. I hope this explains sensors and actuators but, you know, the bottom line is that
+these two things will play a huge role in connecting the unconnected in the
+IOE.
+
 I remember talking and in previous episodes about the machine to machine
 machine to people and people to people interactions in and Baba sounds like
 you're talking quite a bit on the machine to machine aspect and so I'm
