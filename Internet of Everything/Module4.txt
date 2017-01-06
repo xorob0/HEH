@@ -1,13 +1,15 @@
-This is Jeremy Creech with Cisco Systems and you're listening to the fourth
-series of podcast introducing the Internet of everything is podcast series is a
-companion to the Cisco networking Academy's introduction to the IOE course in
+Hello, this is Jeremy Creech for Cisco Systems and you're listening to the
+fourth of a
+series of podcast introducing the Internet of everything. This podcast series is a
+companion to the Cisco networking Academy's introduction to the IOE course and
 joining me again today from previous episodes is Dan Albaghetti Bob Fishon
-Rodrigo Floriano and Bernadette Brian past episodes we talked about what the
+Rodrigo Floriano and Bernadette O'Brian.
+In past episodes we talked about what the
 IOE is how it works and we've also talked about what the benefit is to people
 but as we've had these conversations we've also kind of discovered or revealed
 that there are some concerns around security and privacy which is the topic for
-today's conversation on so Roderigo I wanted to comment direct this first
-question to you which is his security is always a concern when were dealing
+today's conversation. And so Roderigo I wanted to kind of direct this first
+question to you which is, you know, his security is always a concern when were dealing
 with technology and especially prevalent with current events going on here as
 of late what are some of these concerns any kind of you describe that for us
 you shared the problem I think it is because when when we are talking about the
