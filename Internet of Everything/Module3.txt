@@ -212,97 +212,121 @@ and money with this kind implementation.
 
 Or not !
 
-Right !
-I usually is like going into the
-Christmas season they have to think about what they did last Christmas and now
+Right, usually it's like going into the
+Christmas season, they have to think about what they did last Christmas and now
 you can just think about what people are doing today to determine what products
-you need to create it on the floor as soon as possible nearly starting to
-decrease those times from things that are our years or quarters out to like
-things that are weeks in a dazed out the making more efficient use of the
-resources that are hand more efficient use of the production processes and I
-can see that I can see the ripple effect going into the logistics the
-distribution work goes a it down and thought about that but the value there is
-is massive yes in fact in that course they have a great video about a slight
-banana that really explains this beautifully the banana has sensors that signal
-that I'm getting right ahead of time here earlier than expected in early
-harvest on that now let's sensor alerts the delivery services and they have to
-adjust deliveries and get though the ripened bananas to the store in the store
-they realize that they can have too many bananas so they put the current stock
-on sale of the shoppers get elected to that via their mobile app on the phone
-and then on as we put a bananas into the shopping cart allowed to get a
-delicious banana recipe up on my on the screen on my shopping cart so I can go
-home and make use of bananas that I think that says it all and insert to make
-all this stuff works together you know it did to make the stuff for people
-interact with the system to make the stuff for machines interact with the
-system and in and for them to interact with one another and to take advantage
-of the data that is being collected how do we make that work what what's
-happening behind the scenes if you will to actually get this stuff to work I do
-and take about one Jeremy and the answer is software it's really you have to
-write these programs to make all this happen and the idea of writing a program
-is really the computers they don't really understand it they don't fully
-understand English at this point I mean we are getting there but but not quite
-yet right so the only good the only way we have at this moment to to
-successfully tell the computer how to perform a task of how to do something is
-ready to write a program in a language that that computer can understand is if
-you're at your home and you look around you have your cable box you have your
-TV you have your fridge you have your digital what you have all these
-electronics are working in their running programs and as long as they are
-running with no hick ups you will realize there that you don't need that
-they're doing their jobs and it's great you don't there kind of invisible to
-you and I think I think that's the key right if you want to get all this stuff
-to work going back to a Bob was talking about at the beginning we have to write
-these programs in a way that that there will there will be visible in that
-sense right in the course if you think is a chapter 3 if I'm not mistaken there
-is a section about you know if you if you have never written a program this
+you need to create and ?get on? the floor as soon as possible. You know, we're starting to
+decrease those times from things that are years or quarters out to like
+things that are weeks and days out, you know, making more efficient use of the
+resources that are in our hand more efficient use of the production processes.
+And I/ then I
+can see/ I can see the ripple effect going into the logistics, the
+distribution, where it goes. So, I haven't talked (thought?) about that but the
+value there is massive.
+
+Yes, in fact in the course they have a great video about a smart
+banana that really explains this beautifully. The banana has sensors that signal
+that "Oh I'm getting right ahead of time here earlier than expected it's early
+harvest", that signal, that sensor alerts the delivery services and they have to
+adjust deliveries and get the ripened bananas to the store. In the store
+they realize that they're gonna have too many bananas so they put the current stock
+on sale. The shoppers get alerted to that via their mobile app on the phone
+and then as we put a bananas into the shopping cart "Hoo I'm gonna get a
+delicious banana recipe up on my/ on the screen on my shopping cart". So I can go
+home and make use of those bananas. I think that says it all.
+
+And in sort to make all this stuff works together, you know, to make the stuff for people
+interact with the system, to make the stuff for machines interact with the
+system and for them to interact with one another and to take advantage
+of the data that is being collected. How do we make that work ? What's
+happening behind the scenes if you will to actually get this stuff to work ?
+
+I guess I can take that one Jeremy, and the answer is software it's really/ you
+know, you have to
+write these programs to make all this happen. And the idea of writing a program
+is really the computers they don't really understand/ they don't fully
+understand English at this point, I mean we are getting there but not quite
+yet right? So the only way we have at this moment to
+successfully tell the computer how to perform a task or how to do something it's
+ready to write a program in a language that that computer can understand. As if
+you're at your home and you look around, you have your cable box, you have your
+TV, you have your fridge, you have your digital watch, you have/ all these
+electronics are working and they're running programs and as long as they are
+running with no hickups, you don't realize they are there, you don't/
+they're doing their jobs and it's great you don't/ they're kind of invisible to
+you. And I think that's the key right? If you want to get all this stuff
+to work/ going back to a Bob was talking about at the beginning/ we have to write
+these programs in a way that they will be visible in that
+sense right? In the course if you/ I think it's in chapter 3, if I'm not
+mistaken, there
+is a section about, you know, if you if you have never written a program this
 chapter has a little application that is him simulating a coffee monitoring
-system so if you going to the chapter you see a little application it's running
-to simulate how the temperature would change and whatnot and a little
-application was written in a way that if you open it up to open Dakota should
-be able to understand is about the comments in there but you explaining what
-each part of the program what it does and how it works so it's a it's a great
-way to get your feet wet when it comes to programming and I dare to say Jeremy
+system so if you're going to the chapter you see a little application that's running
+to simulate how the temperature would change and whatnot. And that little
+application was written in a way that if you open it up, if you open the code,
+you should
+be able to understand, there is a bunch of comments in there is a bunch of, you
+know, explaining what
+each part of the program what it does and how it works so it's a great
+way to get your feet wet when it comes to programming. And I dare to say Jeremy
 this is gonna be a huge area if you want to get a job in the IOE industry this
-interview you Jerry for learn how to write programs how to create these things
-how to how to design a piece of software you are going to be good to go you not
-to be unemployed to have the explosion of connection is assist as we talk like
-connecting things there's this deal to facilitate that connection tremendous
-amount of work related to connectivity but then how much more then the
+is gonna be a huge area, if learn how to write these programs, how to create these things
+how to design a piece of software, you are going to be good to go, you're not
+gonna be unemployed.
+
+So we have the explosion of connection, you know, as we talk
+connecting things there's this/ you know, to facilitate that connection tremendous
+amount of work related to connectivity, but then how much more then the
 explosion of the programs and the applications to take advantage of those new
-things that are now connected since I'm starting to see the exponential scale
-that the IOE opportunity represents in the curriculum Jeremy talks about and I
-think this is an chapter for the how the interconnections between IOE devices
-and essentially then also between people that grows in an exponential fashion
+things that are now connected. So it's/ I'm starting to see the exponential scale
+that the IOE opportunity represents.
+
+In the curriculum Jeremy, it talks about, and I
+think this is an chapter four, how the interconnections between IOE devices
+and essentially then also between people/ it grows in an exponential fashion
 and talks about Metcalfe's law and how the number of connections between
 devices and how that's kind of an exponential growth situation and just the
-enormous amount of potential there that adds value that exponential growth in
-those connections between devices that are interconnected wirelessly mobility
+enormous amount of potential there that adds value, that exponential growth in
+those connections between devices that are interconnected wirelessly and the mobility
 that that adds an amazing amount of value for companies and for people and for
-efficiencies and for and for the bottom line and values based on the amount of
-information that can now be shared between devices so if if I understand my
-counsel all right yet to things that are connected and now those things are
-sharing information between one another but now add another to that mix and now
+efficiencies and for and for the bottom line.
+
+And that values on based on the amount of
+information that can now be shared between devices. So if I understand my
+counseler right, you got tow things that are connected and now those things are
+sharing information between one another. But now add another to that mix and now
 you have three things that are interconnected so he went from one connection to
-now a total of three connections with us another single note had one more node
+now a total of three connections, with another single node. Now had one more node
 and that node is interconnected to all of the other nodes so that the number
 total number of connections at that point has essentially times itself and
-thereby the amount of information that can be shared is has risen exponentially
-right and any value to that system if you take as an example was a fax machine
-people to have those anymore I guess but the fax machine is useless if it's a
-low but now you have a second person with the fact that system gain value is
-now the first person can send information to the second if you keep adding
-nodes if you keep keep adding those same type of machines the system becomes
-more and more valuable because now you have more endpoints to send information
-as you just totally described Facebook are exactly what goes Facebook one is a
-connection between me and one other person but you get everybody else on there
-and are all interconnected and and that's exactly Jeremy that's exactly why
-that that same laws being used a lot to describe and to estimate value of the
-office social networks that exactly what they're doing other using that law
-estimate of value up of a social network based on its user base is taking
-advantage of my counselor make sense of this is been a fantastic conversation I
-want to think our listeners think the guests I really enjoyed talking about the
+thereby the amount of information that can be shared is/ has risen
+exponentially.
+
+Right and then you add a value to that system. If you take as an example a fax machine
+people don't really have those anymore I guess but the fax machine is useless if it's
+alone. But now you have a second person with a fax, that system gain value
+'cause'
+now the first person can send information to the second. If you keep adding
+nodes if you keep adding those same type of machines the system becomes
+more and more valuable because now you have more endpoints to send information.
+
+That's like, you just totally described Facebook.
+
+Exactly !
+
+I only go to Facebook when there is a
+connection between me and one other person, but you get everybody else on there
+and they're all interconnected.
+
+And that's exactly, Jeremy, that's exactly why that same laws being used a lot
+to describe and to estimate value of the/
+of a social networks. That's exactly what they're doing. They're using that law
+estimate a value of a social network based on its user base.
+
+Taking advantage of Metcalfe's law, that make sense.
+
+Well this has been a fantastic conversation I
+want to thank our listeners, I want to thank the guests I've really enjoyed talking about the
 basket of remotes problem and how that can be resolved as we talk about
-implementing IOE solutions for the more about what you just heard check our
-show notes at www.Medicare.com/group/offerings/IOE initial research and writing
-for these podcast by Rick Graziani and Dave Holsinger are audio producer is Dan
-Epstein the Internet of everything podcast series is produced by Jeremy Creech
-and Jane Gibbons and is brought to you by the Cisco networking Academy
+implementing IOE solutions moving foward.
+Tanks for listening.
