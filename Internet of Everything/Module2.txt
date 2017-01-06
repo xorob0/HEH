@@ -233,93 +233,112 @@ start to benefit. I wonder among you guys the are there any other stories any
 other examples that you can think of where like the smart traffic light system,
 other things that you've experienced at this point are there things that
 you've heard of the content to lend some more light on what the benefit is of
-the eye we the curriculum mentions how smart sensors are used in an airport and
+the IoE
+
+The curriculum mentions how smart sensors are used in an airport and
 how let's say a jet engine generates terabytes and terabytes of data just
-incredible amounts within such a short time. His shortest 30 minutes hundreds
-of terabytes of data and that data is going to need to be collected and
-analyzed and the Internet of everything makes that possible fact that all these
-companies can now have real-time data I experience it when I'm purchasing
-something online that I want to track that package and I were using UPS and I
-not enjoy seeing you know where my where the package is what the what PO Box
-it's leaving from what truck it's on I enjoy ordering my pizza knowing that
-it's five minutes away and I think it also ended up about this idea it also
+incredible amounts within such a short time period. In as short as 30 minutes,
+hundreds
+of terabytes of data. And that data is going to need to be collected and
+analyzed. And the Internet of everything makes that possible, the fact that all these
+companies can now have real-time data. I experience it when I'm purchasing
+something online and then I want to track that package and I were using UPS and I
+not enjoy seeing you know where my/ where that package is, what post office box
+it's leaving from what truck it's on. I enjoy ordering my pizza knowing that
+it's five minutes away.
+
+And I think it also ended up talking about this fog idea. It also
 makes sense that if you are able to process and extract information that you
-needed from background data right spot can save a lot of money does not have to
-store you will have to move it you don't have to worry about that anymore it's
-already you know you to the information that you needed out of it it's now it's
-useless you know this information is possibly much smaller than the actual
-brother so yeah it makes total sense to move towards the this kind of beauty it
-makes me think of there is a there's a lot of other articles I've been reading
-101 I remember reading something about in the mining industry how there's these
-smart connected mining's machines that are that are able to coordinate with
-other types of equipment just improve the mining efficiency in addressing just
+needed from background data right spot can save a lot of money, 'cause now you
+don't have to
+store, you don't have to move it, you don't have to worry about that data anymore it's
+already, you know, you took the information that you needed out of it, it's now it's
+useless, you know, just keep the information/ it's possibly much smaller than the actual
+raw data. So, yeah, it makes total sense to move towards this kind of fog
+computing
+
+You know, it makes me think of/ there is a lot of other articles that I've been
+reading. You know, once I remember reading something about in the mining industry how there's these
+smart connected mining's machines that are able to coordinate with
+other types of equipment just improve the mining efficiency and then they're seeing just
 huge gains in the productivity which is reducing the cost associated with raw
-resources by the other example becomes the mine is Tesla with her cars and I
-remember seeing an article recently around a Tesla vehicle that you have the
-needed repairs is able to taunt him Sicily call for no whatever those repairs
-are weather was a software download or you just need to send a a some sort of
-notification to the customer saying hey organa Tesla's, send somebody to come
+resources. An other example that comes to mind is Tesla with her cars and I
+remember seeing an article recently around a Tesla vehicle that, you know, that
+needed repairs is able to, you know, ?autonomously? call for, you know, whatever those repairs
+are whether it was a software download or it just need to send a/ some sort of
+notification to the customer saying: "Hey we're gonna/ Tesla's gonna send somebody to come
 and pick up your car for you take it to the facility for the repairs are needed
-and then bring it back to you I these are the kinds of things that are just
-starting to be realized with the with the unit of everything all right another
-thing that comes to mind is a deal where I live in you getting into renewable
-resources of energy no wind turbines and with that you're talking about smart
-wind turbines and these are wind turbines that are you I don't know if using
-those wind turbine farms process like massive areas with giant wind turbines
-just all spinning together but talk about other networking those together and
+and then bring it back to you". And these are the kinds of things that are just
+starting to be realized with the with the Internet of everything. I remember another
+thing that comes to mind is, you know, where I live, you know, we're getting into renewable
+resources of energy,  wind turbines. And with that, you know, we're talking about smart
+wind turbines and these are wind turbines that are, you know,/ I don't know if
+you've seen
+those wind turbine farms, but it's just like massive areas with giant wind turbines
+just all spinning together. But talking about how they're networking those together and
 using software so that they can adjust the blades between all of these
 different wind turbines so that they can minimize the impact that they have on
-one another and improve their efficiency together as a whole so now is not just
-one these wind turbines operating in in isolation of the other ones but now
-it's a it's a networked system generating power from renewable resource
-together which we get again improves the productivity and efficiency getting
-more for less it makes me think of another thing that I sought not too long ago
-which was a there was like a tennis racket handle even I mean covering the
-spectrum of things from mining cars to wind turbines to now I am a tennis
-player or racquetball player and I want the technology to be able to know you
+one another and improve their efficiency together as a whole. So now it's not just
+one these wind turbines operating in isolation of the other ones but now
+it's a networked system generating power from renewable resource
+together. Which, you know, again, it improves the productivity and efficiency getting
+more for less. It makes me think of another thing that I saw not too long ago
+which was a/ there was like a tennis racket handle, even,/ I mean, I'm covering the
+spectrum of things from mining to cars to wind turbines to now I am a tennis
+player or racquetball player and I want the technology to be able to know, you
+know,
 they put sensors inside of a racket and then it has connectivity to your mobile
-device and is able to track and analyze know how you play the game over time
-and give you tips on how to better leverage your racket how to better leverage
-your swing arm how to put more speed on the ball how to put better spent on the
-ball in assisted in in these are the types of things that the I/O he is
-realizing in the covers you in that gambit that I just talked about all way
-from you massive mining operation you all the way to the racket it's in my hand
-it's a it's a fascinating time fascinating thing to think about I was reading
-today about wireless sensor network projects that are being done with Arduino's
+device and is able to track and analyze, you know, how you play the game over time
+and give you tips on how to better leverage your racket, how to better leverage
+your swing, how to put more speed on the ball how to put better spent on the
+ball. You known, and these are the types of things that the IoE is
+realizing and it covers, you know, that gambit that I just talked about all way
+from, you know, massive mining operation, you know, all the way to the racket
+that it's in my hand it's a fascinating time, fascinating thing to think about.
+
+I was reading today about wireless sensor network projects that are being done with Arduino's
 so small microcomputers and small chips that can run wireless networks and are
-actually creating home networks using TCP/IP version 6 or IPV six network
-stacks and it's pretty interesting so as not to something that's I think you
+actually creating home networks using TCP/IP version 6 or IPv6 network
+stacks and it's pretty interesting so it's not just something that's I think
+gonna
 come down from companies and corporations to us but also home users are able to
 play with this technology right now with some of these small systems hobbyist
-kids there playing with the raspberry pine with the Arduino and their working
-with six low wireless pan and their working with these 802.15 Bluetooth style
+kids there playing with the raspberry pie, with the Arduino and they're working
+with six low wireless PAN and they're working with these 802.15 Bluetooth style
 networks to create their own sensors so it's going to be something that
-develops I think really really quickly I was also reading today about on
-there's an article on the web about a country that looked at shipments that
-came in for a product and him and to consider which countries but these
+develops I think rather really quickly.
+
+I was also reading today about/ there's an article on the web about a country that looked at shipments that
+came in for a product and I'm not gonna say which countries but these
 products were teapots and when they looked at the manifest it showed one weight
-and then when they when they weighed him again it that showed a different
-weight and they took apart these teapots and found wireless devices wireless
-chips in the teapots and when they looked at the they claim that the the
+and then when they when they weighed him again it/ that showed a different
+weight and they took apart these teapots and found  wireless devices wireless
+chips in the teapots and when they looked at it, they claim that the
 wireless chips in the teapots were looking for wireless networks in the home
-and distributing malware in the home so we could have the security situation
-where you know where there's already wireless sensors in your home and your
-your common devices that potentially could be a security risk and the dark side
-of the aisle we guess minimart is it's it's a scary thought but the either your
-refrigerator could be hacking your wireless network at home right now while you
-that you get home from work and you realize that your fridges been turned off
-and there's water everywhere and someone to deny off service in your files so I
-guess the big question here is how do we secure all the stuff you know that I'd
-be a good topic for another podcast I think definitely I think of something the
-love, why like to thank everybody for joining us on the podcast today really
+and distributing malware in the home. So we could have a security situation
+where, you know, where there's already wireless sensors in your home in your
+common devices, that potentially could be a security risk.
+
+Yeah it's the dark side of the IoE, I guess.
+
+I mean, you might/ it's a scary thought but, yeah, your refrigerator could be
+hacking your wireless network at home right now.
+
+Well Yeah, and then you get home from work and you realize that your fridges
+has been turned off and there's water everywhere and someone did a denial of
+service in your fridge. How about that ?
+
+Wow, so I guess the big question here is how do we secure all the stuff. You know that'd
+be a good topic for another podcast I think.
+
+Definitely I think that's something that we'll have comming up.
+Well I'd like to thanks everybody for joining us on the podcast today. I've really
 enjoyed the conversation talking about what all the possibilities are from
-alarm clock in the coffee pot to together to how these things connect inside of
-your house how things communicate together how they how the computing works
-with the clouds and fog are just fantastic conversation in, leading into what
-are some of the concerns security and looking for talking about and subsequent
-podcasts thanks for listening know more about what you just heard check out our
-show notes at www.nettedCAD.com/group/offerings/IOD initial research and
-writing for these podcast by Rick Graziani and Dave Holsinger are audio
-producer is Dan Epstein the Internet of everything podcast series is produced
-by Jeremy Creech and Jane Gibbons and is brought to you by the Cisco networking
-Academy
+how an alarm clock and the coffee pot can work together to how these things connect inside of
+your house, how things communicate together, how they/ how the computing works
+with the clouds and fog and 'are just fantastic conversation and kind of
+leading into what
+are some of the concerns, you know, security and I'm looking forward to talking
+about that in subsequent
+podcasts.
+Thanks for listening.
