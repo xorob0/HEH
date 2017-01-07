@@ -253,38 +253,46 @@ security has to change it's, you know, this is a moving target. Bernadette
 stated that Cisco is uniquely positioned in the IOE market, and it true
 because they are pioneers in the security industry and a they provide an
 intense solution with all kinds of products. But if we look at how we're gonna secure
-the Internet of everything we can start with things we mention sensors we
-mention actuators and controllers in a reputable manufacturers will have to
+the Internet of everything, we can start with things. We mentionned sensors, we
+mentionned actuators and controllers, you know, reputable manufacturers will have to
 design for assurance which means that they have to account for security
-reliability and are designed to ensure this to be growing pains as we go along
+reliability in their designs.And sure, this is gonna be growing pains as we go
+along,
 and they will use proprietary protocols and security may not be at the
-forefront when their first new coming out these devices but it will know it it
-has to be because were evolving and abroad mention the problem with firmware
-updates but I can understand how sensors would have be a prominent sensors but
-in some devices already have the ability to auto update their third firmware
-late I have a Western Digital my cloud drive at home and I get emails once in a
-while saying that it updated the firmware automatically in and was it was
-successful so that those systems are out there and indeed the bill just get
-better especially in a week we mentioned proprietary protocols as it evolves
-standards will will be developed and I will make everything work better
-together computers we mentioned already there's antivirus and anti-malware and
-the board was never sure has made this a lot more difficult with smart phones
-tablets and such but you know Cisco has product like any connect which allows
-you to establish secure connections through from pretty much any device now
-laptop android by phone and such to central network and we mentioned a few
-times already in this podcast that you know it's not just about securing the
-end devices but it's a it's really we need an intense solution and then the
-network is that solution service providers network providers call providers
-will have to make sure that they are protecting anything that's connecting as a
-comes online and how do they do that or there's all kinds of hardware and
-software solutions and for example there's identity-based access control Cisco
+forefront when they first, you know, coming out with these devices. But it
+will, you know, it
+has to be, because we're evolving. And, Rod mentionned the problem with firmware
+updates, I can understand how sensors would have, you know,/ a problem with
+sensors, but, you know, some devices already have the ability to auto update
+their firmware.
+Like, I have a Western Digital my cloud drive at home and I get emails once in a
+while saying that it updated the firmware automatically and was, you know, it was
+successful. So that those systems are out there and they all just get
+better. Especially, you know, we mentioned proprietary protocols, as it evolves
+standards will be developed and it will make everything work better
+together. Computers we mentioned already there's antivirus, anti-malware and
+the borderless network sure has made this a lot more difficult with smart
+phones,
+tablets and such. But you know Cisco has product like any connect which allows
+you to establish secure connections through/ from pretty much any device now
+laptop, android, iphone and such to a central network and we mentioned a few
+times already in this podcast that, you know, it's not just about securing the
+end devices, but it's really, we need an end to end solution and the
+network is that solution. Service providers, network providers, call providers
+will have to, you know, make sure that they are protecting anything that's
+connecting as it
+comes online. And how do they do that ? Well there's all kinds of hardware and
+software solutions, you know, for example there's identity-based access
+control, Cisco
 has a system called the identity services engine and it enforces that
-identity-based access control to mobile devices but also can also enforce it to
-the machine to machine network elements like sensors and actuators in the
-others also firewalls we can use such as the Cisco adaptive security appliance
-that the specific order firewall does it protect since I network from the
-outside network so make sure that anything from the insight can go out and come
-back but the outside people can come in it's based on sets of rules in the was
+identity-based access control to mobile devices, but it also/ can also enforce it to
+the machine to machine network elements like sensors and actuators. You know,
+there is also firewalls that we can use such as the Cisco adaptive security
+appliance,
+that specifically, what a firewall does it protect inside networks from the
+outside network, so, you know, make sure that anything from the inside can go out and come
+back but the outside people can't come in, it's based on sets of rules. And, you
+know, there is
 also systems like intrusion prevention systems like a Cisco IPS and it
 basically monitors your network for malicious activity and it could be known a
 malicious stuff but it can also be looking for anomalies in normal traffic
