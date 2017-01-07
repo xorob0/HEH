@@ -84,111 +84,144 @@ skills that are required to cope with this rapid increase in connected devices
 and particularly to address security and privacy issues.
 
 When it comes to the
-IOE that that another another problem with the new thing among the bad guys now
-that actors know which is going for the devices that are not exactly computers
-they are but not in the way we know when it's right to to explain this when you
-talk about the computer to your PC your phone your tablet beer running OS is
-there running probably a version of Windows or Mac OS or android or IOS Apple's
-iOS right these are the big players in the market and the beauty is people have
-been working on the systems for a while now and they're designed to be updated
-so it if for some reason someone finds a way an illegal way into the systems
+IOE that's another problem with the new thing among the bad guys now,
+the hackers, now, which is going for the devices that are not exactly
+computers.
+they are but not in the way we know. Let me try to explain this. When you're
+talking about the computer, right ?, your PC, your phone, your tablet, they're
+running OSs,
+there running probably a version of Windows or Mac OS or android or IOS, Apple's
+iOS, right ? These are the big players in the market and the beauty is people have
+been working on this systems for a while now and they're designed to be
+updated.
+So, if for some reason someone finds a way, an illegal way into these systems
 the companies responsible for the systems have teams and teams of people ready
-to jump in and prepare an update so to fix that point where the bad guys could
-answer right appointment could be exploited and to gain illegal access to the
-system but when we're talking about the IOE these devices are could be your TV
-could be your coffeemaker as we mentioned in earlier podcast as they could be
-your car and most often times these devices will not be running in the West
-that have been in the market for as long as these main players we were talking
-about earlier so what I'm trying to say is if you are talking about your car
-your cars running on an OS which I was not going to be called in operating
-systems are probably the all firmware it's running the software that may not be
-designed to be updated you remember back in 2012 believe there was a virus
-called Starks net is related to attack on Iran nuclear material generation
-that's exactly right in the the hackers the bad guys what they did was to
-target the machines running side this power plants and the thing is these
-machines are a little bit old and they run a very specific version of a of a
-system that it's not usable it's it's not easy to upgrade so once those
+to jump in and prepare an update. So to fix that point where the bad guys could
+enter, right, that point that could be exploited and to gain illegal access to the
+system. But when we're talking about the IOE these devices are/ it could be your TV
+it could be your coffeemaker as we mentioned in earlier podcast. It could be
+your car and most of the times these devices will not be running in the ways
+that have been in the market for as long as these main players that we were talking
+about earlier. So what I'm trying to say is if you are talking about your car,
+your cars is running an OS which probably is not going to be called in operating
+systems, it's probably gonna be called firmware. It's running the software that may not be
+designed to be updated. If you remember back in 2012 I believe there was a virus
+called Stuxnet.
+
+Yeah.
+
+Remember that ?
+
+Yes, related to an attack on Iran nuclear material generation.
+
+That's exactly right. And the hackers, the bad guys what they did was to
+target the machines running side (inside?) this power plants. And the thing is these
+machines are a little bit old and they run a very specific version of a
+system that  it's not easy to upgrade. So once those
 machines were compromised there was nothing really to be done other than toss
-them away and buy new machines near talking about a powerful and they have
-thousands and thousands of those things all over the PowerPoint réseau shut
-it out so there's nothing to be done you have to shut it out days and your
-client by these logic circuits are inside these machines these logic boards are
-in everything everything you have probably you give the example the car you
-give the example that stocks not attack but we talked about you eat the TVs the
-refrigerator is the you name it is everywhere right everything and so so this
-makes that risk significantly larger the potential risks to devices that can be
-compromised as escalated exponentially well I I think that's really interesting
-because the Internet everything presents a unique security challenge based on
-some of the things Rod was talking about when he talked about operating systems
-embedded operating systems are firmware operating systems are not necessarily
-can be updated and right now we have these devices that are now infiltrating
-into the home automating things for us we have smart sensors in our cars and
+them away and buy new machines. We're talking about a power plant, they have
+thousands and thousands of those things all over the Power plant.
+
+Right.
+
+So it shut down. There is nothing to be done, you have to shut it down.
+
+And so, you're talking about these logic circuits that are inside these
+machines. These logic boards are
+in everything that we have. You know, you gave the example of the car, you
+gave the example that stuxnet attack, but we talked about, you know, the TVs, the
+refrigerators,...
+
+You name it, it's everywhere right ?
+
+Everything. And so this
+makes that risk significantly larger. The potential risks to devices that can be
+compromised has escalated exponentially.
+
+Well, I think that's really interesting
+because the Internet of everything presents a unique security challenge based on
+some of the things Rod was talking about when he talked about operating
+systems,
+embedded operating systems or firmware, operating systems are not necessarily
+gonna be updated. And right now we have these devices that are now infiltrating
+into the home automating things for us, we have smart sensors in our cars and
 all these vehicles but a lot of it is proprietary technology so from the
 security experts point of view it's pretty difficult to all of a sudden update
 and patch all of these different systems that are not even necessarily IP
-address and able to systems that are not traditional computers as Roderigo was
-saying so that that presents a huge security challenges you know do I have the
+address enabled systems. They are not traditional computers as Roderigo was
+saying. So that presents a huge security challenges, you know, do I have the
 firmware on the temperature sensors on my house sufficiently updated and
-patched you're not to be presented with an update warning to your system tray
-in your Windows operating system telling you that that that has to happen
-because is not a traditional IP enabled device CSI we presents the security
+patched. You're not gonna be presented with an update warning to your system tray
+in your Windows operating system telling you that has to happen
+because is not a traditional IP enabled device.
+
+So as we presents these security
 challenges and along those lines Cisco has a great white paper on the web right
-now on security intelligence and one of the topics they talk about are these
+now on security intelligence. And one of the topics they talk about are these
 dark spaces on the network these blind spots that the traditional security
-person is not necessarily even thinking about it because maybe they're not IP
+person is not necessarily even thinking about because maybe they're not IP
 enabled devices right and these are places that you're not used to thinking
 about and devices in the Internet of everything that you're not used to
-thinking about things like printers or sensors or just devices that are now
-becoming smart and are coming online but yet are not traditional is not your
-operating system where you have the antivirus tool necessarily makes it really
-easy not I login and I update my antivirus and I run a scan well the Internet
+thinking about. Things like printers or sensors or just devices that are now
+becoming smart and are coming online but yet are not traditional, it's not like your
+operating system where you have the antivirus tool necessarily and it makes it really
+easy, you know, I login and I update my antivirus and I run a scan. Well the Internet
 of everything is going to be adding so many more devices and it's not always be
-that simple the curriculum talks about by the year 2020 were to have 50 billion
-more devices connected to the Internet now that's connected devices IP enabled
+that simple. The curriculum talks about by the year 2020 we're gonna have 50 billion
+more devices connected to the Internet. Now that's connected devices IP enabled
 were IPv6 enabled devices but what about all the devices that are not even
 going to be connected to the Internet but yet are still networked and maybe
-have wireless networks and are in our homes so we still have to be present to
-that we have to think about security risks that have not even presented
-themselves yet that's difficult so you definitely difficulty with patching and
-updating and Bernadette brought up a point that Cisco is definitely leading the
-way one of the things that this white paper talks about is the fact that were
-going to need and what is already there right now but basically global data and
-threat analytics kind of the eye in the sky type of service so that our network
+have wireless networks and are in our homes ? So we still have to be present to
+that, we have to think about security risks that have not even presented
+themselves yet and that's difficult. So yeah definitely difficulty with patching and
+updating. And Bernadette brought up a point that Cisco is definitely leading the
+way, one of the things that this white paper talks about is the fact that we're
+going to need, and what is already there right now, but basically global data and
+threat analytics, kind of the eye in the sky type of service so that our network
 devices will go out onto the Internet and have constant signature updates and
-constant patches and constant scanning of a behavior-based analytics or
-behavior-based signatures on our network devices whether their wireless where
+constant patches and constant scanning of behavior-based analytics or
+behavior-based signatures on our network devices whether their wireless and
+where ever
 they are to look for lapses in security or authentication or access break
-break-ins things like that so the Internet everything really presents an
-expanded attack surface because Reagan have all these things that are going to
-be interconnected and it's can present huge challenge in your making a really
-interesting point as I think about it I think about my home for example used to
-be that you and I just had one PC in the home but now I not finance like a
+break-ins things like that. So the Internet of everything really presents an
+expanded attack surface, because we're gonna have all these things that are going to
+be interconnected and it's gonna present huge challenge.
+
+You're making a really
+interesting point. As I think about it, as I think about my home for example it used to
+be that, you know, I just had one PC in the home. But now, you know, I find/
+it's like a
 headache in my household when I think about the number of devices and see what
-each of my children for children have a computer my wife has a computer I have
-a computer there is what three iPad cell for iPhone when it's time to update
+each of my children, four children, have a computer, my wife has a computer, I have
+a computer there is what? Three iPads, four iPhones. And when it's time to update
 and run around and keep up with all the stuff I mean seriously I feel like I'm
 looking around for what I need to install a server so I can do a managed kind
-of security distribution program just in my household and now you start telling
-me about well when a connection TVs will connect you your your landline
-telephones working to connect to connect your treadmill for can connect. Your
-dishwasher and then and I certainly if I if I take a moment and a shirt to
-think about the number of security updates for me to try and maintain an
-awareness of as a headache and not in the in I don't want to adopt all that I
-want to implement all that in so you know when I was here and Bernadette talked
-earlier about well it makes a lot of sense the solution can't be managing the
-security on individual devices but something that is more holistic and damn
-like what you are alluding to something that takes into account a much greater
-breadth and context of what's going on to manage security more comprehensively
-and attacking it from nations that I can but mitigating security threats from a
-more centralized or consolidated place in so you're talking about security
-threats on the devices themselves but also you'll see Roderigo had alluded to
-this earlier talking about the impact to personal privacy and I'm interested in
-what sorts of changes reordered about the changes that we need to make inside
-of the devices themselves but what sorts of changes you know how are things EI
-will one example I can think of is like the hippo policies there now in place
-to protect patient privacy you what sort of additional policies I I anticipate
-more policies like that to help protect the privacy of people from all from a
-policy perspective not necessarily a technology perspective came to provide,
+of security distribution program just in my household. And now you start telling
+me about, well, we're gonna connect some TVs we're gonna connect, you know, your landline
+telephones, we're gonna connect your treadmill, we're gonna connect your
+dishwasher. And then and I start to/ if I take a moment and a start to
+think about the number of security updates for me to try and maintain in
+awareness of. That's a headache, you know,. And I don't want to adopt all that, I
+don't want to implement all that. And so, you know, when I was hearing Bernadette talk
+earlier about, well, it makes a lot of sense, the solution can't be managing the
+security on individual devices but something that is more holistic, you know, Dane
+like what you were alluding to, something that takes into account a much greater
+breadth and context of what's going on to manage security more comprehensively.
+And attacking it from, I should'nt say attacking, but mitigating security threats from a
+more centralized or consolidated place. And so, you're talking about security
+threats on the devices themselves but also, you know, Roderigo had alluded to
+this earlier talking about the impact to personal privacy. And I'm interested
+in, you know,
+what sorts of changes, you know, we're talking about the changes that we need to make inside
+of the devices themselves but what sorts of changes, you know, how are things,
+you know,/
+One example I can think of is like the ?hyper? policies that are now in place
+to protect patient privacy. What sort of additional policies, I anticipate
+more policies like that to help protect the privacy of people from a
+policy perspective not necessarily a technology perspective. Can you provide
+comments on that ?
+
+
 well it's interesting about that is recently had the situation where we had to
 hack on many celebrities pictures that were uploaded to their cloud-based
 services so now not only do we have to you know have the security on all these
