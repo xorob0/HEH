@@ -221,32 +221,38 @@ more policies like that to help protect the privacy of people from a
 policy perspective not necessarily a technology perspective. Can you provide
 comments on that ?
 
-
-well it's interesting about that is recently had the situation where we had to
+well it's interesting about that is recently we've had the situation where we
+had the
 hack on many celebrities pictures that were uploaded to their cloud-based
-services so now not only do we have to you know have the security on all these
-devices but everything is also being virtualized so not only do you have all of
-those computers and systems and connected devices in your home Jeremy but what
-about all the virtual systems and what about the cloud-based systems and so
-from a personal level you know my phone I take a photograph with my phone and
-then two days later it says hey this is available now to share from your Google
-plus account because it's been automatically updated to my cloud service will
-me that's essentially something that a lot of people don't even realize is
-happening so maybe you start to wonder well are all the celebrities really
-uploading all these you know private photos to the web on purpose know it's
-being automated for them and they're just not accounting for Internet was then
-and that information is then hacked and so it's a it's an added security risks
-of the security risk has expanded to the cloud now and so personal privacy is a
-great risk we had you this is been the year of personal data loss with the
-target hack that happened in 40 million cards that were compromised people have
-to change their behaviors there you have to really monitor the way they're
-doing things and it's instantly enough to change the way people do stuff is so
-Bob Harlingen mitigate the security concerns in the IOE well I know we all know
-that the intent of everything is evolving more more devices are connecting
-security has to change it and it's a know this is a moving target Bernadette
-stated that the Cisco is uniquely positioned in the IOE market and strew
+services. So now, not only do we have to, you know, have the security on all these
+devices but everything is also being virtualized. So not only do you have all of
+those computers and systems and connected devices in your home Jeremy, but what
+about all the virtual systems and what about the cloud-based systems ? And so
+from a personal level, you know, my phone, I take a photograph with my phone and
+then two days later it says "hey this is available now to share from your Google
+plus account" because it's been automatically updated to my cloud service.
+Well, I mean, that's essentially something that a lot of people don't even realize is
+happening. So, maybe, you start to wonder, well, are all the celebrities really
+uploading all these you know private photos to the web on purpose ? No, it's
+being automated for them and they're just not accounting for it and then
+that information is then hacked and so it's an added security risks.
+So the security risk has expanded to the cloud now. And so, personal privacy is
+at
+great risk we have/ ,you know, this has been the year of personal data loss with the
+target hack that happened and 40 million cards that were compromised. People
+are gonna have
+to change their behaviors they're gonna have to really monitor the way they're
+doing things. And it's definitely gonna have to change the way people do stuff.
+
+So, Bob, how are gonna mitigate the security concerns in the IOE ?
+
+Well, you know, we all know
+that the Internet of everything is evolving. More and more devices are
+connecting,
+security has to change it's, you know, this is a moving target. Bernadette
+stated that Cisco is uniquely positioned in the IOE market, and it true
 because they are pioneers in the security industry and a they provide an
-intense solution with all kinds of products but if we look at how we can secure
+intense solution with all kinds of products. But if we look at how we're gonna secure
 the Internet of everything we can start with things we mention sensors we
 mention actuators and controllers in a reputable manufacturers will have to
 design for assurance which means that they have to account for security
