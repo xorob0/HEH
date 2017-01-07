@@ -293,55 +293,63 @@ that specifically, what a firewall does it protect inside networks from the
 outside network, so, you know, make sure that anything from the inside can go out and come
 back but the outside people can't come in, it's based on sets of rules. And, you
 know, there is
-also systems like intrusion prevention systems like a Cisco IPS and it
-basically monitors your network for malicious activity and it could be known a
-malicious stuff but it can also be looking for anomalies in normal traffic
-looks like this almost in different types of traffic is evolving and he can
-raise flags there's VPN services to protect your data as are not communicating
-in and I envision that even though small sensors down the road will establish
-small VPN connections to the controllers so that if anybody does intercept the
-traffic they would make sense with what with the information the same data
-centers in and cloud services are already you have been designed with security
-at the forefront of their using software defined defined networks which has
-security built in an Cisco solution to that is the Cisco application centric
-infrastructure ACI which integrates physical and and virtual security
-technologies but know if we mentioned that everybody's mention this it
-basically comes down to what the weakest link is and the weakest link in all
-security is is basically people we have to like Roderigo said we have to make
-sure that or we have to preach to the people that you have to be smart be leery
-about sharing your personal information you know whenever there's different
+also systems like intrusion prevention systems, like a Cisco IPS. And it
+basically monitors your network for malicious activity and it could be known
+malicious stuff, but it can also be looking for anomalies, you know, normal traffic
+looks like this ?almost? in different types of traffic is evolving and it can
+raise flags. There's VPN services to protect your data as you're, you know,
+communicating.
+And I envision that even though small sensors down the road will establish
+small VPN connections to their controllers so that if anybody does intercept the
+traffic they wouldn't make sense with what the information are saying. Data
+centers and cloud services are already, you know, been designed with security
+at the forefront. You know, they're using software defined networks which has
+security built in and Cisco solution to that is the Cisco application centric
+infrastructure or ACI which integrates physical and and virtual security
+technologies.
+
+But, you know, we've mentioned, you know, I think everybody's mention this, it
+basically comes down to what the weakest link is. And the weakest link in all
+security is basically people. We have to, like Roderigo said, we have to make
+sure that/ we have to preach to the people that you have to be smart. Be leery
+about sharing your personal information, you know. Remember there's different
 types of data like there's the data that you're volunteering like on Facebook
-you're liking something and in your sharing something but there's other types
-of information your own personal data have to be conscious of liking for data
-such as your credit card score observed data someone nor your phone tracking
-where your worrier going with his GPS functionality so you'll be cautious about
-what you enable and you know things like you know sometimes you you download an
-app and it's asking you do want use your Facebook account to to make this
+you're liking something and in your sharing something, but there's other types
+of information. Your own personal data that you have to be conscious of, like
+infered data
+such as your credit card score, observed data, you know, someone or your phone tracking
+where you 're going with his GPS functionality. So, you know, be cautious about
+what you enable and, you know, things like, you know, sometimes you download an
+app and it's asking you do want use your Facebook account to make this
 easier to login will forget that as soon as you click yes this other company
-will now have access to contacts and perhaps even photos and what have you so
-be smart about what you're doing security is not a solution so I can be a
-silver bullet that you know it's it's going to protect everything all of these
-solutions are not full proof of the canopy because you were evolving there's
-always good to be something new coming on the horizon it's it's a bit like we
-mentioned earlier it's a moving target and sure they'll be hiccups and bumps
-along the way but as a system evolves matures it's only going to get better you
-know I think of you know if you don't want to get a cold if you want to get
-sick don't leave your home live in a bubble but no one wants to do that the
-same thing with the IOE like you are you have problems and you are getting
-Keller no hiccups along the way but I'd rather enjoy the ride and stay at home
-in a bubble enjoyed the conversation about security and while security and
-privacy risks are very real apparently in the Internet of everything it seems
-like it's a matter of posture is about remaining cognizant and aware of what
-those risks are as we interact with the Internet everything moving forward and
-that we can mitigate those risks moving forward and that you know Cisco has a
-lot of technologies in place they can react to real-time risks inside of the
-network but also there's a need to responsibility for people for organizations
-to have systems in place security policies in place that also help protect the
-individuals and the consumers in those organizations accordingly so enjoy this
-conversation I want thinker listeners I also want to thank all of our guests
-Bob Roderigo Dan and Bernadette thanks for listening to know more about what
-you just heard check our show notes at www.Medicare.com/group/offerings/IOE
-initial research and writing for these podcast by Rick Graziani and Dave
-Holsinger are audio producer is Dan Epstein the Internet of everything podcast
-series is produced by Jeremy Creech and Jane Gibbons and is brought to you by
-the Cisco networking Academy
+will now have access to contacts and perhaps even photos and what have you, so,
+you know,
+be smart about what you're doing. Security is not a solution , it's not gonna be a
+silver bullet that, you know, it's going to protect everything. All of these
+solutions are not fool proof, they can't be, because, you know, we're evolving.
+There's
+always gonna be something new coming on the horizon. It's a bit like we
+mentioned earlier, it's a moving target. And sure they'll be hiccups and bumps
+along the way, but as a system evolves and matures it's only going to get
+better. You
+know, I think of, you know, if you don't want to get a cold, if you want to get
+sick don't leave your home, live in a bubble. But, you know, no one wants to do
+that. And it's
+same thing with the IOE, you are gonna have problems and you are gonna
+encounter, you know,
+hiccups along the way but, you know, I'd rather enjoy the ride and stay at home
+in a bubble.
+
+So I've enjoyed the conversation about security and while security and
+privacy risks are very real apparently in the Internet of everything, it seems
+like it's a matter of posture. it's about remaining cognizant and aware of what
+those risks are as we interact with the Internet of everything moving forward and
+then we can mitigate those risks moving forward. And that, you know, Cisco has a
+lot of technologies in place, they can react to real-time risks inside of the
+network. But also there's a need to responsibility for people for organizations
+to have systems in place, security policies in place that also help protect the
+individuals and the consumers in those organizations accordingly. So, I've
+enjoyed this
+conversation, I wanna thank our listeners, I also want to thank all of our guests
+Bob Roderigo Dan and Bernadette.
+Thanks for listening.
