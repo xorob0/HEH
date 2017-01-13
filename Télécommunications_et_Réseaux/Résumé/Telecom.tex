@@ -1,0 +1,315 @@
+ \documentclass[10pt,a4paper]{article}
+ \usepackage[utf8]{inputenc}
+ \usepackage[francais]{babel}
+ \usepackage[T1]{fontenc}
+ \usepackage{amsmath}
+ \usepackage{amsfonts}
+ \usepackage{amssymb}
+ \usepackage{fixltx2e}
+ \usepackage{hyperref}
+ \author{Timothée Simon}
+ \title{Résumé Télécomunication et réseaux}
+ \begin{document}
+
+ \part{Chapitre 1: Introduction et généralités}
+ \section{Généralités fondamentales}
+
+ \subsection{Information}
+ L'unité de base de l'information en informatique est le \textbf{bit} (\textit{b}) qui peut prendre les valeurs 1 ou 0. Un groupe de 8 bits forme un octet (o) ou byte (B). Un octet peut prendre 256 valeurs différentes.
+ \begin{itemize}
+ 	\item 1 Ko = 1000 octets
+ 	\item 1 Mo = 1000 Ko
+ 	\item 1 Go = 1000 Mo
+	\item 1 To = 1000 Go
+ \end{itemize}
+
+ \subsection{Image et vidéo}
+ Un \textbf{pixel} (\textit{px}) est l'unité minimale adressable par le controleur vidéo.\\
+ La \textbf{définition} d'écran est le nombre de pixels que peut afficher une carte graphique sur un écran. Définition = nombre de pixels verticaux * nombre de pixels horizontaux.\\
+ Les \textbf{frames per second} (\textit{fps})
+
+ \subsection{Débits}
+ L'unité du débit est le \textbf{bits par seconde} (\textit{bit/s} ou \textit{bps}).
+
+
+ \section{Rôles de l'administrateur}
+ \begin{itemize}
+	 \item La gestion des besoins, du budget et des priorités.
+	 \item La gestion des ordinateurs et des périphériques.
+	 \item La gestion des performances des systèmes.
+	 \item La gestion des utilisateurs.
+	 \item La gestion des fichiers et des disques.
+	 \item La gestion des services.
+	 \item La gestion des problèmes.
+	 \item La gestion des sauvegardes et du stockage des données.
+	 \item La gestion du réseau.
+	 \item La gestion de la sécurité.
+ \end{itemize}
+
+ \subsection{La gestion des besoins, du budget et des priorités}
+ L'administrateur réseau doit s'adapter aux besoins de l'entreprise et fournir une infrastucture correspondant aux besoins du client mais qui soit aussi évolutif.\\
+ L'administrateur réseau doit établir un cahier des charges reprennant les besoins matériels et logiciels de l'entreprise tout en établissant un ordre de priorités.\\
+ L'administrateur réseau doit ensuite comparer les ordres et choisir la solution la plus sécurisée, évolutive, tolérante aux pannes et dans le budget de l'entreprise.
+
+ \subsection{La gestion des ordinateurs et des périphériques}
+ L'administrateur réseau doit pouvoir gérer le matériel (Machines, composants, périphériques):
+ \begin{itemize}
+	 \item Installer les OS, paramétrer le démarrage et l'arret.
+	 \item Gérer les disques (initialisation, partitionnement, remplacement\ldots).
+	 \item Ajouter ou enlever un périphérique.
+	 \item Planifier le vieillissement de matériel et prévoir son remplacement.
+	 \item Ajouter (ou supprimer) un pilote de périphérique.
+ \end{itemize}
+
+ \subsection{La gestion des performances des systèmes}
+ L'administrateur réseau doit savoir:
+ \begin{itemize}
+	 \item Paramétrer et répatir les ressources pour obtenir un système parfaitement fonctionnel.
+	 \item Surveiller les ressources afin de régir avant un éventuel manque de ressources.
+ \end{itemize}
+
+ \subsection{La gestion des utilisateurs}
+ L'administrateur réseau doit savoir:
+ \begin{itemize}
+	 \item Créer, modifier et supprimer les comptes utilisateurs sur les sytèmes dont il est en charge.
+	 \item Modifier l'environnement de travail des utilisateurs, changer leur mot de passe, gérer les droits d'accès\ldots
+	 \item Eduquer les utilisateurs pour qu'ils utilisent correctement les outils informatiques mis à leur disposition.
+ \end{itemize}
+
+ \subsection{La gestion des fichiers et des disques}
+ L'administrateur réseau doit savoir gérer les fichiers et les systèmes de fichiers présents sur les disques:
+ \begin{itemize}
+	 \item Mettre en place et gérer les sytèmes de fichiers (création, configuration des permissions, cyptage\ldots)
+	 \item Veiller à l'intégrité des systèmes de fichiers et donc des données.
+	 \item Gérer l'arorescence des fichier (organisation et accès).
+	 \item Surveiller l'espace disque: contrôler le taux d'occupation des disques, mettre en place des quotas\ldots
+ \end{itemize}
+
+ \subsection{La gestion des serives}
+ L'administrateur réseau doit savoir configurer et utiliser les services qui répondent aux besoins du client. Par exemple les services fournis par un systeme Linux (gestion des taches, service d'impression\ldots)
+
+ \subsection{La gestion des problèmes}
+ L'administrateur doit connaitre ses machines et leur configuration ainsi que son réseau pour pouvoir intervenir rapidement et éfficacement en cas de problème.\\
+ Il doit mettre en place des outils de diagnostiques permettant de l'alerter en cas de panne.\\
+ Il peut être utile de préparer des fiches permettant aux utilisateur de faire part de leur problème au service informatique.\\
+
+ \subsection{La gestion des sauvegardes et du stockage des données}
+ La gestion des sauvegardes est un point très important pour un administrateur réseau. Il doit être capable de récupérer rapidement n'importe quelle donnée perdue.
+
+ \subsection{La gestion du réseau}
+ L'administrateur réseau doit mettre en place des outils de surveillance du reseau pour suivre les performances et les mettre en relatio avec un changement.\\
+ L'administrateur réseau doit savoir mettre en place et modifier l'architecture du reseau; il doit donc pouvoir:
+ \begin{itemize}
+	 \item Choisir la topologie du réseau.
+	 \item Choisir les protocoles réseau.
+	 \item Mettre en place de la redondance.
+	 \item Organiser le routage et le filtrage.
+ \end{itemize}
+ L'administrateur réseau doit savoir gérer les différents éléements du reseau:
+ \begin{itemize}
+	 \item Choisir, installer et paramétrer les éléements.
+	 \item Paramétrer le démarrage et l'arrêt de tous les sytèmes
+	 \item Automatiser le processus de démarrage des nouveaux services et produits sur les machines clientes et serveurs.
+ \end{itemize}
+
+ \subsection{La gestion de la sécurité}
+ L'administrateur réseau doit veiller à la sécurité en prenant compte des trois axes:
+ \begin{itemize}
+	 \item \textbf{Assurer la confidentialité}: Limiter l'accès aux destinataires autorisés
+	 \item \textbf{Garentir l'intégrité des données}: Veiller à ce que les données transmises restes intactes
+	 \item \textbf{Assurer la disponibilité}:Faire en sorte que les utilisateurs puissent accéder en temps voulu aux données
+ \end{itemize}
+ Les menaces de sécurités peuvent être:
+ \begin{itemize}
+	 \item \textbf{Virus, vers et chevaux de Trois}: Logiciels malveillants s'exécutant sur un périphérique utilisateur.
+	 \item \textbf{Logiciels espions et publicitaires}: Logiciels qui collecte secrètement les données sur un périphérique utilisateur.
+	 \item \textbf{Attaques zero-day}: Attaques se produisant peu de temps après qu'une vulnérabilité ait été détectée.
+	 \item \textbf{Attaques de pirates}: Attaques lancées sur un périphérique utilisateur ou une ressource réseau par une personne ayant de solides connaissances en informatique.
+	 \item \textbf{Attaques par dénis de service}: Attaques concuens pour ralentir voir bloquer les applications et processus d'un périphérique réseau.
+	 \item \textbf{Interceptions et vols de données}: Attaques visant à acquérir des informations confidentielle à partir du réseau d'une entreprise.
+	 \item \textbf{Usurpations d'identité}: Attaques visant à recueillir les identifiant de connexion d'un utilisateur affin d'accéder à des données confidentielles.
+ \end{itemize}
+ Les risques pour un entreprise liés à un manque de sécurités sont:
+ \begin{itemize}
+	 \item Des pannes réseau empêchant les transfers de données, entrainant une perte d'activité et d'argent.
+ 	 \item Le vol de propriété intelectuelle.
+	 \item La divulgation ou la compromission de données privées.
+	 \item La perte de données importantes très difficiles à remplacer.
+ 	 \item Une perte de fonds.
+ \end{itemize}
+ Pour éviter celà il faut sécuriser l'infrastructure réseau et les données:
+ \begin{itemize}
+	 \item \textbf{Sécuriser l'infrastructure réseau}: Sécuriser matériellement les périphériques et empêcher l'accès non autorisé aux logiciels qu'ils hébergent.
+	 \begin{itemize}
+		 \item Controller l'accès aux salles contenant du matériel informatique.
+		 \item Mettre en place un pare-feu.
+		 \item Fermer à clé toute armoire contenant du matériel informatique.
+		 \item Mettre en place de un système de vidéosurveillance.
+		 \item Mettre en place des bannières et utiliser des VPN pour l'accès à distance.
+		 \item Utiliser des mots de passes cryptés.
+		 \item Mettre en place des logs.
+		 \item Sensibiliser les utilisateur.
+	 \end{itemize}
+	 \item \textbf{Sécuriser les données}: Protéger les informations stockées ainsi que celles qui sont transmisent sur le réseau.
+	 \begin{itemize}
+
+		 \item Mettre en place des backup de manière. Leur régularité et leur automatisation dépend de la sensibilité des données. Ils peuvent être stockés en interne, en interne dans un salle séparré, en externe ou une combinaison de ces méthodes.
+		 \item Mettre en place des logiciel antivirus et anti-espion.
+		 \item Mettre en place de la redondance pour éviter les pertes de données en transit sur le réseau.
+	 \end{itemize}
+ \end{itemize}
+
+ \section{Méthodologie de l'administrateur}
+ \subsection{La documentation}
+ La documentation est très importante pour un administrateur, elle permet de facilement trouver la cause d'un problème et de communiquer avec ses collègues.\\
+ Le journal de bord est un document daté dans lequel sont consignées toutes les informations relatives aux opérations importantes dur le réseau.\\
+ L'administrateur doit veiller à ce qu'une copie de la documentation relative au materiel soit à proximité de ce matériel.\\
+ Il doit effectuer un repérage sur les appareils.\\
+ Il doit bien commenter son code et ses configs.\\
+
+ \subsection{Sauvegarder}
+ L'administrateur doit choisir le bon type, le bon logiciel, la bonne fréquence, le bon support, le bon personnel pour ses sauvgardes. Il met en place un plan de sauvegarde et un plan de recouvrement après sinistre.
+ Une sauvgarde non testée n'a pas de valeur.
+
+ \subsection{automatiser}
+ L'automatisation d'une procédure à utiliser plusieurs fois permet de gagner du temps et réduit le risque d'erreurs.
+
+ \subsection{Agir de manière réversible}
+ Chaque action de l'administrateur réseau peut créer des problèmes, il faut donc que ces actions soient réversible rapidement. D'où l'importance du journal et des sauvegardes.
+
+ \subsection{Etre proactif}
+ L'administrateur réseau doit anticiper tout les problèmes qui peuvent survenir.
+
+ \subsection{Autres qualités requise de l'administrateur}
+ \subsubsection{Savoir communiquer}
+ L'informatitien travail rarement seul.
+ \subsubsection{Avoir une bonne connaissance du marché}
+ Être aux courants des changment sur le marché qui peuvent avoir une influence sur les choix de gestion du parc informatique.
+ \subsubsection{Connaitre ses limites}
+ L'administrateur réseau doit savoir quand il a besoin d'aide pour ne pas se retouver surchargé.
+
+ \section{Les bases}
+ \subsection{Les différentes bases}
+ \begin{itemize}
+	 \item \textbf{La base 2}, ou base binaire peut prendre les valeurs 0 ou 1.
+	 \item \textbf{La base 8}, ou base octale peut prendre les valeurs de 0 à 7.
+	 \item \textbf{La base 10}, ou base décimale peut prendre les valeurs de 0 à 9.
+	 \item \textbf{La base 16}, ou base hexadécimale peut prendre les valeurs de 0 à 9 et de A à F.
+ \end{itemize}
+
+ \subsection{Les conversions de bases}
+ \subsubsection{Conversion base 10 en base 2}
+ \begin{enumerate}
+	 \item Trouver la plus grande puissance de 2 plus petite (ou égale) que le chiffre.
+	 \item Le soustraire au chiffre de bases.
+	 \item Noter 1 dans la colone correspondante à l'exposant de 2 utilisé.
+	 \item Recommencer à l'étape 1 jusqu'a avoir 0.
+ \end{enumerate}
+ Exemple: 580\textsubscript{d}
+ \begin{enumerate}
+	 \item $2^9 \leq 512 < 580$
+	 \item $580 - 512 = 68$
+	 \item 0
+	 \item $2^6 = 64 \leq 68$
+	 \item $68 - 64 = 4$
+	 \item 01001
+	 \item $2^2 4 \leq 4$
+	 \item $4 - 4 = 0$
+	 \item 01001000100\textsubscript{b}
+ \end{enumerate}
+ Une autre méthode existe qui fonctionne dans l'autre sense:
+ \begin{enumerate}
+	 \item Si le nombre est impaire, noter 1 dans la colonne correspondante et soustraire 1.
+	 \item Diviser par 2 et passer à la colonne suivante.
+	 \item recommencer jusqu'à obtenir 0.
+ \end{enumerate}
+ Exemple: 580\textsubscript{d}
+ \begin{enumerate}
+	 \item 580 est pair donc 0\textsubscript{b}
+	 \item $580/2 = 290$
+	 \item 290 est pair donc 00\textsubscript{b}
+	 \item $290/2 = 145$
+	 \item 145 est impair donc 100\textsubscript{b}
+	 \item $145-1 = 144$
+	 \item $144/2 = 72$
+	 \item 72 est pair donc  0100\textsubscript{b}
+	 \item $72/2 = 36$
+	 \item 36 est pair donc 00100\textsubscript{b}
+	 \item $36/2 = 18$
+	 \item 18 est pair donc 000100\textsubscript{b}
+	 \item $18/2 = 9$
+	 \item 9 est impair donc 1000100\textsubscript{b}
+	 \item $9-1 = 8$
+	 \item $8/2 = 4$
+	 \item 4 est pair donc 01000100\textsubscript{b}
+	 \item $4/2 = 2$
+	 \item 2 est pair donc 001000100\textsubscript{b}
+	 \item $2/2 = 1$
+	 \item 1 est impaire donc 1001000100\textsubscript{b}
+	 \item $1-1 = 0$
+	 \item On a fini: 01001000100\textsubscript{b}
+ \end{enumerate}
+
+ \subsubsection{Conversion base 2 en base 10}
+ On additionne chaque multiple de 2 multiplié par le chiffre lui correspondant dans l'écriture binaire
+ Exemple 01001000100\textsubscript{b}:\\
+ $0*2^0 + 0*2^1 + 1*2^2 + 0*2^3 +0*2^4 +0*2^5 + 1*2^6 + 0*2^7 +0*2^8 + 1*2^9 + 0*2^{10} \\= 4 + 64 + 512 = 580$\textsubscript{d}
+
+
+ \subsubsection{Conversion base 2 en base 8}
+ Il suffit de faire des groupe de 3 bits en partant de la gauche et de les transformer un par un en base 8.\\
+ Exemple 001 001 000 100\textsubscript{b}:
+
+ \begin{enumerate}
+	 \item $100\textsubscript{b} = 1*2^2 = 4$
+	 \item $000\textsubscript{b} = 0$
+	 \item $001\textsubscript{b} = 1*2^0 = 1$
+	 \item $001\textsubscript{b} = 1*2^0 = 1$
+	 \item Donc on obtient 1104\textsubscript{o}
+ \end{enumerate}
+
+ \subsection{Conversion base 2 en base 16}
+ On porcède comme pour la conversion de la base 2 en base 8 mais en faisant des groupement de 4 bits.\\
+ Exemple 0010 0100 0100\textsubscript{b}:
+ \begin{enumerate}
+	 \item $0100\textsubscript{b} = 1*2^2 = 4$
+	 \item $0100\textsubscript{b} = 1*2^2 = 4$
+	 \item $0010\textsubscript{b} = 1*2^1 = 2$
+	 \item Donc on obtient 442\textsubscript{h}
+ \end{enumerate}
+
+ \subsubsection{Conversion base 8 en base 2}
+ On transforme chaque chiffre en base 2 suivant une des deux techniques permettant de passer de la base 10 à la base 2 (en l'adaptant si besoin).\\
+ Exemple 1104\textsubscript{o}:
+ \begin{enumerate}
+	 \item $4 = 1*2^2 = 100\textsubscript{b}$
+	 \item $0 = 000\textsubscript{b}$
+	 \item $1 = 1*2^0 = 001\textsubscript{b}$
+	 \item $1 = 1*2^0 = 001\textsubscript{b}$
+	 \item Donc on obtient 001 001 000 100\textsubscript{b}
+ \end{enumerate}
+
+ \subsubsection{Conversion base 16 en base 2}
+ On procède comme pour la conversion de la base 8 en base 2 sauf qu'on obtient des groupement de 4 bits.\\
+ Exemple 442\textsubscript{h}:
+\begin{enumerate}
+	 \item $4 = 1*2^2 = 0100\textsubscript{b}$
+	 \item $4 = 1*2^2 = 0100\textsubscript{b}$
+	 \item $2 = 1*2^1 = 0010\textsubscript{b}$
+	 \item Donc on obtient 0010 0100 0100\textsubscript{b}
+ \end{enumerate}
+
+ \subsubsection{Autres conversions}
+ Pour les autres connexion il suffit de passe par la base 2 puisqu'on sait tout transformer en base 2 et qu'on sait transformer la base 2 en tout.
+
+ \section{La communication et les réseaux d'aujourd'hui}
+
+
+
+
+
+
+
+
+
+ \end{document}
