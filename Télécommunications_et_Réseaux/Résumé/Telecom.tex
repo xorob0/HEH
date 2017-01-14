@@ -567,10 +567,149 @@
  \indent
  Sur un \textbf{diagramme de topologie logique} on indique les périphérique, les ports et le schéma d'adressage IP\@.
 
+ \subsection{Internet, le seul vrai}
+ \textbf{Internet} est un ensemble mondial de réseaux interconnectés qui coopèrent pour échanger des informations en utilisant des normes cohérentes et communément reconnues.
+
+ \smallskip
+ \indent
+ Il a donc fallu créer des normes et une structures et ce sont des organisations comme l'IETF, l'ICANN ou l'IAB qui s'en sont chargées.
+
+ \medskip
+ \indent
+ Un \textbf{intranet} est un LAN privé grâce auquel une entreprise communique des information en interne.
+
+ \smallskip
+ \indent
+ Un \textbf{extranet} permet à une entreprise de communiquer des données privées avec d'autres entreprises.
+
+ \medskip
+ \indent
+ Pour être connecté à internet, un particulier doit passer par un FAI qui peut lui permettre d'accéder à internet par différentes manières:
+
+ \paragraph{Par cable}\leavevmode
+
+ \smallskip
+
+ En utilisant les cables coaxiaux utilisé pour la télédistribution, on fourni un accèes internet haut débit via un modem spécialisé qui sépare les différents signaux.
+
+ \paragraph{Par xDSL} (\textit{Digital Subscriber Line})\leavevmode
+
+ \smallskip
+
+ En utilisant les cables téléphoniques, le xDSL fourni un accès à internet par la séparation de trois canaux: Le premier pour les appel; Le second plus rapide pour le download; Le troisième un peu moins rapide pour l'upload. Sa vitesse dépend de la qualité du cable et de la distance avec la centrale téléphonique.
+ \begin{itemize}
+	 \item L'\textbf{ADSL} (\textit{Asymmetric DSL}) utilise une bande de fréquence en dessous de celle des appels pour connecter l'utilisateur en même temps qu'un éventuel appel téléphonique.
+	 \item Le \textbf{VDSL} (\textit{Very-high-bit-rate DSL}) permet d'atteindre 13 à 55 Mb/s en dowload et 1,5 à 8 Mb/s en upload, ou 34 Mb/s en connexion symétrique
+	 \item Le \textbf{VDSL} permet d'atteindre 100Mb/s en full-duplex.
+ \end{itemize}
+
+ \paragraph{Par fibre} (\textit{FTTx pour Fiber to the x})\leavevmode
+
+ \smallskip
+
+ \begin{figure}[h]
+	 \centering
+	 \includegraphics[height=5cm]{fiber}
+	 \caption{Fiber To The x}
+ \end{figure}
+
+ La fibre optique permet des débits bien plus important que les cables et ses performances ne dépendent pas de la distance à parcourir. Il sagit donc de l'amener au plus pret du client.
+ \begin{itemize}
+	 \item \textbf{FTTN}: \textit{Fiber To The Neigbourhood}
+	 \item \textbf{FTTC}: \textit{Fiber To The Curb}
+	 \item \textbf{FTTB}: \textit{Fiber To The Building}
+	 \item \textbf{FTTH}: \textit{Fiber To The Home}
+ \end{itemize}
+
+
+ \paragraph{Par satéllite}\leavevmode
+
+ \smallskip
+
+ Internet par satéllite est accessible même pour les habitations isolées à condition qu'aucun obstacle ne se trouve entre l'antenne et le satéllite. Il est très couteux à installer mais fournis des débits important et son déploiement est immédiat.
 
 
 
 
+ \paragraph{Par cellulaire}\leavevmode
 
+ \smallskip
+
+ En utilisant les réseaux de téléphonies mobiles on fournis un accès à internet partout ou le réseau cellulaire est disponible. C'est très pratique pour les personnes en déplacement ou qui n'ont pas d'autre solution. Son débit dépend du téléphone, de l'antenne et de la distance les séparants.
+
+
+ \paragraph{Par 3GPP} (\textit{3rd Generation Partnership Project})\leavevmode
+
+ \smallskip
+
+ Grâce à la coopération d'organismes de standardisations tels que l'UIT, l'ETSI, l'ARIB/TCC, le CCSA, l'ATIS et le TTA des spécfications techniques pour les réseaux 3G et 4G ont été mis en place. Ces organisation veillent aussi à la maintenance et au développement des normes GSM (GPRS, EDGE, UMTS et LTE).
+
+ \paragraph{Par ligne commutée}\leavevmode
+
+ \smallskip
+
+ Cette technologie est l'ancètre de l'ADSL\@. Comme l'ADSL, elle recquière une ligne téléphonique et un modem. La connexion se fait par un appel au numéro de téléphone du FAI, Les débit sont donc faibles et le téléphone est inaccessible pendant ce temps.
+
+
+ \paragraph{Par WiMax} (\textit{Worldwide Interoperability for Microwave Access})\leavevmode
+
+ \smallskip
+
+ En utilisant les ondes radio on peut fournir un accèes à internet haut débit sur plusieurs kilomètres autour d'un antenne. Pour augmenter la distance entre le point de collecte et l'utilisateur on met en place des liaisons point-multipoint. Le débit maximum du WiMax varient entre 70 et 240 Mb/s partagé entre les utilisateurs raccordé à une même station, mais sont sensible a de nombreux facteurs, comme par exemple les obstacles qui influence grandement le débit.
+ Ce standard, créé par Intel et Alvarion est ratifié par l'IEEE (\textit{Institute of Electronical and Electronics Enginee}) sous le nom IEEE-802.16. Le WiMax est adapté pour les zones rurales car il permet de s'affranchir des limitations de l'ADSL, ne nécéssite pas de travaux important et permet de fournir un accès à internet nomade grâces à des bornes WiFi.\\
+ \smallskip
+
+ Pour être connecté à internet, une grosse entreprise utilise des moyens plus adaptés, tels que:
+
+
+ \paragraph{Par xDSL}\leavevmode
+
+ \smallskip
+
+ Grâce au SDSL (\textit{Symetric DSL}) on peut fournir les mêmes débit en download et en upload.
+
+
+ \paragraph{Par ligne louée spécialisée}\leavevmode
+
+ \smallskip
+
+ En reliant des bureaux distinct on permet l'échange plus rapide de données interne à l'entreprise. Cette solution est plus honéreuse. On trouves les lignes de E0 (64kb/s) à E4 (140Mb/s) en europe et les lignes T1 (1,544Mb/s) à T4 (275Mb/s) aux USA\@.
+
+
+ \paragraph{Par fibre}\leavevmode
+
+ \smallskip
+
+ Le service Ethernet sur fibre est très rapide et peu couteux par rapport à ses performances, mais il n'est pas disponnible pour tous.
+
+
+
+ \paragraph{Par ligne commutée}\leavevmode
+
+ \smallskip
+
+ Le service par satéllite n'est à privilégier que si aucun autres service par cables n'est disponible car il est plus lent, lus couteux etmoins fiables que les solutions cablées.
+
+ \subsection{Les réseaux d'hier et d'aujourd'hui}
+
+ On parvient aujoud'hui à faire converger des réseaux qui étaient hermétiques entre eux par le passé. Avec ce réseau convergent on peut faire transiter n'importe quel type de donnée par le même canal. De nouvelles normes on été mise en places. Pour pouvoir faire transiter plusieurs communications en même temps sur un réseau, on utilise pour la segmentation et le multiplexage.\\
+
+ \indent
+ La \textbf{segmentation} est le fait de découper une donnée en parties permettant d'entremeler les données. Le fait d'entremeler ces paquet s'appelle le \textbf{multiplexage} et permet de faire passer plusieurs communications en même temps sur le réseau et d'augmenter la fiabilité car les pièces ne passent pas forcément par le même chemin et les erreurs sont plus facile à corriger. Par contre ces techniques sont plus complexes à manipuler.\\
+
+ \indent
+ Dans le contexte actuel l'architecture réseau désigne l'infrastructure, le services et les normes utilisée pour faire transiter des donnée dur le réseau. On essaie de concevoir les architecture selon la règle des 5 neufs (99,999\% de disponibilité). Les architèctures sous-jacentes doivent donc faire attention à:
+
+ \subsubsection{La tolérance aux pannes}
+ L'utilisateur veut être constemment connecté, il faut que le réseau limite l'impacte des pannes. On utilise donc la \textbf{redondance}.
+
+ \subsubsection{L'évolutivité}
+ Il faut que les performances du réseaux ne diminuent pas quand on ajoute des utilisateurs.Pour régler ce problème on utilise un \textbf{modèle hierachisé à plusieurs couches}.
+
+ \subsubsection{La qualité de service}
+ L'utilisateur veux une qualité de réseaux stable et inintérompue. On utilise pour ça des \textbf{niveaux de priorités} qui classe les types de communications selon leur importance.
+
+ \subsubsection{La sécurité}
+ L
 
  \end{document}
