@@ -7,8 +7,13 @@
  \usepackage{amssymb}
  \usepackage{fixltx2e}
  \usepackage{hyperref}
+ \usepackage{graphicx}
+ \usepackage{caption}
+ \usepackage{subcaption}
+
  \author{Timothée Simon}
  \title{Résumé Télécomunication et réseaux}
+
  \begin{document}
 
  \part{Chapitre 1: Introduction et généralités}
@@ -303,9 +308,93 @@
  Pour les autres connexion il suffit de passe par la base 2 puisqu'on sait tout transformer en base 2 et qu'on sait transformer la base 2 en tout.
 
  \section{La communication et les réseaux d'aujourd'hui}
+ L'homme a toujours eu besoin de communiquer, il a donc inventé des moyens de communication ayant une portée de plus en plus grande. Aujourd'hui on a une interconnexion de réseaux fiables et rapides.\\
+ Internet a modifié notre quotidien. Avant nos pricipales sources de savoir étaient les livres et les personnes, aujourd'hui internet nous donne acès à plus de savoir.\\
+ Internet a aussi changé notre façon de communiquer, que se soit de façon privée ou publique.\\
+ Internet et les réseaux ont aussi modifié le monde de l'entreprise, d'abord part les réseaux interne permettant le partage de données privéee simples, puis par de nouveaux moyen de communication permettant même la formation d'employés. Cette transformation a permis un gain financier pour les entreprises.\\
+ Enfin internet a changé la façon dont nous nous divertissons.
+
+ \section{Les réseaux}
+ Il existe 2 critères permettant de classer un réseau:
+ \begin{itemize}
+	 \item L'étendue du réseau
+	 \item La technologie de transmission
+ \end{itemize}
+ \subsection{L'étendue du réseau}
+ Selon l'étendue du réseau on peut avoir:
+ \begin{itemize}
+	 \item \textbf{PAN} (\textit{\textbf{P}ersonal \textbf{A}rea \textbf{N}etwork})
+	 \item \textbf{LAN} (\textit{\textbf{L}ocal \textbf{A}rea \textbf{N}etwork})
+	 \item \textbf{MAN} (\textit{\textbf{M}etropolitan \textbf{A}rea \textbf{N}etwork})
+	 \item \textbf{WAN} (\textit{\textbf{W}ide \textbf{A}rea \textbf{N}etwork})
+ \end{itemize}
+ \begin{figure}
+ \includegraphics[scale = 0.7]{types_reseaux.png}
+ \caption{Les différents types de réseaux}
+ \end{figure}
+ \subsubsection{Réseau PAN}
+ \textbf{Taille}: 1m à 10m
+ \textbf{Etendue}: Equipement proche
+ \textbf{Technologie associées}: Bluetooth
+ \textbf{Exemple}: Réseau entre gsm, kit main libre
+
+ \subsubsection{Réseau LAN}
+ \textbf{Taille}: 10 à 1km
+ \textbf{Etendue}: Batiment ou campus
+ \textbf{Technologie associées}: Ethernet, Token Ring, FDDI
+ \textbf{Exemple}: Réseau de l'ISIMs
+
+ \subsubsection{Réseau MAN}
+ \textbf{Taille}: 1km à 100km
+ \textbf{Etendue}: Villes
+ \textbf{Technologie associées}: FDDI, DQDB, MPLS
+ \textbf{Exemple}: Réseau FedMAN
+
+ \subsubsection{Réseau WAN}
+ \textbf{Taille}: + de 100km
+ \textbf{Etendue}: Pays ou continent
+ \textbf{Technologie associées}: ATM, Frame Relay, Ethernet
+ \textbf{Exemple}: Réseau BELNET
+
+ \subsection{La technologie de transmission}
+ On distingues deux sous types:
+ \begin{itemize}
+	 \item La diffusion
+	 \item Le point-à-point
+ \end{itemize}
+ La \textbf{topologie physique} d'un réseau est la structure physique de celui-ci, la façon dont il est arrangé dans l'espace.\\
+ La \textbf{topologie logique} d'un réseau est la façon dont les appareils se partagent le réseau et elle dépend de la méthode d'accès au réseau.\\
+ En générale quand on parle de topologie, on parle de topologie physique. C'est un schéma, une architecture ou encore un plan de ce réseau.\\
+ La topologie d'un réseau est très importante par rapport à l'évolution, l'administrastion et les compétences du personnel amené à s'occuper de ce réseau.
+ \subsubsection{Les réseaux à diffusion}
+ Un réseau à diffusion est composé d'un seul support de transmission partagé par tout les appareils.\\
+ Chaque message est envoyé à tous les équipement mais seul le (s) destinataire (s) le traite (nt). Ceci est appelé une transission à diffusion générale (envoi \textbf{broadcast}).\\
+ \begin{figure}[h]
+	 \begin{subfigure}{.5\textwidth}
+		 \centering
+		 \includegraphics[height=3cm]{bus.png}
+	 	 \caption{Topologie en bus}
+	 \end{subfigure}
+	 \begin{subfigure}{.5\textwidth}
+		 \centering
+		 \includegraphics[height=4cm]{ring.png}
+		 \caption{Topologie en anneau}
+	 \end{subfigure}
+ \end{figure}
+ \paragraph{Ethernet}
+ Ethernet est très utilisé, surtout en local. C'est une topologie en bus donc tout les appareils sont relié à un même support de transmission (appelé bus). Ethernet utilise les protocoles CSMA/CD (\textit{Carrier Sense Multiple Acces with Collision Detection}) pour gérer la façon dont les données sont transmises.
+ \paragraph{Token Ring}
+ Le token ring utilise une topologie en anneau et la méthode d'accès par jeton. Seul l'appareil ayant le jeton à le droit de transmettre sur le réseau. Chaque noeud est relié à un MAUi (\textit{Media Access Unit} ou \textit{Multistation Access Unit})\@.
+ \paragraph{FDDI}
 
 
 
+
+
+
+ \subsubsection{Les réseaux point-à-point}
+ Un réseau point-à-point est composé d'un ou de plusieurs supports qui relient une paire d'appareil seulement.
+ Si deux appareils ne sont pas connecté ensemble, le message vas passer par d'autres appareils. Ceci est appelé une transmission à diffusion individuelle (encoi \textbf{unicast}).
 
 
 
