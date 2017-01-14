@@ -20,7 +20,7 @@
  \section{Généralités fondamentales}
 
  \subsection{Information}
- L'unité de base de l'information en informatique est le \textbf{bit} (\textit{b}) qui peut prendre les valeurs 1 ou 0. Un groupe de 8 bits forme un octet (o) ou byte (B). Un octet peut prendre 256 valeurs différentes.
+ L'unité de base de l'information en informatique est le \textbf{bit} (\textit{b}) qui peut prendre les valeurs 1 ou 0. Un groupe de 8 bits forme un octet (\textit{o}) ou byte (\textit{B}). Un octet peut prendre 256 valeurs différentes.
  \begin{itemize}
  	\item 1 Ko = 1000 octets
  	\item 1 Mo = 1000 Ko
@@ -30,8 +30,10 @@
 
  \subsection{Image et vidéo}
  Un \textbf{pixel} (\textit{px}) est l'unité minimale adressable par le controleur vidéo.\\
- La \textbf{définition} d'écran est le nombre de pixels que peut afficher une carte graphique sur un écran. Définition = nombre de pixels verticaux * nombre de pixels horizontaux.\\
- Les \textbf{frames per second} (\textit{fps})
+ \indent
+ La \textbf{définition} d'un écran est le nombre de pixels que peut afficher une carte graphique sur un écran. Définition = nombre de pixels verticaux * nombre de pixels horizontaux.\\
+ \indent
+ Les \textbf{frames per second} (\textit{fps}) sont le nombre d'images affichées par le moniteur chaque secondes.
 
  \subsection{Débits}
  L'unité du débit est le \textbf{bits par seconde} (\textit{bit/s} ou \textit{bps}).
@@ -90,13 +92,13 @@
 	 \item Surveiller l'espace disque: contrôler le taux d'occupation des disques, mettre en place des quotas\ldots
  \end{itemize}
 
- \subsection{La gestion des serives}
+ \subsection{La gestion des serices}
  L'administrateur réseau doit savoir configurer et utiliser les services qui répondent aux besoins du client. Par exemple les services fournis par un systeme Linux (gestion des taches, service d'impression\ldots)
 
  \subsection{La gestion des problèmes}
- L'administrateur doit connaitre ses machines et leur configuration ainsi que son réseau pour pouvoir intervenir rapidement et éfficacement en cas de problème.\\
- Il doit mettre en place des outils de diagnostiques permettant de l'alerter en cas de panne.\\
- Il peut être utile de préparer des fiches permettant aux utilisateur de faire part de leur problème au service informatique.\\
+ L'administrateur doit connaitre ses machines et leur configuration ainsi que son réseau pour pouvoir intervenir rapidement et éfficacement en cas de problème.
+ Il doit mettre en place des outils de diagnostiques permettant de l'alerter en cas de panne.
+ Il peut être utile de préparer des fiches permettant aux utilisateur de faire part de leur problème au service informatique.
 
  \subsection{La gestion des sauvegardes et du stockage des données}
  La gestion des sauvegardes est un point très important pour un administrateur réseau. Il doit être capable de récupérer rapidement n'importe quelle donnée perdue.
@@ -124,6 +126,7 @@
 	 \item \textbf{Garentir l'intégrité des données}: Veiller à ce que les données transmises restes intactes
 	 \item \textbf{Assurer la disponibilité}:Faire en sorte que les utilisateurs puissent accéder en temps voulu aux données
  \end{itemize}
+ \medskip
  Les menaces de sécurités peuvent être:
  \begin{itemize}
 	 \item \textbf{Virus, vers et chevaux de Trois}: Logiciels malveillants s'exécutant sur un périphérique utilisateur.
@@ -134,6 +137,7 @@
 	 \item \textbf{Interceptions et vols de données}: Attaques visant à acquérir des informations confidentielle à partir du réseau d'une entreprise.
 	 \item \textbf{Usurpations d'identité}: Attaques visant à recueillir les identifiant de connexion d'un utilisateur affin d'accéder à des données confidentielles.
  \end{itemize}
+ \medskip
  Les risques pour un entreprise liés à un manque de sécurités sont:
  \begin{itemize}
 	 \item Des pannes réseau empêchant les transfers de données, entrainant une perte d'activité et d'argent.
@@ -142,6 +146,7 @@
 	 \item La perte de données importantes très difficiles à remplacer.
  	 \item Une perte de fonds.
  \end{itemize}
+ \medskip
  Pour éviter celà il faut sécuriser l'infrastructure réseau et les données:
  \begin{itemize}
 	 \item \textbf{Sécuriser l'infrastructure réseau}: Sécuriser matériellement les périphériques et empêcher l'accès non autorisé aux logiciels qu'ils hébergent.
@@ -204,6 +209,7 @@
 
  \subsection{Les conversions de bases}
  \subsubsection{Conversion base 10 en base 2}
+ \paragraph{Méthode de la soustraction}
  \begin{enumerate}
 	 \item Trouver la plus grande puissance de 2 plus petite (ou égale) que le chiffre.
 	 \item Le soustraire au chiffre de bases.
@@ -222,7 +228,7 @@
 	 \item $4 - 4 = 0$
 	 \item 01001000100\textsubscript{b}
  \end{enumerate}
- Une autre méthode existe qui fonctionne dans l'autre sense:
+ \paragraph{Méthode de la division}
  \begin{enumerate}
 	 \item Si le nombre est impaire, noter 1 dans la colonne correspondante et soustraire 1.
 	 \item Diviser par 2 et passer à la colonne suivante.
@@ -314,13 +320,13 @@
  Internet et les réseaux ont aussi modifié le monde de l'entreprise, d'abord part les réseaux interne permettant le partage de données privéee simples, puis par de nouveaux moyen de communication permettant même la formation d'employés. Cette transformation a permis un gain financier pour les entreprises.\\
  Enfin internet a changé la façon dont nous nous divertissons.
 
- \section{Les réseaux}
+ \subsection{Les classifications de réseaux}
  Il existe 2 critères permettant de classer un réseau:
  \begin{itemize}
 	 \item L'étendue du réseau
 	 \item La technologie de transmission
  \end{itemize}
- \subsection{L'étendue du réseau}
+ \subsubsection{L'étendue du réseau}
  Selon l'étendue du réseau on peut avoir:
  \begin{itemize}
 	 \item \textbf{PAN} (\textit{\textbf{P}ersonal \textbf{A}rea \textbf{N}etwork})
@@ -328,45 +334,86 @@
 	 \item \textbf{MAN} (\textit{\textbf{M}etropolitan \textbf{A}rea \textbf{N}etwork})
 	 \item \textbf{WAN} (\textit{\textbf{W}ide \textbf{A}rea \textbf{N}etwork})
  \end{itemize}
- \begin{figure}
- \includegraphics[scale = 0.7]{types_reseaux.png}
- \caption{Les différents types de réseaux}
+
+ \paragraph{Réseau PAN}\leavevmode
+
+ \medskip
+
+ \indent
+ \textbf{Taille}: 1m à 10m\\
+ \indent
+ \textbf{Etendue}: Equipement proche\\
+ \indent
+ \textbf{Technologie associées}: Bluetooth\\
+ \indent
+ \textbf{Exemple}: Réseau entre gsm, kit main libre\\
+
+ \paragraph{Réseau LAN}\leavevmode
+
+ \medskip
+
+ \indent
+ \textbf{Taille}: 10 à 1km\\
+ \indent
+ \textbf{Etendue}: Batiment ou campus\\
+ \indent
+ \textbf{Technologie associées}: Ethernet, Token Ring, FDDI\\
+ \indent
+ \textbf{Exemple}: Réseau de l'ISIMs\\
+
+ \paragraph{Réseau MAN}\leavevmode
+
+ \medskip
+
+ \indent
+ \textbf{Taille}: 1km à 100km\\
+ \indent
+ \textbf{Etendue}: Villes\\
+ \indent
+ \textbf{Technologie associées}: FDDI, DQDB, MPLS\\
+ \indent
+ \textbf{Exemple}: Réseau FedMAN\\
+
+ \paragraph{Réseau WAN}\leavevmode
+
+ \medskip
+
+ \indent
+ \textbf{Taille}: + de 100km\\
+ \indent
+ \textbf{Etendue}: Pays ou continent\\
+ \indent
+ \textbf{Technologie associées}: ATM, Frame Relay, Ethernet\\
+ \indent
+ \textbf{Exemple}: Réseau BELNET\\
+
+ \begin{figure}[h]
+	 \centering
+	 \includegraphics[scale = 0.5]{types_reseaux.png}
+	 \caption{Les différents types de réseaux}
  \end{figure}
- \subsubsection{Réseau PAN}
- \textbf{Taille}: 1m à 10m
- \textbf{Etendue}: Equipement proche
- \textbf{Technologie associées}: Bluetooth
- \textbf{Exemple}: Réseau entre gsm, kit main libre
 
- \subsubsection{Réseau LAN}
- \textbf{Taille}: 10 à 1km
- \textbf{Etendue}: Batiment ou campus
- \textbf{Technologie associées}: Ethernet, Token Ring, FDDI
- \textbf{Exemple}: Réseau de l'ISIMs
-
- \subsubsection{Réseau MAN}
- \textbf{Taille}: 1km à 100km
- \textbf{Etendue}: Villes
- \textbf{Technologie associées}: FDDI, DQDB, MPLS
- \textbf{Exemple}: Réseau FedMAN
-
- \subsubsection{Réseau WAN}
- \textbf{Taille}: + de 100km
- \textbf{Etendue}: Pays ou continent
- \textbf{Technologie associées}: ATM, Frame Relay, Ethernet
- \textbf{Exemple}: Réseau BELNET
-
- \subsection{La technologie de transmission}
+ \subsubsection{La technologie de transmission}
  On distingues deux sous types:
  \begin{itemize}
 	 \item La diffusion
 	 \item Le point-à-point
  \end{itemize}
+
+ \indent
  La \textbf{topologie physique} d'un réseau est la structure physique de celui-ci, la façon dont il est arrangé dans l'espace.\\
+ \indent
  La \textbf{topologie logique} d'un réseau est la façon dont les appareils se partagent le réseau et elle dépend de la méthode d'accès au réseau.\\
+
+ \smallskip
+
+ \indent
  En générale quand on parle de topologie, on parle de topologie physique. C'est un schéma, une architecture ou encore un plan de ce réseau.\\
  La topologie d'un réseau est très importante par rapport à l'évolution, l'administrastion et les compétences du personnel amené à s'occuper de ce réseau.
- \subsubsection{Les réseaux à diffusion}
+ \paragraph{Les réseaux à diffusion}\leavevmode
+
+ \smallskip
+
  Un réseau à diffusion est composé d'un seul support de transmission partagé par tout les appareils.\\
  Chaque message est envoyé à tous les équipement mais seul le (s) destinataire (s) le traite (nt). Ceci est appelé une transission à diffusion générale (envoi \textbf{broadcast}).\\
  \begin{figure}[h]
@@ -381,20 +428,145 @@
 		 \caption{Topologie en anneau}
 	 \end{subfigure}
  \end{figure}
- \paragraph{Ethernet}
+ \paragraph{Ethernet}\leavevmode
+
+ \smallskip
+
  Ethernet est très utilisé, surtout en local. C'est une topologie en bus donc tout les appareils sont relié à un même support de transmission (appelé bus). Ethernet utilise les protocoles CSMA/CD (\textit{Carrier Sense Multiple Acces with Collision Detection}) pour gérer la façon dont les données sont transmises.
- \paragraph{Token Ring}
+
+ \paragraph{Token Ring}\leavevmode
+
+ \smallskip
+
  Le token ring utilise une topologie en anneau et la méthode d'accès par jeton. Seul l'appareil ayant le jeton à le droit de transmettre sur le réseau. Chaque noeud est relié à un MAUi (\textit{Media Access Unit} ou \textit{Multistation Access Unit})\@.
- \paragraph{FDDI}
 
+ \paragraph{FDDI}\leavevmode
 
+ \smallskip
 
-
-
+ Le FDDI (\textit{Fiber Distributed Data Interface}) est prévu pour la fibre optique. Il est constitué de deux anneau (Un anneau primaire et un secondaire qui sert é détecter et corriger les erreurs). Il utilise également également le système de jeton et est capable de fonctioner même s un MAU tombe en panne.
+ \begin{figure}[h]
+	 \begin{subfigure}{.5\textwidth}
+		 \centering
+		 \includegraphics[height=3cm]{tokenRing.png}
+		 \caption{Représentation d'un Token Ring}
+	 \end{subfigure}
+	 \begin{subfigure}{.5\textwidth}
+		 \centering
+		 \includegraphics[height=4cm]{FDDI.jpg}
+		 \caption{Représentation d'un FDDI}
+	 \end{subfigure}
+ \end{figure}
 
  \subsubsection{Les réseaux point-à-point}
  Un réseau point-à-point est composé d'un ou de plusieurs supports qui relient une paire d'appareil seulement.
- Si deux appareils ne sont pas connecté ensemble, le message vas passer par d'autres appareils. Ceci est appelé une transmission à diffusion individuelle (encoi \textbf{unicast}).
+ Si deux appareils ne sont pas connecté ensemble, le message vas passer par d'autres appareils. Ceci est appelé une transmission à diffusion individuelle (envoi \textbf{unicast}).
+ \begin{figure}[h]
+	 \begin{subfigure}{.5\textwidth}
+		 \centering
+		 \includegraphics[height=2cm]{pap}
+		 \caption{Topologie point-à-point}
+	 \end{subfigure}
+	 \begin{subfigure}{.5\textwidth}
+		 \centering
+		 \includegraphics[height=4cm]{star}
+		 \caption{Topologie en étoile}
+	 \end{subfigure}
+	 \begin{subfigure}{.5\textwidth}
+		 \centering
+		 \includegraphics[height=4cm]{maille}
+		 \caption{Topologie maillée}
+	 \end{subfigure}
+ \end{figure}
+
+ \subsection{Mode de fonctionnement des réseaux}
+ \subsubsection{Modèle client-serveur}
+ Un appareil qui communique sur le réseau est appelé hote. Un hote peut être soit serveur, soit client soit les deux en fonction des logiciels installé.\\
+ Un \textbf{serveur} est un hot capable de fournir des données. Il est passif, il est constamment pret à répondre à une requète d'un client grâce à un démon.\\
+ Un \textbf{client} est une hote capable de d'aller chercher des données sur un serveur. Il effectue une requète auprès d'un serveur pour obtenir des données ensuite il attend une réponse.\\
+
+ \subsubsection{Modèle Peer to Peer}
+ Les hotes fonctionnent en tant que client ou en tant que serveurs aux autres simultanément.
+ \paragraph{Avantages du P2P}
+
+ \smallskip
+
+ \begin{itemize}
+	 \item Facile à configurer
+	 \item Moins complexe
+	 \item Coûts plus faible
+	 \item Pratique pour les taches simples et les réseaux de petite envergure
+ \end{itemize}
+
+ \paragraph{Inconvénients du P2P}
+
+ \smallskip
+
+ \begin{itemize}
+	 \item Pas d'administration centralisée
+	 \item Peu sécurisé
+	 \item Non évolutif
+	 \item Risques du ralentissement (chaque hote est serveur et client)
+ \end{itemize}
+
+ \begin{figure}[h]
+	 \centering
+	 \includegraphics[height=3cm]{p2pvsserver}
+	 \caption{P2P vs client-serveur}
+ \end{figure}
+
+ \subsection{Les composants des réseaux}
+ Peu importe son infrastructure, un réseau sera toujours composé des 3 catégories de composants suivants:
+ \subsubsection{Les périphériques}
+ \begin{itemize}
+	 \item \textbf{Les périphériques finaux} ou hotes. Ils servent d'interface entre le réseau et les utilisateurs.
+	 \item \textbf{Les périphériques intermédiaires} qui connectent les périphériques finaux et s'occupent de la transmission des données.
+ \end{itemize}
+
+ \subsubsection{Les supports de transmissions}
+ Il peut être de plusieurs types:
+ \begin{itemize}
+	 \item Cable en cuiver
+	 \item Fibre optique
+	 \item Transmission sans fil
+ \end{itemize}
+ En fonction du support le codage des données sera différent (impulsion életrique, impulsion lumineuse, onde électromagnétique\ldots)
+
+ \subsubsection{Les services et les processus}
+ Ce sont les programes exécutés sur les périphériques.\\
+ \indent
+ Un service fournit des information suite à une requète.\\
+ \indent
+ Un processus fourni les donctionnalités qui dirigent et déplacent les messages à travers le réseau.
+
+ \subsection{Les symboles}
+ Les schémas sont pratique pour représenter un réseau. On a donc inventé des symboles reconnaissables par tous pour représenter les différents composants vu au point précédent:
+ \begin{figure}[h]
+	 \centering
+	 \includegraphics[height=7cm]{icons}
+	 \caption{Les différents icones représentant les composants d'un réseau}
+ \end{figure}
+
+ \smallskip
+ \indent
+ Une \textbf{carte réseau} (NIC) Fournit la connexion physique à au périphérique.
+
+ \smallskip
+ \indent
+ Un \textbf{port physique} est un connecteur sur un périphériqe par lequel celui-ci est connecté au réseau.
+
+ \smallskip
+ \indent
+ Une \textbf{interface} est un port spécifique d'un périphérique interréseau qui se connectent à des réseaux individuels.
+
+ \medskip
+ \indent
+ Sur un \textbf{diagramme de topologie physique} on indique la configuration physiques des periphériques, des ports, des cables\ldots
+
+ \smallskip
+ \indent
+ Sur un \textbf{diagramme de topologie logique} on indique les périphérique, les ports et le schéma d'adressage IP\@.
+
 
 
 
