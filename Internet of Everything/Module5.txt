@@ -350,7 +350,7 @@ such,
 well it's built to do that, it's built to be able to support in a very/ it's
 called a two-tier topology of spine and leaf and it's built to be able to
 retrieve that information from any location and the data virtualization is
-basically using software like Adobe and Adobe file system which goes out
+basically using software like Hadoop and Hadoop file system which goes out
 maps everything from does matter if it's a spreadsheet or if it's an SQL
 database or if it's real-time data coming in and puts it into like one
 platform that can extrapolate the information from it. And that's where like the SQL
@@ -360,7 +360,7 @@ from all these other sources that's where they're not really built for that and
 that's where data virtualization comes.
 
 For our listeners as we talk about
-MapReduce and adobe, I don't know that we've expended on that in past
+MapReduce and Hadoop, I don't know that we've expended on that in past
 podcasts, but, you know, we talk about these very large data repositories and then you
 want to conduct analysis to it but that's a lot of numbercrunching that
 requires a lot of compute power and so MapReduce, what that is, is that
@@ -370,49 +370,57 @@ takes a large volume of data, it distributes the data all across a large
 number of distributed computing platforms so that it's almost parallel
 processing, it allows a lot of different devices to be able to manage the analysis
 of a large volume set much much more quickly and that's MapReduce but when
-they the creators of map reduce the open source that on the Apache platform and
-it was need to do and when we're talking about real-time analysis of the first
-thing that comes to mind is the concept of the data in motion right from the
-data in motion and in data at rest and of the tube the two terms they gonna
-hear a lot when when dealing with the estate analysis and dealing with all your
-we in the big data in a way related to the data in motion is the when you're
-trying when you eat when you're analyzing running some sort of a processing
-against the data as you capture it so it would that would be no we are talking
-about and how you can how a company can see if a specific product they have is
-selling a lot right now were not selling them he had been information about
-that specific sale at the moment it's happening this is Dailymotion urine
-analyzing everything as it happens in the in the opposition of data at rest
-which would be more towards the symbol of the were given in this conversation a
-little earlier when you want to see you you want to know about what happened in
-the past with the weather was cold at this time of the year for the last 20
-years 25 years so this kind of analysis is really done by database already
-restored so this would be one big debate it's called the data at rest it's it's
-it's very interesting when you're talking about the Dailymotion because while
-there is a few benefits for example I don't have to worry about sending this
-data to a data center I don't have to worry about the network structure to
-support all this data because I'm not I don't really care about sending a want
-to analyze it right away as soon as possible I also don't have to worry about
-any place to store this data because I don't really care about storing what I
-want to know is what's happening right now that this may look like a benefit
+they/ the creators of map reduce they open sourced that on the Apache platform and
+it was named Haddop.
+
+And when we're talking about real-time analysis, the first
+thing that comes to mind is the concept of the data in motion, right ? The
+data in motion and data at rest, the two terms that you're gonna
+hear a lot when dealing with this data analysis and dealing with IoE
+and the big data. And in a way really, the data in motion is when you're
+trying/ when you you're analyzing running some sort of a processing
+against the data as you capture it. So that would be, you know, (what) we are talking
+about and how you can, how a company can see if a specific product they have is
+selling a lot right now or not selling. I mean, having information about
+that specific sale at the moment it's happening, this is data in motion, you're
+analyzing everything as it happens, in the opposition of data at rest
+which would be more towards the example that was given in this conversation a
+little earlier when you want to see/ you want to know about what happened in
+the past with the weather, if it was cold at this time of the year for the last 20
+years, 25 years, so this kind of analysis is really done by data that's already
+stored. So this would be/ it's called the data at rest,
+it's very interesting when you're talking about the data in motion because while
+there is a few benefits, for example I don't have to worry about sending this
+data to a data center, I don't have to worry about the network structure to
+support all this data because I'm not/ I don't really care about sending, I want
+to analyze it right away, as soon as possible, I also don't have to worry about
+any place to store this data 'cause I don't really care about storing what I
+want to know is what's happening right now. This may look like a benefit
 but there is a downside which is I have to have now the ability to process this
-data at the source so if we talking about sensors the sensors now have to be a
+data at the source, so if we're talking about sensors, the sensors now have to be a
 little more powerful or powerful enough to be able to process the data as they
-are being capture as the state is being captured so it's really it's berries no
-bass tried to talk about it in motion data at rest is really the application
-that you're going to put these two terms in the manual you your application is
-going to say which one which type of data to be looking at I can give you an
-example you know you love examples to do so if we are me up this is the example
-of the data brass I guess it was pretty clear we are talking about earlier
-right but the weather it's a very good example when you want to know when I
-have an idea what's going to be the weather in a month from now doesn't matter
-where you are if you know if you're capturing if you're analyzing how was the
-weather in that place at that moment in the last 2025 years you should have a
+are being capture, as this data is being captured. So it's really, it's/ there
+is no
+brass when you're talking about data in motion and  data at rest, it's really the application
+that you're going to put/ these two terms you're gonna, you know, your application is
+going to say which one, which type of data you're gonna be looking at. I can
+give you, guys, an
+example, Jeremy I know you love examples.
+
+I do.
+
+So if we are, I mean,this/ the example
+of the data brass I guess it was pretty clear we were talking about earlier,
+right ? But the weather, it's a very good example, when you want to know/ when I
+have an idea what's going to be the weather in a month from now, doesn't matter
+where you are, if you know, if you're capturing if you're analyzing how was the
+weather in that place at that moment in the last 20, 25 years you should have a
 pretty good idea what the weather's going to be like in a month from now in
-that location even though may not be exactly the same temperature rainy or
-sunny but you have a very good idea what's going to happen because of an
-analyzing this this this data has been stored in capture over the years right
-but at the Dailymotion argument example which is a something that is happening
-now and the people using a lot of talking about a lot it's that driverless car
+that location, even though it may not be exactly the same temperature rainy or
+sunny, but you have a very good idea what's going to happen because you've been
+analyzing this data that has been stored and capture over the years, right?
+But the data in motion/ I'm gonna give another example which is a something that is happening
+now and the people are using a lot of talking about a lot it's that driverless car
 ride a car that doesn't need any any human beings to be guiding the car to be
 controlling the car to guard drive in itself if I was to write a piece of
 software to to put in the car to run in the car it doesn't matter if you know
