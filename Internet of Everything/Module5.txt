@@ -333,36 +333,43 @@ to facilitate the predictive and the prescriptive elements of how to
 take action on real-time data that's happening right now.
 
 Yeah and it does that without
-changing the original data with the rate when it doesn't usually takes a
-snapshot right it takes a snapshot manipulates up at the original data still
-where was so you get some letter of protection or the computing infrastructure
-this necessary to support that is something that's that's that's definitely
-growing as we talk about cloud infrastructures network infrastructures that are
-able to count for it that volume of data and the ability to do real-time
-analysis on that data yet so for example we we had talked in a previous podcast
-about the Cisco application centric infrastructure Cisco ACI which is part of
-that whole software defined networking of virtualizing the data center and such
-will it's built to do that it's built to be able to support in the various it's
-call it to two-tier typology of spine and leaf and it's built to be able to
-retrieve that information from any location in the data virtualization is
-basically using software like a dupe and how do's file system which goes out
-maps everything from does matter if it's a spreadsheet or if it's a SQL
-database or if it's real-time data coming in and puts it into light and one
-platform that can extrapolate information from it and that's where like the SQL
-databases on it's only SQL and Oracle they were able to basically get the
-information from the third database no first to be able to pull information
+changing the original data, like ??? when it does/ it takes a
+snapshot right ? It takes a snapshot and manipulates it, but the original data still
+where it was, so you get some layer of protection there.
+
+Right, the computing infrastructure
+that's necessary to support that is something that's definitely
+growing as we talk about cloud infrastructures, network infrastructures that are
+able to acount for that volume of data and the ability to do real-time
+analysis on that data.
+
+Yeah, so for example we had talked in a previous podcast
+about the Cisco application centric infrastructure, Cisco ACI which is part of
+that whole software defined networking of virtualizing the data center and
+such,
+well it's built to do that, it's built to be able to support in a very/ it's
+called a two-tier topology of spine and leaf and it's built to be able to
+retrieve that information from any location and the data virtualization is
+basically using software like Adobe and Adobe file system which goes out
+maps everything from does matter if it's a spreadsheet or if it's an SQL
+database or if it's real-time data coming in and puts it into like one
+platform that can extrapolate the information from it. And that's where like the SQL
+databases on it's own, like SQL and Oracle they were able to basically get the
+information from their database, you know, for it to be able to pull information
 from all these other sources that's where they're not really built for that and
-that's where data virtualization comes in and if our listeners as we talk about
-map produce and could do but I don't know that we've expound on that pass
-podcasts but here we talk about these very large data repositories and then you
-want to conduct analysis to it but that's that's a lot of numbercrunching that
-requires a lot of can compute power and so it map produce what that is is that
+that's where data virtualization comes.
+
+For our listeners as we talk about
+MapReduce and adobe, I don't know that we've expended on that in past
+podcasts, but, you know, we talk about these very large data repositories and then you
+want to conduct analysis to it but that's a lot of numbercrunching that
+requires a lot of compute power and so MapReduce, what that is, is that
 it takes that large repository and breaks out into smaller pieces that
-different computations can be ranted so it's it's distributed computing it
-takes 8888 a large volume of data it distributes the data all across a large
+different computations can be ran again, so it's distributed computing it
+takes a large volume of data, it distributes the data all across a large
 number of distributed computing platforms so that it's almost parallel
-processing allows a lot of different devices to be able to manage the analysis
-of a large volume set much much more quickly and in that's map produce but when
+processing, it allows a lot of different devices to be able to manage the analysis
+of a large volume set much much more quickly and that's MapReduce but when
 they the creators of map reduce the open source that on the Apache platform and
 it was need to do and when we're talking about real-time analysis of the first
 thing that comes to mind is the concept of the data in motion right from the
