@@ -1,75 +1,108 @@
-Hello, this is Jimmy Creech Cisco Systems and you listening to the series of podcast
-introducing the Internet everything podcast series is a companion to this is
-Academy's introduction to the IOE course in today joining me as with previous
-episodes is Rodrigo Floriano Bernadette O'Brien Dale Righetti and Bob Fishon in
-previous episodes we talked about what the IOE is how the IOE works what its
+Hello, this is Jimmy Creech from Cisco Systems and you listening to the fith in
+a series of podcast
+introducing the Internet of everything. This podcast series is a companion to
+the Cisco Networking
+Academy's introduction to the IOE course. And today joining me as with previous
+episodes is Rodrigo Floriano, Bernadette O'Brian, Dane Righetti and Bob Fishon.
+
+in previous episodes we talked about what the IOE is, how the IOE works, what its
 benefit to society is and what are the security and privacy issues that we
-should anticipate with the IOE they were going to talk about what is the
-relationship between IOE and big data the relationship between the IOE and big
+should anticipate with the IOE. And today we are going to talk about what is the
+relationship between IOE and big data.
+
+the relationship between the IOE and big
 data is with the Internet of everything we have all of these connections that
-are happening all of these first of all things that are coming online so
-billions of devices that are becoming online and we have all of these
-connections machine to machine machine to people and people to people
-connections that are happening in all of these connections are producing tons
-of data and so that's really the the relationship is that were were producing
+are happening, all of these, first of all, things that are coming online, so
+billions of devices that are gonna be coming online. And we have all of these
+connections machine to machine, machine to people and people to people
+connections that are happening and all of these connections are producing tons
+of data and so that's really the/ the relationship is that we're producing
 all this data because we have all of these interconnections and that's between
-things that spitting process is not between people and and there's really two
-factors to this there's the data reporting and which is the what and data
-analysis which is the why basically we want to collect data manage that data
-and evaluate that the so today were taking in data like never before there's
-tons of data being collected or captured and were producing more data in a week
-that was produced in a year so you know you talk about created more data in a
-week and we've traded in the year and I just recently I saw a complementary
+things, that's between processes, that's between people. And there's really two
+factors to this, there's the data reporting and/ which is the what and data
+analysis which is the why. Basically we want to collect data, manage that data
+and evaluate that data. So today we're taking in data like never before, there's
+tons of data being collected or captured and we're producing more data in a week
+that was produced in a year. So...
+
+You know, Dane ?
+
+Mmhmmh
+
+You, know, you talk about/ we've created more data in a
+week and we've created in a year and I remember/ just recently I saw a complementary
 metric describing 90% of the data that we have right now has been created in
-the last two years alone which means you all it all the years preceding the
-last two years makes up only 10% of the data that we have to but I think that
-is a tell is due to the exponential growth of data bit every two years another
-90% on top of that. So yeah it's it's huge huge the amount in the we have here
-we are measuring more and measuring more now have more sensors and more things
-looking at the events and measuring data rupturing and those numbers are just
-incredible their astonishing how much and so where's all this data coming from
-well it's coming from let's say sensors on devices mobile devices with embedded
-firmware with monitoring systems but also the state is coming from people
-through social networks people online rating things online rating system
-comments and systems such as ad tracking cookies systems that produce reports
-all kinds of things so this date is coming in and this data has a lot of value
-if it can be acted upon immediately if we can analyze this data and do
-real-time analysis and action as a result of the fact that we have the
-technology today to do it through virtualization and cloud computing things on
-that so that brings in the topic of data in motion companies are tracking what
-we do on the sites that we visit the things that we buy the the fact that we
-rate stuff you do today you know what I want to go to a restaurant I check yelp
+the last two years alone, which means, you know, all the years preceding the
+last two years makes up only 10% of the data that we have. But I think that
+?that's a tale? as to the exponential growth of data that, you know, every two years another
+90% on top of that. So yeah it's huge the we have.
+
+You know, we are measuring more now, we have more sensors, have  more things
+looking at the events and measuring data and capturing and analysing it.
+
+Yeah, those numbers are just
+incredible, they're astonishing at how much. And, so, where's all this data
+coming from ?
+Well it's coming from, let's say, sensors, devices, mobile devices with embedded
+firmware with monitoring systems but also the data is coming from people
+through social networks, people online rating things, online rating system,
+comments and systems such as ad tracking, cookies, systems that produce
+reports,
+all kinds of things. So, this date is coming in and this data has a lot of value
+if it can be acted upon immediately, if we can analyze this data and do
+real-time analysis and action. As a result of the fact that we have the
+technology today to do it through virtualization and cloud computing and things on
+that, so that brings in the topic of data in motion. Companies are tracking what
+we do, the sites that we visit, the things that we buy, the fact that we
+rate stuff, you know, today, you know, when I want to go to a restaurant I check yelp
 I like to see what other people have done it like to see how other people have
-rated things on so this this explains to me like why you like the other night I
+rated things.
+
+So this explains to me like why/, you know, like the other night I
 was looking for a new mountain bike that I'd like to purchase in the spring and
-then you recently I'm looking at stock prices and right there is this wonderful
-little advertisement showing me that like that I will and I was looking at by
-just constantly probing you say you you want to look at this again you want to
-buy it like I looks like you are close on this one want to give it another
-chance they didn't just for the folks out there. Actually listening to other
-than don't really know much about what so what the web browser cookie would you
-give them like a short explanation of cookies cookies is an interesting topic
-because a lot of people like to turn those off because there on the fearful
-that they're being tractor that the cookies could lead to a virus cookies is
-just a little bit of text that is created on your on computer when you visit
-the site and it's it's not a program so it's not a virus is just a little bit
-of text that lets the company know that you've been to the site before and that
-that text the text file contains things like maybe your user settings on the
-types of the things that you like to do when you're on that site so that when
+then, you know, recently I'm looking at stock prices and right there is this wonderful
+little advertisement showing me the bike that I want and I was looking to
+buying
+just constantly probing me, saying "Hey, you want to look at this again ? You want to
+buy it ?"
+
+Yeah, looks like you were close on this one, you want to give it another
+chance ?
+
+Absolutely
+
+Hey Dans, just for the folks out there who are  actually listening to others
+and don't really know much about what's a web browser, a cookie, would you
+give them like a short explanation of cookies ?
+
+Cookies is an interesting topic
+because a lot of people like to turn those off because they're fearful
+that they're being tracked or that cookies could lead to a virus. Cookies is
+just a little bit of text that is created on your computer when you visit
+the site and it's not a program so it's not a virus, it's just a little bit
+of text that lets the company know that you've been to the site before. And
+that text, that text file contains things like maybe your user settings, the
+types of the things that you like to do when you're on that site, so that when
 you revisit that site it gives information to the site regarding your
-preferences example would be when I go back to the side and it said welcome
-back Roderigo I've never signed and they know that's me because of a cookie
-problem yeah absolutely that's a good example but the fact that these companies
-are able to get that information and and the they know what we like to know
-what were doing and the ideas that they can give us better service and better
-targeted service and on advertisement is another great example so on the
-advertisement industry was completely changed by the online buy online on
-webpages websites and advertising used to be ads that were not related to the
-content on the page in print so when you look to the printed magazine and you
-look at advertisements they were not related to whatever the content is but the
-exact opposite is what we have on websites if you're on a website you can see
-related add content and that's a complete flip in the whole model of
-advertising so it's very interesting so if you bring us back to the theater
+preferences.
+
+I see so, a simple example would be when I go back to the side and it said welcome
+back Roderigo, I means, I've never signed in, they know that's me because of a cookie
+probably.
+
+Yeah, absolutely, that's a good example. But the fact that these companies
+are able to get that information and they know what we like, they know
+what were doing. And the ideas that they can give us better service and better
+targeted service and, you know, advertisement is another great example. So, the
+advertisement industry was completely changed by the online\ by online
+webpages and websites and advertising used to be ads that were not related to the
+content on the page in print, so when you looked at a printed magazine and you
+look at advertisements they were not related to whatever the content is. But the
+exact opposite is what we have on websites, if you're on a website you're gonna see
+related ad content and that's a complete flip in the whole model of
+advertising, so it's very interesting.
+
+So if you bring us back to the theater
 reporting in the data analysis that you are talking about a moment ago example
 the data reporting and giving me the watts that would be like it was somewhere
 somebody has collected the information that Jeremy was looking at a mountain
