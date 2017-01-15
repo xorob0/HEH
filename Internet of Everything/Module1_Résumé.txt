@@ -1,0 +1,10 @@
+L'IoE est une des phase de l'évolution d'internet, après la connectivité, le
+réseau de l'éonomie, et l'expérience collaborative. L'IoE consiste à faire
+fonctionner ensemble tout les objets connectés ensemble grâce aux interaction
+P2P, P2M et M2M. L'IoE sera un ensemble de changements, et permettra
+d'améliorer notre vie a tous sur plein d'aspects différents ce qui fait que
+notre environement, par exemple nos villes, devront évoluer. L'interconnection
+de tout les service permet d'être plus "personnalisé" pour l'utilisateur. L'IoE
+c'est connecter les 4 pillier que sont: personnes qui seront les bénéficiaires
+facilité par les processus qui relient tout les pilliers et qui prennent en
+compte l'énorme masse de données générées par les objets.
