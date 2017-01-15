@@ -102,48 +102,58 @@ exact opposite is what we have on websites, if you're on a website you're gonna 
 related ad content and that's a complete flip in the whole model of
 advertising, so it's very interesting.
 
-So if you bring us back to the theater
-reporting in the data analysis that you are talking about a moment ago example
-the data reporting and giving me the watts that would be like it was somewhere
+So if you bring us back to the data
+reporting and the data analysis that you were talking about a moment ago. You
+know, an example of
+the data reporting and giving me the what(s) that would be like, you knwo, somewhere
 somebody has collected the information that Jeremy was looking at a mountain
-bike and a report would be you know they give it to some sales executive or
-whatever and says a this individual has been looking at these mountain bikes
-they don't necessarily do anything at the moment with that but then when you
-add this data analysis component these -wise it is that's what it is that the
-piece that's making it so than enzyme looking around on other sites then they
-know to create this ad custom for me that says a there's this mountain bike is
-is that making the connection or yes I think you can make the connection with
-that the curriculum talks about different types of analytics descriptive
-analytics predictive analytics and prescriptive analytics and descriptive
-analytics is the historical data so historical data on what you've bought and
-who's bought this in and this is what was bought last year and this is what's
-being bought this year but predictive analytics might show a new trend in what
-people are buying today and where things are going and so then they can then
-use prescriptive analytics to run a simulation on let's say this could be more
-relevant in in industries or in organizations that deal with public safety or
-with whether or something like that they could look at a model or simile model
+bike and a report would be, you know, they give it to some sales executive or
+whatever and says "Hey, this individual has been looking at these mountain
+bikes". But
+they don't necessarily do anything at the moment with that, but then when you
+add this data analysis component these ?wise?, it's that the
+piece that's making it so that, as I am looking around on other sites then they
+know to create this ad custom for me that says "Hey, there's this mountain
+bike". Is
+is that making the connection there ?
+
+Yes I think you can make the connection with
+that, the curriculum talks about different types of analytics: descriptive
+analytics, predictive analytics and prescriptive analytics. And descriptive
+analytics is the historical data, so historical data on what you've bought and
+who's bought this and this is what was bought last year and this is what's
+being bought this year. But predictive analytics might show a new trend in what
+people are buying today and where things are going. And so then, they can then
+use prescriptive analytics to run a simulation on, let's say, this could be more
+relevant in industries or in organizations that deal with public safety or
+with weather or something like that. They could look at a model or simile model
 say we need to do this because this is what's coming based on our data analysis
-and based on the trends is another example of this of you mistake was take
-whether for for example just help me understand this so an example of the data
-reporting component is just a historical record of this is what happened with
-the weather but the data analysis that comes in and starts to kind of look at
-at the trends the correlations of you know cause-and-effect and so has new
-things start to happen and as the descriptive component right that the
+and based on the trends.
+
+So an other example of this would be, let's take
+weather for example just to help me understand this. So an example of the data
+reporting component is just a historical record of/ this is what happened with
+the weather. But the data analysis that comes in and starts to kind of look at
+the trends, the correlations of, you know, cause-and-effect and so as new
+things start to happen/ and that's the descriptive component, right ? The
 reporting piece tells me this is what happened but the descriptive piece looks
 it that thing in a much broader context and greater breadth with the trend and
 analysis and the correlation analysis and says okay because of these things
-that were happening inside of the environment for the atmospheric this is why
-that event happened that was reported and then and then if I'm understanding
-this right then I can create a as you talk about predictive I can create a
-predictive model that is vended able to take into account the variables that
-are present and determine if a storm is going to happen again and then the
-prescriptive piece is then you based off of that these are the things that
-should happen to mitigate the impact or the effects of the storm is so you know
-if if things like road closures warnings you know sending out emergency
-broadcasts what have you that just in that that brings a full circle and what
+that were happening inside of the environment for the atmospher this is why
+that event happened that was reported ?on?. And then if I'm understanding
+this right, then I can create a/ ,as you talk about, predictive, I can create a
+predictive model that is then able to take into account the variables that
+are present and determine if a storm is going to happen again. And then the
+prescriptive piece is then, you know, based off of that these are the things that
+should happen to mitigate the impact or the effects of that storm. So, you
+know,
+if things like road closures, warnings, you know, sending out emergency
+broadcasts, what have you that just/ and that brings a full circle. What
 are some of the things we can do with analytics and big data in addition to the
-weather example what was some of the other stuff that we can do now I think of
-the example of carrying disease when I think about all of this data that we
+weather example, what's some of the other stuff that we can do ?
+
+So I think of
+the example of curring disease when I think about all of this data that we
 have available to us in fact I'm you under the big question is can big data
 cure cancer and cure disease help us cure diseases so researchers are capturing
 huge amounts of data on as many cancer patients as possible and analyzing and
