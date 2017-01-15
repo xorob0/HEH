@@ -1,0 +1,7 @@
+A quoi sert l'IoE ?
+
+Le but de l'IoE est d'améliorer et de simplifier notre vie, par exemple en
+connectant notre réveille et notre cafetière. Ces objets seront connecté
+ensemble par un réseau, qu'il soit filaire ou sans fil parfois par des
+protocols spécifiques qui requièrent un appareil pour tranférer les données sur
+le réseau IP(v6).
