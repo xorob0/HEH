@@ -417,53 +417,67 @@ where you are, if you know, if you're capturing if you're analyzing how was the
 weather in that place at that moment in the last 20, 25 years you should have a
 pretty good idea what the weather's going to be like in a month from now in
 that location, even though it may not be exactly the same temperature rainy or
-sunny, but you have a very good idea what's going to happen because you've been
+sunny, but you'll have a very good idea what's going to happen because you've been
 analyzing this data that has been stored and capture over the years, right?
 But the data in motion/ I'm gonna give another example which is a something that is happening
-now and the people are using a lot of talking about a lot it's that driverless car
-ride a car that doesn't need any any human beings to be guiding the car to be
-controlling the car to guard drive in itself if I was to write a piece of
-software to to put in the car to run in the car it doesn't matter if you know
-the road so how Howard those roads to the temperature of the road 20 years ago
-the last year whatever what I need to know is there is a car in front of me
-should I stop or should I keep moving and I need to know that right then right
-on the spot because if it takes me another second to make the decision I could
-be into an accident so in that kind of situation what I really need is
-Dailymotion I need to know what's happening right now to be able to use the
-data to turn the data into information and make an educated decision about what
-path to take as I listen to this talk about this we talk about data before and
-we talk about big data now it seems like there's not really clear delineation
-you when have I moved from data to big data to me it's almost like were
-describing an evolution it's almost like the Renaissance if you will it's like
+now and people are using a lot, I mean talking about it a lot, it's the
+driverless car, right?
+A car that doesn't need any human beings to be guiding the car, to be
+controlling the car. The car is driving itself, if I was to write a piece of
+software to put in the car, to run in the car, it doesn't matter if, you know,
+the road/ how were those roads, the temperature of the road 20 years ago
+or the last year whatever, what I need to know is there is a car in front of me
+should I stop or should I keep moving and I need to know that right then, right
+on the spot, because if it takes me another second to make the decision I could
+be into an accident. So in that kind of situation what I really need is data in
+motion, I need to know what's happening right now to be able to use the
+data to turn that data into information and make an educated decision about what
+path to take.
+
+As I listen to us talk about this, we talked about data before and
+we talk about big data now. And it seems like there's not really clear
+delineation, you know,
+when have I moved from data to big data, to me it's almost like we're
+describing an evolution, it's almost like the Renaissance, if you will, it's like
 we are now in the era of big data and so we need to be cognizant of that and to
 create an infrastructure that is able to take advantage of that and to invent
-processes that are able to leverage it so I guess my question now is what's
-next where we go from here I think that what happened is that in a see an
-explosion of innovation ideas around the Internet of everything and so one of
-the ways that we get put those out there now if I have a great idea for an
-innovative solution I need to put together a working model, we call that
-working model of prototype you wanted to create prototype you have to have
-design scales electrical scales mechanical physical skills to to to build this
-thing programming skills as well the trouble is in a way not expected all of
-those things so we can do a few things we can collaborate with others have
-question can get help online there at ton of great resources pointed out in the
-course that can help you create your prototype that you means you describe
-prototyping is this really interesting confluence or convergence of lots of
-different knowledge you mentioned electrical skills mechanical skills
-programming skills and engine networking skills CO once once you get this
-object created that has these actuators that can do this these things in the
-sensors that can help it understand its environment the variables around it
-then you get this programming is able to connect with the sensors sense to what
-the actuators need to do and then into playing and the Internet of everything
+processes that are able to leverage it. So I guess my question now is what's
+next ? Where we go from here ?
+
+I think that what is gonna happen is we're gonna see an
+explosion of innovative ideas around the Internet of everything. And one of
+the ways that we get ?to? put those out there is, you know, if I have a great idea for an
+innovative solution, I need to put together a working model, and we call that
+working model of prototype. You know, in order to create that prototype, you have to have
+design skills, electrical skills, mechanical, physical skills to build this
+thing programming skills as well. The trouble is, you know, we're not expert in all of
+those things, so we can do a few things, we can collaborate with others and of
+course you can get help online, there are a ton of great resources pointed out in the
+course that can help you create your prototype.
+
+Bernadette, I mean, as you describe
+prototyping, I mean, it's this really interesting confluence or convergence of lots of
+different knowledge, you mentioned electrical skills mechanical skills
+programming skills and networking skills, you know, once you get this
+object created that has these actuators that can do these things and these
+sensors that can help it understand its environment and the variables around it
+then you get this programming that's able to connect what the sensors sense to what
+the actuators need to do and then, you know, to plug it in to the Internet of everything
 and to make it work and in the larger network of things there's the others this
-networking aspect that goes into it how I connect S is this is hard to know
-also completely where everything is going to go because our lives are to be
-changed by the increase amount of information that is is that is that is
-tracking us or sets of providing information so it I I think that we don't
-really know exactly how everything's been a change in indefinitely to pick up
-on rust points not necessarily cannot be all for the good it emphasizes the
-responsibility to think about how to do it safely how to do it securely and how
-to you maintain people's privacy so we talked about some of the skills that are
+networking aspect that goes into it, how do I connect this.
+
+It's hard to know
+also completely where everything is going to go because our lives are gonna be
+changed by the increase amount of information that is
+tracking us or that's providing information. So I think that we don't
+really know exactly how everything's gonna change. And definitely, to pick up
+on Rod's points, not necessarily gonna be all for the good.
+
+It emphasizes the
+responsibility to think about how to do it safely, how to do it securely and how
+to, you know, maintain people's privacy.
+
+So we talked about some of the skills that are
 needed you like design skills electrical skills physical and mechanical skills
 programming skills networking skills and I'm on obviously I mean is I hear
 about this as we talk about things you programming is absolutely critical to
