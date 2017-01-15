@@ -159,7 +159,7 @@ know, it's really easy for me to think abour the sideloads and how to make
 think work, how to connect things to provide a certain service. You know, how
 to get the trash service running by itself, how to get the transportation
 running by itself. But as we talk about inner connecting all of these things,
-you know, that, to me is what we eluded to earlier in the call. it's just, it
+you know, that, to me is what we eluded to earlier in the call. It's just, it
 's impressive level of complexity, with a lot of details that go into it. And
 so I'm wondering as we look at this IOE opportunity, you know, how do we handle
 challenges, What are the attributes and the caracteristics. You know, the
@@ -326,7 +326,7 @@ lot of stuff that's out there that we can connect and it's been predicted by
 the year 2020 that we're gonna have 50 billions devices that are connected to
 the internet. Now that is in my opinion mind blowing.
 
-This has been fantastic and I wanna thanks every body here who has provided
+This has been fantastic and I wanna thanks everybody here who has provided
 input and helped explain, you know, what is the internet of everything, what is
 this opportunity. The internet of everything takes into account or takes
 advantage of 4 key pillars people, primary beneficiaries of it facilitated by
