@@ -154,41 +154,50 @@ weather example, what's some of the other stuff that we can do ?
 
 So I think of
 the example of curring disease when I think about all of this data that we
-have available to us in fact I'm you under the big question is can big data
-cure cancer and cure disease help us cure diseases so researchers are capturing
-huge amounts of data on as many cancer patients as possible and analyzing and
-sequencing the genomes of these two letters in depth on this is allowing the
-research is to create more targeted therapies for a particular tumor there also
+have available to us. In fact, you know, you wonder, the big question is can big data
+cure cancer and cure disease, help us cure diseases. So researchers are capturing
+huge amounts of data on as many cancer patients as possible and they're analyzing and
+sequencing the genomes of these tumors in depth. This is allowing the
+researchers to create more targeted therapies for a particular tumor. They're also
 using this data to predict the possibility of people developing particular
-cancers and therefore being able to preemptively treat those cancers that
-shines in this research has been enormous amounts of data produced when and
-sequencing at the genomes of tens of thousands of tumors on that some British
+cancers and therefore being able to preemptively treat those cancers. The
+challege
+in this research has been enormous amounts of data produced when
+sequencing the genomes of tens of thousands of tumors. But some British
 researchers have taken a step toward solving this by creating a database of all
-this information that has as such a feature that allows cross rent referencing
-the results from across the different fields of cancer research definitely I
+this information that has as a such feature that allows cross referencing
+the results from across the different fields of cancer research. Definitely I'm
 sure we can predict that we're going to see some real developments in the fight
-against cancer is amazing before are able to make these like broad
-generalizations right here we see this huge population and within this
-population there is this large majority it has that has yet this this symptom
-or or or has cancer and another large commonality with this population is or
-some other thing that's a part of their environment that's a detriment that
-seal that's potentially causing so they may be huge general connections but now
-with the amount of data they were able to get it sounds like the that the
-correlations that were able to do with that and now were able to get much much
-more detail and is not like making these broad stereotype in general statements
-but were able to get down to IKEA at the at the individual level these are the
-things pertinent to you the variables that exist around you that are causing
-this issue to, is that is a capturing exactly right and and in addition I'm
-going to just be treating the cancer but they going to be teacher eating that
-particular cancer in years so it's actually developing a medicine that will be
-almost specialized to you as an individual is very amazing another area where
-real-time data and analysis is very saving lives is a city in the Northeast
+against cancer.
+
+That's amazing ! Before we were able to make these, like broad,
+generalizations alright ? You know, we see this huge population and within this
+population there is this large majority that has, you know, this symptom
+or has cancer. And another large commonality with this population is, you know,
+some other thing that's a part of their environment, that's a detriment,
+that's, you know,
+that's potentially causing it. So they make this huge general connections but now
+with the amount of data they we're able to get it sounds like the
+correlations that we're able to do with that and now were able to get much much
+more detail and is not like making these broad stereotype in general
+statements,
+but we're able to get down to like, you know, at the individual level these are the
+things pertinent to you, the variables that exist around you that are causing
+this issue to come up. Is that capturing it ?
+
+That's exactly right and in addition, they're no
+going to just be treating the cancer, but they're going to be treating that
+particular cancer in you. So it's actually developing a medicine that will be
+almost specialized to you as an individual. It's very amazing !
+
+Another area where
+real-time data and analysis is very saving lives is a city in the North of the
 United States has implemented a routing and vehicle location system for their
-ambulance service this has improved response rates to less than six minutes
-which is compared to the national standard in eight minutes and 59 seconds so
-this has immediately saved lives that vehicles are outfitted with sensors and
-GPS feeding back in a real-time information about their location etc. back to
-the central calling station it's just a really amazing hard to wrap my head
+ambulance service. This has improved response rates to less than six minutes
+which is compared with the national standard of eight minutes and 59 seconds, so
+this has immediately saved lives. The vehicles are outfitted with sensors and
+GPS feeding back, you know, real-time information about their location etc. back to
+the central calling station. It's just a really amazing hard to wrap my head
 around the amount of data we are talking about consider that organizations just
 don't have business deal as a source of information anymore there's all that
 environmental stuff for example sensors video cameras RFID tags and is also the
