@@ -478,90 +478,111 @@ responsibility to think about how to do it safely, how to do it securely and how
 to, you know, maintain people's privacy.
 
 So we talked about some of the skills that are
-needed you like design skills electrical skills physical and mechanical skills
-programming skills networking skills and I'm on obviously I mean is I hear
-about this as we talk about things you programming is absolutely critical to
-the IOE where I go to gain these skills there's a lot of resources including
-the Cisco networking Academy Cisco's got lots of new courses coming online like
-this one the IOE the Internet of everything courses that the students can self
-enroll in many of my students didn't even realize that they could do that and
-the and as soon as you point out like wow I can soften on this course and I
-could fall on you can hence my learning a lot of people are going online there
+needed, you know, like design skills, electrical skills, physical and
+mechanical skills,
+programming skills, networking skills and obviously, I mean, as I hear
+about this, as we talk about things, you know, programming is absolutely critical to
+the IOE. You know, where do I go to gain these skills ?
+
+There's a lot of resources including
+the Cisco networking Academy. Cisco's got lots of new courses coming online like
+this one the IOE the Internet of everything courses that students can self
+enroll and many of my students didn't even realize that they could do that and
+as soon as you point it out they're like "wow I can self enroll on this course and I
+could fall on and I can enhance my learning". A lot of people are going online there
 so many programming resources to learn about programming to learn about
-scripting through the web and we find I find that in the college system a lot
-of the professors and instructors are utilizing these resources a lot of people
-today utilizing YouTube and alternative platforms to enhance education students
-are becoming more resourceful with an add-in of the con Academy which is an in
-incredible enormous I think that there is a lot of online resources that are
-available today including the traditional college university school systems and
+scripting through the web and we find/ I find that in the college system a lot
+of the professors and instructors are utilizing these resources, a lot of people
+today utilizing YouTube and alternative platforms to enhance education, students
+are becoming more resourceful, we've seen the advent of the con Academy which is
+incredible, enormous. I think that there is a lot of online resources that are
+available today including the traditional college/university/school systems and
 the students are really taking advantage of all of these resources and as well
-as you mentioned Arduino's and raspberry pies and physical computing which is a
-huge deal people are going to be inventing this is a great time for
-entrepreneurs and inventors who will be taking advantage of the Internet of
-everything and in bringing on new devices that will hopefully improve our our
-our environments improve our business this is stuff that you have to be in a
-major urban center for or close to a the right school is doing it that you
-really do mean check with your check with your local community you might be
-surprised at the number of workshops and classes that are actually available
-talk to your local governments talk to local schools check with your local
+as you mentioned Arduino's and raspberry pi's and physical computing which is a
+huge deal, people are going to be inventing this is a great time for
+entrepreneurs and inventors who will gonna be taking advantage of the Internet of
+everything and bringing on new devices that will hopefully improve
+our environments, improve our businesses.
+
+This isn't stuff that you have to be in a
+major urban center for or close to a/ the right school that's doing it that/ you
+really do, I mean, check with your local community you might be
+surprised at the number of workshops and classes that are actually available,
+talk to your local governments, talk to local schools, check with your local
 Chamber of Commerce and just go online and look for some expert advice then
 there might be people who might be able to direct you locally to get engaged
-with this there's things like the maker spaces there's things like the tech
-shops are available in these are spaces that have tools like 3-D printers and
-laser lathes in all sorts of stuff that you for small fierce attrition basis
-you can get access to these tools and it's ideal for the Tinker you you don't
-have necessary thousand dollars laying around to purchase these things but you
-know for the good of a few bucks in a month you can get access to the stuff the
-current player out of creating your own stuff from a mechanical or physical
-perspective as well as electrical perspective as well as just join the
-community get involved with other people who are doing this and glean from one
-another and share ideas and you just get those innovative juices flowing the
-kind of prototype some things create some models see what the possibilities
-really are yes so on on top of all that their meal those in the amazing
-resources you mentioned there's also something very similar to the hacker
-spaces are similar to the maker space can learn a little bit of codeine can
-learn a little bit of IT Gen. right now to deal with computers OSs and whatnot
-very very good place check to learn more and to experiment there's also the
-heck upon also very very interesting idea to get together with other people
-running through some challenges and you know it's just fine it's just really
-fun stuff and it's gets much much better to learn this kind of biotechnology
-when you have other people working together and you know partners in and
-showing off and in Sherry ideas it's it's really really really amazing time to
-be a learner I guess I can say things in the curriculum the curriculum
-highlights these recorded PKC files from packet tracer that include all of
-these sensors and actuators and controllers and so the students who who go
-through the IOE curriculum are to notice that packet tracer has these new on
-Internet of everything devices within packet tracer of our listeners who may
-not know packet tracer is a simulation tool for creating a network for free by
-the right and so with the with the new version of packet tracer which is not
-out yet but these can be coming out soon it's can have Internet of everything
-enabled devices within the packet tracer program within software so that you
-can set up your own simulated models are your own simulated networks that have
-that capability built into them so that's really cool and looking forward to
-when that comes out yes with the rapid expansion of the Internet of everything
-and these what 50 billion connections that were talking about on this is
+with this. There's things like the ?maker? spaces, there's things like the tech
+shops that are available and these are spaces that have tools like 3-D printers and
+laser lathes and all sorts of stuff that, you kow, for small fierce
+subscription bases,
+you can get access to these tools and it's ideal for the Tinker, you know, you don't
+have necessary thousand dollars laying around to purchase these things but, you
+know, a few bucks in a month you can get access to this stuff and kind of
+playing around with creating your own stuff from a mechanical or physical
+perspective as well as an electrical perspective as well as just join the
+community, get involved with other people who are doing this and glean from one
+another and share ideas and, you know, just get those innovative juices flowing
+?the?
+kind of prototype something, create some models see what the possibilities
+really are.
+
+Yes, so on top of all, Jeremy, all those, you know, amazing
+resources you mentioned, there's also something very similar, there is the hacker
+spaces, it's very similar to the maker space, you can learn a little bit of
+coding, you
+learn a little bit of IT in general, right ? How to deal with computers OSs and whatnot
+it's a very very good place to check to learn more and to experiment. There's also the
+hackaton also very very interesting idea you get together with other people
+running through some challenges and, you know, it's just fun, it's just really
+really fun stuff and it's gets much much better to learn this kind of technology
+when you have other people working together and, you know, being partners and
+showing off and in sharing ideas it's really amazing time to
+be a learner, I guess I can say.
+
+The other thing is, in the curriculum, the curriculum
+highlights these recorded PKZ files from packet tracer that include all of
+these sensors and actuators and controllers and so the students who go
+through the IOE curriculum are gonna notice that packet tracer has these new
+Internet of everything devices within packet tracer.
+
+And for our listeners who may
+not know, packet tracer is a simulation tool for creating a network.
+
+For free by the way.
+
+Right and so, with the new version of packet tracer which is not
+out yet but is gonna be coming out soon it's gonna have Internet of everything
+enabled devices within the packet tracer program, within software so that you
+can set up your own simulated models or your own simulated networks that have
+that capability built into them so that's really cool and I'm looking forward to
+when that comes out.
+
+Yes with the rapid expansion of the Internet of everything
+and these 50 billion connections that we're talking about, this is
 creating a global shortage of people who are qualified to work on maintain
-these networks also weave that the implementation of IPv6 happening globally
-yet we need skilled people to maintain and implement these solutions we need
+these networks. And also we've got the implementation of IPv6 happening
+globally.
+Yeah, we need skilled people to maintain and implement these solutions, we need
 people who have these security expertise to secure data and to secure all these
-new devices that are being connected to our ad networks yet not only that many
-people to write code for many people to be able to to come up with these new
-analyzing models right so people with some knowledge in the math and especially
-if you're talking about Matt especially in the statistics of the many people
-that that kind of area as well people with knowledge on engineering knowledge
-on electronics that's not to be if you are into IOE you're not interviewing
-unemployed arts I guess I can say that much definitely and has no doubt about
-it is I guess is this is I have really enjoyed this conversation the series of
+new devices that are being connected to our networks.
+
+Yeah and not only that, we're gonna need
+people to write code, we're gonna need people to be able to come up with these new
+analyzing models, right ? So people with some knowledge in the math and
+especially,
+if you're talking about math, especially in statistics, we're gonna need people
+in that kind of area as well, people with knowledge on engineering, knowledge
+on electronics that's not gonna be if you are into IOE you're not gonna be
+unemployed. I guess I can say that much.
+
+Definitely and there's no doubt about it.
+
+Well guys, I have really enjoyed this conversation, the series of
 conversations that we've had as we conducted this podcast and today's
-conversations talking about the opportunities that that are there for us so
+conversations talking about the opportunities that are there for us,
 what we can do in the future the opportunities for the inventors the
-opportunities for innovators and entrepreneurs and just in general just
-employment around the IOE I think is a fascinating time and I'm really excited
-and looking for things to come I want to thank all of our panelists Bob Dan
-Bernadette and Rodrigo and most importantly I like to thank all of our
-listeners exposing the serious on the Internet of everything you know more
-about what you just heard our show notes and www.NiCad.com/group/offerings/IOE
-initial research and writing for these podcast by Rick Graziani and Dave
-Holsinger are audio producer is Dan Epstein the Internet of everything podcast
-series is produced by Jeremy Creech and Jane Gibbons and is brought to you by
-the Cisco networking Academy
+opportunities for innovators and entrepreneurs and just in general, just
+employment around the IOE I think it's a fascinating time and I'm really excited
+and looking forward to things to come. I want to thank all of our panelists Bob Dan
+Bernadette and Rodrigo and most importantly I'd like to thank all of our
+listeners. Thank for listening to this series on the Internet of everything.
