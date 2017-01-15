@@ -197,110 +197,142 @@ ambulance service. This has improved response rates to less than six minutes
 which is compared with the national standard of eight minutes and 59 seconds, so
 this has immediately saved lives. The vehicles are outfitted with sensors and
 GPS feeding back, you know, real-time information about their location etc. back to
-the central calling station. It's just a really amazing hard to wrap my head
-around the amount of data we are talking about consider that organizations just
-don't have business deal as a source of information anymore there's all that
-environmental stuff for example sensors video cameras RFID tags and is also the
-social media data that we can get from customer feedback online forms and
-Facebook's not all of these sources interact with the four pillars of the IOE
+the central calling station.
+
+It's just a really amazing and (that's) hard to wrap my head
+around the amount of data we are talking about here.
+
+Consider that organizations just
+don't have business data as a source of information anymore. There's all that
+environmental stuff for example sensors, video cameras, RFID tags and then
+there is also the
+social media data that we can get from customer feedback online, forms and
+Facebook. Now, all of these sources interact with the four pillars of the IOE
 and this interaction even generates additional data and eventually this becomes
-big data so when does data become big data well big data is distinguished
-usually by volumes on how much there is so what we refer to BDA were time a
-very large data sets some definitions have it at 100 TB of information is
-considered to be big data or bigger for example banks governments airports they
-generate the data another distinguishing feature of big data is how it's
-processed so what we mean here is which types of analytic tools are using to
-extrapolate the information now the sheer volume of big data is difficult for
+big data. So when does data become big data ? Well big data is distinguished
+usually by volumes, so how much there is, so when we refer to  big data we're
+talking about
+very large data sets. Some definitions have it at 100 TB of information is
+considered to be big data - or bigger -. For example banks, governments, airports they
+generate big data. Another distinguishing feature of big data is how it's
+processed, so what we mean here is which types of analytic tools are using to
+extrapolate the information. Now, the sheer volume of big data is difficult for
 traditional relational database systems like SQL Oracle to process and
-extrapolate information but didn't big data requires a more powerful analytic
-tools and we mention these already like you mentioned how do you know SQL map
-reduce in such so again big data is distinguished between how know how big it
-is and what tools are using and then we describe a data using something called
-a 3V's and that's variety volume and velocity so variety describes the type of
-data and there's all kinds of big Taylor's text binary data like Word documents
-PDF spreadsheet database files and such there's multimedia documents like audio
-photos and videos and these are either structured or unstructured so so that's
-the variety volume is basically the amount of data is being stored analyze and
-transported so you don't in order to understand or appreciate volume we almost
-need to go back to what a buy it is in and you know and I'm sure most of our
-listeners know what a kilobyte and the megabyte and a gigabyte in such as and
-then get the terabytes and almost new computer today would have like a terabyte
-drive or 2 TB drive and such but when we talk about big data were going beyond
-that so were going from terabytes which is 10 to the power of 12 to a petabyte
-and even to an exabyte and down the roads database server going from 10 to the
-power of 12 to a zettabyte that's 10 to the power of 21 and the just for
-example he was in the last decade the volume of data was produced in the year
-is not produced in a week so that's 20 EB of data produced per week and this
-data continues to grow exponentially as more more the unconnected becomes
-connected to your if you're listening to is not your thinking that this a lot
-of data is way too much nobody's never gonna need that just remember the not
+extrapolate information. But big data requires a more powerful analytic
+tools and we've mentionned these already like, we mentioned Adobe NoSQL map
+reduce and such. So again big data is distinguished between how, you know, how big it
+is and what tools ?you're? using. And then, we describe data using something called
+a 3V's and that's Variety Volume and Velocity. So variety describes the type of
+data and there's all kinds of big data there is text, binary data like Word
+documents,
+PDF, spreadsheet, database files and such there's multimedia documents like
+audio,
+photos and videos and these are either structured or unstructured, so that's
+the variety. The volume is basically the amount of data that's being stored,
+analyzed and
+transported so, you know, in order to understand or appreciate volume we almost
+need to go back to what a bit is and, you know, and I'm sure most of our
+listeners know what a kilobyte and the megabyte and a gigabyte and such is and
+then get the terabytes and, you know, most new computer today would have like a terabyte
+drive or 2 TB drive and such, but when we talk about big data we're going beyond
+that, so we're going from terabytes which is 10 to the power of 12 to a petabyte
+and even to an exabyte and down the roads zettabyte, so we're going from 10 to the
+power of 12 to a zettabyte that's 10 to the power of 21. And, you know, just for
+example, like within the last decade the volume of data taht was produced in the year
+is not produced in a week so that's 20 EB of data produced per week. And this
+data continues to grow exponentially as more more of the unconnected becomes
+connected.
+
+If you're listening to us now and you're thinking that this amount
+of data is way too much, nobody's never gonna need that, just remember the not
 too long ago we thought that one of those little floppy disks they would be
-enough and I had so you have all the applications running one floppy disk and
-you're happy it was just what 1520 years ago and it's not even you know so
-before you say that this is too much data never gonna need that this is think
-about that little and consider the amount of hard drives for you need to store
-all this information right I said I was riding volume of the 2V's the third V
-is velocity and that's the rate at which data is moving so you have already
-mentioned as the unconnected becomes connected more data is in the be generated
-and were producing 20 EB exabytes of data per week but this data is growing
-exponentially so just to put things into perspective linear growth is when
+enough and that's all what I mean right ? You could have had all your
+applications running on one floppy disk and
+you were happy, it was just what 15, 20 years ago and it's not even/ you know, so
+before you say that this is too much data we never gonna need that, just think
+about that little.
+
+Yeah and consider the amount of hard drives we're gonna need to store
+all this information.
+
+Right, right.
+
+So that was Variety and Volume, that was the 2V's the third V
+is velocity and that's the rate at which data is moving so, you know, we've already
+mentioned that as the unconnected becomes connected more data is gonna be generated
+and were producing 20 EB exabytes of data per week, but this data is growing
+exponentially. So just to put things into perspective linear growth is when
 something increases in a predictable manner so for example you get a 1% pay
-increase per year's predictable exponentially this is where is it's a lot more
-dramatic than linear growth so I would be if you happen to get the job of your
-dream and you got a pay raise doubled every year or so for example you get 1%
-the first year 2% the first of next year 4% 8% next and seven years ago and
-retire so we do care about exponential growth because big data is actually an
-exponential so for example a Cisco visual networking Index forecast the data
-growth by 2018 that dump the global Internet traffic will be equivalent to that
-of 64 times the Von that we had back in 2005 sets not just it's it's it's
-increasing by a certain percentage of its increasing exponentially so I hope
-that answer your question Baba got another question I'm sorry Jeremy to
-interrupt but you do mention a few these I actually have heard of other fees
-other than those that you do you know anything about those the smaller piece
-before you go out says there's a few home boxing there's this three other fees
-that I know of there's data value and that's how valuable information generated
-is in a week we mentioned earlier real-time data on its own is not especially
-valuable but real-time data with real-time analysis is very valuable such as
-one of the V's a data virtualization that refers to where is it located in and
-you don't consider a date is all over the place you have some spreadsheets we
+increase per year, it's predictable. Exponentially this is where it's a lot more
+dramatic than linear growth so that would be if you happen to get the job of your
+dream and you got a pay raise doubled every year, so for example you get 1%
+the first year 2% the next year 4% 8% and in seven years you can
+retire. So we do care about exponential growth because big data is
+exponential. So for example a Cisco visual networking Index forecast that data
+growth by 2018, that the global Internet traffic will be equivalent to that
+of 64 times the volume that we had back in 2005, so that's not just, you know,
+it's
+increasing by a certain percentage, it's increasing exponentially. So I hope
+that answer your question.
+
+Bob, I got another question, I'm sorry Jeremy to
+interrupt, but you do mention a few V's, I actually have heard of other V's
+other than those, do you know anything about those V's, more V's, people like
+V's I guess.
+
+Yeah, well, there is a few of them, actually there's three other V's
+that I know of, there's data Value and that's how valuable the information generated
+is and, you know, we mentioned earlier real-time data on its own is not especially
+valuable but real-time data with real-time analysis is very valuable so that's
+one of the V's. Data Virtualization, that refers to where is it located in and,
+you know, consider a data as all over the place, we have some in spreadsheets, we
 have some in databases and all over the place and Bernadette was mentioned the
 cancer research and how it's able to to pull all this information together and
-that's usually done using virtualization technologies and the last one is data
-veracity and that's when I'm in the title a bit more about because is how
-truthful or reliable is the information now consider that on the Internet for
+that's usually done using virtualization technologies. And the last one is data
+Veracity and that's when I'm gonna talk a little bit more about because it's how
+truthful or reliable is the information, now consider that on the Internet for
 the most part you can trust the information that you're reading so a map of the
-country or a company website talking about a product and such it to some degree
-you can you know you know it can be accurate but there's also inaccurate
-information out there so some information could be dated or unconsciously
-incorrect or malicious people to be making up things in and they could go viral
-Dan mentioned no checking out before you go to a restaurant in the how accurate
-is that information how do you know they really went to the restaurant so your
-social media is inherently uncertain know Jackie Chan Jon Bon Jovi and Lady
-Gaga are not dead there are what your life is still singing so don't believe
-everything you hear on the net software from an organizational standpoint now
-so how do you how you make sure both veracity well they have to follow
-basically a philosophy of trust but verify so you do trust the information is
+country or a company website talking about a product and such, to some degree
+you know it's gonna be accurate, but there's also inaccurate
+information out there, so some information could be dated or unconsciously
+incorrect or malicious people can be making up things and it could go viral
+Dane mentioned, you know, checking yelp before you go to a restaurant, how accurate
+is that information ? How do you know they really went to the restaurant ? So,
+ou know,
+social media is inherently uncertain, you know, Jackie Chan, Jon Bon Jovi and Lady
+Gaga are not dead there are, you know, alive and still singing so don't believe
+everything you hear on the net. You know, so, from an organizational standpoint
+now,
+so how do you make sure about veracity ? Well they have to follow
+basically a philosophy of trust but verify, so you do trust the information
+that's
 there but you always verify before you act on it and some companies are even
-going as far as giving data veracity scores in ranking for specific sets of
-data and that will help make better decisions and avoid making bad decisions
-something you mentioned Bob as you mentioned data virtualization in that that
-in particular, peaks my interest because I think that is a critical enabler as
+going as far as giving data veracity scores an ranking for specific sets of
+data and that will help make, you know, better decisions and avoid making bad
+decisions.
+
+Something you mentioned Bob is/ you mentioned data virtualization and that
+in particular kind of peaks my interest because I think that is a critical enabler as
 we talk about data analysis moving forward in the context of big data
-traditionally its regards a lot of different transactions that are taking place
+traditionally it's/ we've got a lot of different transactions that are taking place
 that are all kind of have their own data repository and in those data
 repositories will then be kind of groomed and then uploaded to a data warehouse
-in a data warehouse serves as kind of the central consolidation point for this
-and sometimes you know Lakeville take a data warehouse and carve that up into
-data markets that can then serve specific needs of a particular function so
-data market would take a piece of the data warehouse to conduct an analysis on
+and the data warehouse serves as kind of the central consolidation point for
+this.
+And sometimes, you know, like they'll take a data warehouse and carve that up into
+data markets that can then serve specific needs of a particular function, so
+the data market would take a piece of the data warehouse to conduct an analysis on
 it for other purposes of financial results or for the purposes of sales
 forecasting, but all of that takes a lot of time and there's a lot of movement
-of that data were talking about lots of data with overnight uploads or you
-every week incremental uploads are Shia holistic uploads but we talk about data
-virtualization data virtualization is an enabler that is able to take a
+of that data, we're talking about lots of data with overnight uploads or, you
+know,
+every week incremental uploads are, you know, holistic uploads. But when we talk about data
+virtualization, data virtualization is an enabler that is able to take a
 snapshot of all the data that it needs from a real-time perspective to be able
-to facilitate the the predictive and the prescriptive elements of of how to
-take action on real-time data that's happening right now Jana does that without
+to facilitate the predictive and the prescriptive elements of how to
+take action on real-time data that's happening right now.
+
+Yeah and it does that without
 changing the original data with the rate when it doesn't usually takes a
 snapshot right it takes a snapshot manipulates up at the original data still
 where was so you get some letter of protection or the computing infrastructure
