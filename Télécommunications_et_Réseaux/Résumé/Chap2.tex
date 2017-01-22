@@ -37,6 +37,73 @@
 	 \caption{Les différents types de casts}
  \end{figure}
 
+ \section{Les protocoles de communications}
+ Pour pouvoir communiquer il faut une suite de protocole qui est mise en place par les périphériques dans le logiciel et/ou dans le matériel. On représente cette suite par une pile dont les couches supérieures dépendent des couches inférieures.\\
 
+ Comme on peut le voire dans la figure~\ref{fig:exemplesPileProtocoles} on a le protocole \textbf{HTTP} (\textit{Hypertext Transfer Protocol}) qui décrit les requètes et les réponses entre le client et le serveur.\\
 
+ \indent
+ Il dépend donc du protocole \textbf{TCP} (\textit{Transmission Control Protocol}) qui vas diviser les transmissions HTTP en petit paquets et contrôle la taille et le débit des échanges.\\
 
+ \indent
+ Le protocole TCP dépend du protocole \textbf{IP} (\textit{Internet Protocol}) qui encapsule les paquet produit par le TCP et qui les adresse au bon destinataire en utilisant le meilleur chemin.\\
+
+ \indent
+ Enfin il faut bien un support physique et c'est là qu'intervient la couche \textbf{Ethernet} qui se charge aussi de la communication sur une liaison de donnée.
+
+ \begin{figure}[h]
+	 \centering
+	 \includegraphics[height=5cm]{modelExemples}
+	 \caption{Exmemples de pile de protocoles}
+\label{fig:exemplesPileProtocoles}
+ \end{figure}
+
+ Les suite de protocoles peuvent être une norme ouverte et autorisé par un organisme ou propriétaire comme l'AppleTalk
+ \begin{figure}[h]
+	 \centering
+	 \includegraphics[height=5cm]{modelProp}
+	 \caption{Comparaison des suite de protocoles norme ouverte et propriétaire}
+ \end{figure}
+
+ \subsection{La suite de protocoles TCP/IP}
+ Dans le \textbf{modèle TCP/IP} les \textbf{protocoles TCP/IP} se trouvent de la couche Internet à la couche application. Les couches inférieures sont chargées de transmettre les paquests sur le réseau physique.
+ \begin{figure}[h]
+	 \centering
+	 \includegraphics[height=5cm]{TCP}
+	 \caption{Les différents protocoles du modèle TCP/IP}
+ \end{figure}
+
+ \subsubsection{Couche application}
+ \begin{itemize}
+	 \item \textbf{DNS} (\textit{Domain Name System/Service}): Traduit les noms de domaines en adresse IP\@.
+	 \item \textbf{DHCP} (\textit{Dynamic Host Configuration Protocol}): Attribue dynamiquement les adresse IP à la connexion.
+	 \item \textbf{SMTP} (\textit{Simple Mail Transfer Protocol}): Permet le transfer d'e-mail à un serveur de messagerie.
+	 \item \textbf{POP} (\textit{Post Office Protocol}): Permet de récupérer des e-mails depuis un serveur de messagerie.
+	 \item \textbf{IMAP} (\textit{Internet Message Access Protocol}): Permet d'accéder à des e-mails sur un serveur de messagerie.
+	 \item \textbf{FTP} (\textit{File Transfer Protocol}): Permet d'accéder aux fichier sur un autre hôte et de transférer des fichiers.
+	 \item \textbf{TFTP} (\textit{Trivial File Tranfer Protocol}): Un version simplifiée de FTP qui ne recquiert pas d'identifiants de connexion.
+	 \item \textbf{HTTP} (\textit{HyperText Tranfert Protocol}): Permet d'échanger du text et des multimédias.
+ \end{itemize}
+
+ \subsubsection{Couche transport}
+ \begin{itemize}
+	 \item \textbf{UDP} (\textit{User Datagram Protocol}): Permet d'envoyer des paquets sansconnexion et sans confirmation entre les processus.
+	 \item \textbf{TCP} (\textit{Transmission Control Protocol}): Permet un connection fiable entre les processus.
+ \end{itemize}
+
+ \subsubsection{Couche Internet}
+ \begin{itemize}
+	 \item \textbf{IP} (\textit{Internet Protocol}): Transforme les segment de messages en paquets et indique l'adresse du destinataire.
+	 \item \textbf{NAT} (\textit{Network Address Translation}): Convertit les adresse OP privées en adresses IP publiques.
+	 \item \textbf{ICMP} (\textit{Internet Control Message Protocol}): Permet au destinataire de signaler une erreur dans le paquet à la source.
+	 \item \textbf{OSPF} (\textit{Open Shortest Path First}): Permet de faire du routage dynamique.
+	 \item \textbf{EIGRP} (\textit{Enhanced Interior Gatway Routing Protocol}): Permet aussi de faire du routage dynamique mais par Cisco
+ \end{itemize}
+
+ \subsubsection{Couche d'accès au réseau}
+ \begin{itemize}
+	 \item \textbf{ARP} (\textit{Address Resolution Protocol}): Fournit un mappage dynamique entre un adresse IP et une adresse MAC\@.
+	 \item \textbf{PPP} (\textit{Point to Point Protocol}): Encapsule les paquets pour les transmettre en série
+	 \item \textbf{Ethernet}: Définit les règles de cablage et de signalisation de cette couche.
+	 \item \textbf{Pilotes d'interface}: Permet à un ordinateur de controler un interface sur un périphérique réseau.
+ \end{itemize}
