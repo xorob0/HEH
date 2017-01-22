@@ -1,8 +1,23 @@
  \part{Chapitre 2: Communication et protocoles réseaux}
  \section{Généralités sur les réseaux}
+ \subsection{Règles de communication}
  Pour que plusierus périphériques soient en réseau il faut les connecter physiquement, mais cette connection physique n'est pas suffisante pour qu'ils puissent communiquer, il leur faut une convention de langage. Peut importe le mode de communication, ils ont en commmun trois élements:
  \begin{itemize}
 	 \item L'\textbf{émetteur} qui envoie un message à un autre pérphérique.
 	 \item Le \textbf{récepteur} qui reçoit le message de l'émetteur.
 	 \item Le \textbf{support de transmission} qui est le chemin que le massage utilise pour aller de lémetteur au récepteur.
  \end{itemize}
+ Les protocoles doivent être respecté pour que l'échange d'information puisse se produire. Un protocole doit respecter certaines conditions:
+ \subsubsection{Le codage du message}
+ Le \textbf{codage} consite à transformer des information en un format convenable pour la transmission et adapté au support.
+ \indent
+ Le \textbf{décodage} consiste est le processus inverse, il permet d'interpreter les information reçue.
+
+ \subsubsection{Le formatage et l'encapsulation des messages}
+ Les messages envoyées doivent correspondre à un certain format selon leur type. L'\textbf{encapsulation} consiste à placer le format du message dans une trame avant de transmettre le message et la \textbf{décapsulation} est le processus inverse à la réception de celui-ci. Un message mal formaté ne sera pas livré ni traité par le destinataire.
+
+ \subsubsection{La taille des messages}
+ La taille est liitée par ce que le destinataire peux traiter et comprendre en une seule fois, il faut donc décomposer un grand message en plusieurs trames qui doivent respecter des règles strictes sous peine de ne pas être livrées.
+
+
+
