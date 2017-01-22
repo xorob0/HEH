@@ -14,10 +14,29 @@
  Le \textbf{décodage} consiste est le processus inverse, il permet d'interpreter les information reçue.
 
  \subsubsection{Le formatage et l'encapsulation des messages}
- Les messages envoyées doivent correspondre à un certain format selon leur type. L'\textbf{encapsulation} consiste à placer le format du message dans une trame avant de transmettre le message et la \textbf{décapsulation} est le processus inverse à la réception de celui-ci. Un message mal formaté ne sera pas livré ni traité par le destinataire.
+ Les messages envoyées doivent correspondre à un certain \textbf{format} selon leur type. L'\textbf{encapsulation} consiste à placer le format du message dans une trame avant de transmettre le message et la \textbf{décapsulation} est le processus inverse à la réception de celui-ci. Un message mal formaté ne sera pas livré ni traité par le destinataire.
 
  \subsubsection{La taille des messages}
- La taille est liitée par ce que le destinataire peux traiter et comprendre en une seule fois, il faut donc décomposer un grand message en plusieurs trames qui doivent respecter des règles strictes sous peine de ne pas être livrées.
+ La \textbf{taille des messages} est limitée par ce que le destinataire peux traiter et comprendre en une seule fois, il faut donc décomposer un grand message en plusieurs trames qui doivent respecter des impératifs strictes sous peine de ne pas être livrées. L'hôte recompose le message après avoir désencapsulé les trames.
+
+ \subsubsection{La synchronisation des messages}
+ La \textbf{méthode d'accès} détermine le moment ou le périphérique peut communiquer sur le réseau pour éviter que deux communications se collisionnent et que les communications doivent recommencer.
+
+ \subsubsection{Le contrôle de flux}
+ Le \textbf{contrôle du flux} permet aux périphériques de se mettre d'accord sur la synchronistation du flux pour parvenir à communiquer.
+
+ \subsubsection{Le délai d'attente de la réponse}
+ Les périphériques sont prévu pour agir d'une certaine façon si après un \textbf{délai d'attente} trop important ils n'ont pas reçu de réponse.
+
+ \subsubsection{Les options de remise de messages}
+ Les \textbf{options de remsie de messages} servent à indiquer si le message à un seul, un groupe ou tout les hôtes comme destinataire ou à préciser qu'un message ne recquiere pas d'accusé de réception.
+
+ \begin{figure}[h]
+	 \centering
+	 \includegraphics[height=5cm]{casts}
+	 \caption{Les différents types de casts}
+ \end{figure}
+
 
 
 
