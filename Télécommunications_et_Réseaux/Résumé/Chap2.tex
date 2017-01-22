@@ -194,5 +194,31 @@
 	 \caption{Comparaison des modèles OSI et TCP/IP}
  \end{figure}
 
+ \subsection{Adresses réseau et adresses de liaison de données}
+ Les protocoles possèdent des adresses sources et de destinations mais ne les utilisent pas de la même façon.\\
+ \indent
+ Sur la couche réseau on trouve dans un paquet IP\@:
+ \indent
+ L'\textbf{adresse IP source} est l'adresse IP du périphérique expéditeur.
+ \indent
+ L'\textbf{adresse IP de destination} est l'adresse du récepteur, elle est utilisée par les routeurs pour tranférer le paquet IP vers sa destination.\\
+
+ \indent
+ Sur la couche liaison de données on retrouve:
+ \indent
+ L'\textbf{adresse de liaison de données source} est l'adresse physique de la carte réseau de l'expéditeur
+ \indent
+ L'\textbf{adresse de liaison de données de destination} est l'adresse physique du routeur du tronçon suivant ou du destinataire.\\
+
+ \indent
+ Pour obtenir l'adresse MAC Ethernet d'un autre périphérique, l'hôte utilise le protocole ARP\@. Dans la RAM se trouve une table ARP qui contient le mappage des adresses MAC et des adresses IP corespondantes. Il est soit créé de facon dynamique soit à chaque échange avec un nouvel hôte. La demande de ligne ARP se fait par multidifusion.
+ \begin{figure}[h]
+	 \centering
+	 \includegraphics[height=4cm]{packet}
+	 \caption{Composition d'un paquet}
+ \end{figure}
+
+
+
 
 
