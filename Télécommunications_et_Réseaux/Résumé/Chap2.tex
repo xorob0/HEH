@@ -211,12 +211,17 @@
  L'\textbf{adresse de liaison de données de destination} est l'adresse physique du routeur du tronçon suivant ou du destinataire.\\
 
  \indent
- Pour obtenir l'adresse MAC Ethernet d'un autre périphérique, l'hôte utilise le protocole ARP\@. Dans la RAM se trouve une table ARP qui contient le mappage des adresses MAC et des adresses IP corespondantes. Il est soit créé de facon dynamique soit à chaque échange avec un nouvel hôte. La demande de ligne ARP se fait par multidifusion.
  \begin{figure}[h]
 	 \centering
 	 \includegraphics[height=4cm]{packet}
 	 \caption{Composition d'un paquet}
  \end{figure}
+ Pour obtenir l'adresse MAC Ethernet d'un autre périphérique, l'hôte utilise le protocole ARP\@. Dans la RAM se trouve une table ARP qui contient le mappage des adresses MAC et des adresses IP corespondantes. Il est soit créé de facon dynamique soit à chaque échange avec un nouvel hôte. La demande de ligne ARP se fait par multidifusion et elles ont biensur une date limite.
+ \indent
+ Il est possible de devoir configurer les tables ARP manuellement avec des entrées statiques pour éviter les empoisonnement ARP\@.\\
+
+ \indent
+ Pour accéder aux resources distantes, l'hôte dois passer par le routeur ou passerelle par défaut. L'adresse IP est donc celle de l'hote distant mais l'adresse mac est d'abord celle du routeur puis de chaque périphérique intermédiaire avant d'arriver au destinataire.
 
 
 
