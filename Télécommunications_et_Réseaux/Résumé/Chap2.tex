@@ -69,7 +69,7 @@
  Dans le \textbf{modèle TCP/IP} les \textbf{protocoles TCP/IP} se trouvent de la couche Internet à la couche application. Les couches inférieures sont chargées de transmettre les paquests sur le réseau physique.
  \begin{figure}[h]
 	 \centering
-	 \includegraphics[height=5cm]{TCP}
+	 \includegraphics[height=7cm]{TCP}
 	 \caption{Les différents protocoles du modèle TCP/IP}
  \end{figure}
 
@@ -143,18 +143,13 @@
  Un \textbf{modèle} comme TCP/IP ou OSI permet de visualiser les interaction des protocoles et leurs fonctionnement. Il permet de foncevoir un protocole plus facilement grâces aux interactions entre les couches et évite qu'un changement dans une couche ne se répercute dans les autres. Il encourage la concurrence car les produit concurent peuvent fonctionner ensembles car il fournit un langage commun pour décrire les fonction et les fonctionnalités réseaux.\\
 
  \indent
- Un \textbf{modèle de protocole} suit la structure d'une suite de protocole donnée. La suite de protocole hierarchisée comporte normalement toutes les fonctions recquises pour un interface entre un humaine et le réseau. Le \texbf{modèle TCP/IP} décrit les fonctions qui interviènnent à chaques couches de la suite TCP/IP\@.
+ Un \textbf{modèle de protocole} suit la structure d'une suite de protocole donnée. La suite de protocole hierarchisée comporte normalement toutes les fonctions recquises pour un interface entre un humaine et le réseau. Le \textbf{modèle TCP/IP} décrit les fonctions qui interviènnent à chaques couches de la suite TCP/IP\@.
  \indent
  Un \textbf{modèle de référence} décrit les opérations à effectuer à chaque couches mais pas leur mise en oeuvre. Il permet de mieux comprendre les fonctions et les processus impliqués. Le modèle \textbf{OSI} ne spécifie pas l'implémentation et ne possède pas suffisement de détails pour définir précisement less services de l'architecture réseau.
 
  \subsection{Le modèle OSI}
 
- \begin{figure}[h]
-	 \centering
-	 \includegraphics[height=5cm]{OSI}
-	 \caption{Modèle OSI}
- \end{figure}
- \begin{numbering}
+ \begin{enumerate}
  \item La \textbf{couche application} relie les réseaux humains.
  \item La \textbf{couche présentation} permet de représenter les données de façon commune entre les services de la couche application.
  \item La \textbf{couche session} permet à la couche présentation d'échanger des données.
@@ -162,15 +157,42 @@
  \item La \textbf{couche réseau} permet d'échanger des paquet entre périphériques finaux.
  \item La \textbf{couche liaison de données} permet d'échanger des trames entre périphériques sur un support commun.
  \item La \textbf{couche physique} permet de gerer des connections physiques pour le transfère de bits.
- \end{numbering}
- Le \textbf{PDU} (\textit{Protocol Data Unit}) est l'unité de données de protocole.
+ \end{enumerate}
+
  \begin{figure}[h]
 	 \centering
-	 \includegraphics[height=5cm]{pduOSI}
+	 \includegraphics[height=7cm]{OSI}
 	 \caption{Modèle OSI}
  \end{figure}
 
+ Le \textbf{PDU} (\textit{Protocol Data Unit}) est l'unité de données de protocole.
 
+ \begin{figure}[h]
+	 \centering
+	 \includegraphics[height=5cm]{pduOSI}
+	 \caption{PDU du modèle OSI}
+ \end{figure}
+
+ \subsection{Le modèle TCP/IP}
+
+ Le modèle TCP/IP est une norme ouvert, elle est don décrite dans un RFC disponible au public.
+
+ \begin{figure}[h]
+	 \centering
+	 \includegraphics[height=4cm]{pduTCP}
+	 \caption{PDU du modèle TCP/IP}
+ \end{figure}
+
+ Les différences notables sont:
+ \begin{itemize}
+	 \item Au niveau de la \textbf{couche d'acces réseau} la suite TCP/IP ne spécifie pas de protocol pour la transmission physique des données.
+	 \item Au niveau de la \textbf{couche d'application} TCP/IP proposes plusieurs protocols qui ont été basé sur les couches 5,6 et 7 du modèle ISO\@.
+ \end{itemize}
+ \begin{figure}[h]
+	 \centering
+	 \includegraphics[height=7cm]{TCPOSI}
+	 \caption{Comparaison des modèles OSI et TCP/IP}
+ \end{figure}
 
 
 
