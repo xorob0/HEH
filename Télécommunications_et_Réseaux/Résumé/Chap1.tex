@@ -710,6 +710,74 @@
  L'utilisateur veux une qualité de réseaux stable et inintérompue. On utilise pour ça des \textbf{niveaux de priorités} qui classe les types de communications selon leur importance.
 
  \subsubsection{La sécurité}
- L
+ Les exigences en matière de sécurité ont évolué, il faut donc mettre en place ou adapter des \textbf{moyens de sécurisation adéquats}.
+
+ \subsection{Les réseaux et les nouvelles tendances}
+ De nouvelles tendances technologiques apparaissent, obligeant les réseaux à s'adapter.
+
+ \subsubsection{Le BYOD}
+ \textbf{BYOD} signifie \textit{Bring Your Own Devices} est un tendance qui commence à se répendre et qui consiste à apporter son propre matériel informatique au travail.
+
+ \subsection{La virtualisation}
+ La \textbf{virtualisation} consiste à faie fonctionner différentes applications ou OS sur un même serveur physique.\\
+ Ses avantages sont:
+ \subsubsection{Avantages et inconvénients}
+ \begin{itemize}
+	 \item Consolidation et rationalisation d'un parc de serveur car il est possible de réunir plusieurs applications sur un même serveur.
+	 \item Rationalisation des couts en matériel et donc aussi en électricité.
+	 \item Portabilité des serveurs car une machive virtuelle peut être déplacée sans devoir déplacer le serveur.
+	 \item Administration simplifiée.
+	 \item accélération des déploiments de systemes et d'applications.
+ \end{itemize}
+ Mais ses désavantages sont:
+ \begin{itemize}
+	 \item Cout du matéreil important car pour une virtualisation éfficace il faut un serveur multi-coeurs avec beaucoup de RAM\@.
+	 \item Panne de plusieurs services si un serveur tombe en panne.
+	 \item Compromisation de toutes les VM présentes sur le serveur si un hacker a accès à celui-ci.
+ \end{itemize}
+ \subsubsection{Les différents types d'hyperviseur}
+
+ \textbf{L'hyperviseur de type 1} se place entre les VM's et les matériel physique. Il possède son propre noyaux sur lesquels tournent les applications et il s'administre depuis un interface.\\
+ Exemple: VMWare vShere\\
+
+ \indent
+ \textbf{L'hyperviseur de Type 2} ou architecture hébergée fonctionne comme un application sur un OS, les performances sont donc réduites mais l'étanchéité entre les OS installés sont parfaits.\\
+ Exemple: VMWare Workstation\\
+
+ \subsection{Le Cloud Computing}
+ Le \textbf{Cloud Computing} consiste à utiliser des resources informatiques situées sur un serveur distant moyennant payement. Celà permet de soulager les ordinateurs locaux qui communiquent avec le Cloud grâce à un navigateur internet, ce qui permet d'utilsier le Cloud sur n'importe quel périphérique. On s'en sert aussi pour stocker des informations.
+ \subsubsection{Les différents types de Cloud}
+ Le \textbf{Cloud personnalisé} fournit des applications et des services répondant aux besoins d'un secteur spécifique.\\
+
+ \indent
+ Le \textbf{Cloud public} fournit des applicatons et des services accessibles par tous, il utilise Internet tour fournir ses services qui peuvent être gratuits.\\
+ Exemple: Dropbox\\
+
+ \indent
+ Le \textbf{Cloud privé} fournit des applications et des services réservé à une entité. Il est accessible via le réseau interne de l'entité ou grâce à une entreprise tiers suivant un protocole de sécurité tres stricte.\\
+ Exemple: Amazonne Web Service\\
+
+ \indent
+ Le \textbf{Cloud hybride} est composé d'un minimum de deux types de clouds différents mais indépendant dons les doits d'utilisations dépendent des droits de l'utilisateur.
+
+ \subsubsection{Les avantages du Cloud computing}
+ \begin{itemize}
+	 \item La flexibilité car les utilisateurs peuvent accéder aux services à tout moment et partout.
+	 \item La réactivité et la rapidité de déploiement car le seul matériel nécessaire est celui pour accéder au Cloud.
+	 \item Des coûts d'infrastructures réduit car le matériel n'est plus à gérer sur le site.% De plus celà coute moins cher d'avoir une salle de serveurs pour plusieurs entreprises et elles peuvent moduler les services en fonction de leurs besoins du moment.
+	 \item La création de nouveaux buisness models car ces ressources facilement accessibles permettent aux entreprises de réagir rapidement aux besoins de leurs clients et de développer des stratégie pour pénétrer de nouveaux marchés.
+ \end{itemize}
+
+ \subsection{Le CPL}
+ Le \textbf{CPL} (\textit{Courant Porteur en Ligne}) permet de connecter un batiment via son réseau électrique un peu comme la technologie DSL\@. Celà permet de réduire les couts en électricité et en matériel. Les utilisateurs peuvent se connecter en LAN depuis n'importe quelle prise courant, même si ce cablage n'est pas prévu pour ça, c'est une bonne alternative lorsque le réseau sans fil n'est pas une option.
+
+ \subsection{Le Big Data}
+ Le \textbf{Big Data} est né du besoin des chercheurs à analyser le monde grâce à un nouvel ordre de grandeur permettant l'utilisation des données. En effet nous prduisons 2.5.10\textsubscript{18} octets de données par jours et le big data est une solution pour pouvoir exploiter ces données. Le Big Data répond à la règle des 3V\@:
+ \begin{itemize}
+	 \item Le \textbf{Volume} important de données à traiter.
+	 \item La \textbf{Variété} des données à traiter.
+	 \item La \textbf{Vélocité} à laquelle les données doivent être traitées.
+ \end{itemize}
+ Le Big Data est utilisé dans de nombreux domaine comme la surveillance ou les statistique qui permettent aux entreprise de mieux se rendre compte des envie des clients.
 
  \end{document}
