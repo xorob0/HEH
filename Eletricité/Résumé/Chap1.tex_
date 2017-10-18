@@ -1,0 +1,222 @@
+ \documentclass[10pt,a4paper]{article}
+ \usepackage[utf8]{inputenc}
+ \usepackage[francais]{babel}
+ \usepackage[T1]{fontenc}
+ \usepackage{amsmath}
+ \usepackage{amsfonts}
+ \usepackage{amssymb}
+ \usepackage{fixltx2e}
+ \usepackage{hyperref}
+ \usepackage{graphicx}
+ \usepackage{caption}
+ \usepackage{subcaption}
+ \usepackage{textcomp}
+
+ \author{Timothée Simon}
+ \title{Résumé Electricité}
+
+ \begin{document}
+
+ \part{Définitions}
+ \section{Le Volt}
+ Le \textbf{Volt} est définit de telle manière qu'une charge d'1 \textbf{Coulomb} accéléré sous une tension d'1V acquiert une énergie de 1 \textbf{Joule}.\\
+ \begin{equation}
+	 U = W/Q
+ \end{equation}
+ \begin{equation}
+/bin/sh: :w: command not found
+ \end{equation}
+ Avec:
+ \begin{itemize}
+	 \item \textbf{U}: La tension en \textbf{Volt} (\textit{V})
+	 \item \textbf{W}: L'énergie en \textbf{Joule} (\textit{J})
+	 \item \textbf{Q}: La charge électrique en \textbf{Coulomb} (\textit{C})
+ \end{itemize}
+
+ \section{L'ampère}
+ L'\textbf{ampère} est l'intensité de courant qui existe quand une charge d'un \textbf{Coulomb} franchit la section transversale d'un conducteur en une \textbf{seconde}.\\
+ \begin{equation}
+	 I = \frac{Q}{t}
+ \end{equation}
+ \begin{equation}
+	 [A] = \frac{[C]}{[s]}
+ \end{equation}
+
+ \begin{itemize}
+	 \item \textbf{I}: L'intensité du courant en \textbf{Ampère} (\textit{A})
+	 \item \textbf{Q}: La charge électrique en \textbf{Coulomb} (\textit{C})
+	 \item \textbf{t}: Le temps en \textbf{seconde} (\textit{s})
+ \end{itemize}
+
+ \section{Coulomb}
+ Un \textbf{Coulombs} est définit comme la charge transportée par \textbf{$6.25*10^{18}$} électrons.
+
+ \section{La résistance}
+ La \textbf{résistance} désigne:
+ \begin{itemize}
+	 \item L'aptitude d'un matériau à s'opposer au passage d'un courant électrique.
+	 \item Le récepteur qui est utilisé pour produire de la chaleur grâce à la propriété physique mentionnée précédement.
+	 \item Le conducteur ohmique qui permet de modéliser des dipoles réels.
+ \end{itemize}
+
+
+ \part{Lois et formules importantes}
+
+ \section{Loi de Pouillet}
+
+ \begin{equation}
+	 R=\frac{\rho.l}{S}
+ \end{equation}
+
+ \begin{equation}
+	 [\Omega] = \frac{[\Omega.m].[m]}{[m^2]}
+ \end{equation}
+
+ \begin{itemize}
+	 \item \textbf{R}: La résistance du fil en \textbf{Ohm} (\textit{A})
+	 \item \textbf{$\rho$}: La résistivité de matériau en \textbf{Ohm mètre} (\textit{$\Omega$.m})
+	 \item \textbf{l}: La longeur du fil en \textbf{mètre} (\textit{m})
+	 \item \textbf{S}: La section de fil en \textbf{mètre carré} (\textit{m\textsuperscript{2}})
+ \end{itemize}
+ Cette loi est valable à 0°C.
+
+ \section{Loi de Mathiessen}
+
+ \begin{equation}
+	 R_{T}=R_{0}.(1+\alpha.T)
+ \end{equation}
+
+ \begin{itemize}
+	 \item \textbf{R\textsubscript{T}}: La résistance du fil à la température T en \textbf{Ohm} (\textit{A})
+	 \item \textbf{R\textsubscript{0}}: La résistance du fil à 0°C en \textbf{Ohm} (\textit{A})
+	 \item \textbf{$\alpha$}: Le coefficient de température en (\textit{°C\textsuperscript{-1}})
+	 \item \textbf{T}: La température en \textbf{degré Celcius} (\textit{°C})
+ \end{itemize}
+ Cette lois s'applique aussi pour les résisticités.
+
+ \section{Loi d'Ohm}
+
+ \begin{equation}
+	 R=\frac{U}{I}
+ \end{equation}
+
+ \begin{equation}
+	 [\Omega]=\frac{[\Omega]}{[A]}
+ \end{equation}
+
+ \begin{itemize}
+	 \item \textbf{R}: La résistance en \textbf{Ohm} (\textit{A})
+	 \item \textbf{U}: La tension en \textbf{Volt} (\textit{V})
+	 \item \textbf{I}: L'intensité du courant en \textbf{Ampère} (\textit{A})
+ \end{itemize}
+
+ \section{La puissance}
+
+ \begin{equation}
+	 P=U.I
+ \end{equation}
+
+ \begin{equation}
+	 [W]=[V].[A]
+ \end{equation}
+
+ \begin{itemize}
+	 \item \textbf{P}: La puissance en \textbf{Watt} (\textit{W})
+	 \item \textbf{U}: La tension en \textbf{Volt} (\textit{V})
+	 \item \textbf{I}: L'intensité du courant en \textbf{Ampère} (\textit{A})
+ \end{itemize}
+
+ \section{L'effet joule}
+
+ Si le récepteur est purement calorifique:
+ \begin{equation}
+	 W_{cal} = R.I^2.t
+ \end{equation}
+
+ \begin{equation}
+	 [J]=[\Omega].{[A]}^2.[s]
+ \end{equation}
+
+ \begin{itemize}
+	 \item \textbf{W}: Le travaille en \textbf{Joule} (\textit{J})
+	 \item \textbf{R}: La résistance en \textbf{Ohm} (\textit{A})
+	 \item \textbf{I}: L'intensité du courant en \textbf{Ampère} (\textit{A})
+	 \item \textbf{t}: Le temps en \textbf{seconde} (\textit{s})
+ \end{itemize}
+
+ \section{La loi des noeuds}
+
+ \begin{equation}
+	 \sum I_{entrants} = \sum I_{sortants}
+ \end{equation}
+
+ \section{La loi des mailles}
+
+ \begin{equation}
+	 \sum U_{maille} = \sum U_{dans un sens}
+ \end{equation}
+
+ \section{Récepteurs mis en série}
+ \subsection{Courant}
+
+ \begin{equation}
+	 I_{AB} = I_{BC} = I_{tot}
+ \end{equation}
+
+ \subsection{Différence de potentiel}
+
+ \begin{equation}
+	 U_{AB} + U_{BC} = U_{tot}
+ \end{equation}
+
+ \subsection{Résistances}
+
+ \begin{equation}
+	 R_{eq} = \sum R_{série}
+ \end{equation}
+
+ \section{Récepteurs mis en parallèle}
+ \subsection{Courant}
+
+ \begin{equation}
+	 I_{AB} + I_{BC} = I_{tot}
+ \end{equation}
+ C'est la loi des noeuds
+
+ \subsection{Différence de potentiel}
+
+ \begin{equation}
+	 U_{AB} = U_{BC} = U_{tot}
+ \end{equation}
+
+ \subsection{Résistances}
+
+ \begin{equation}
+	 \frac{1}{R_{eq}} = \sum \frac{1}{R_{parallèle}}
+ \end{equation}
+ \begin{equation}
+	 R_{eq} = \frac{\prod R_{parallèle}}{\sum R_{parallèle}}
+ \end{equation}
+
+ \section{Théorème de Kennelly}
+
+\begin{figure}[h]
+	 \centering
+	 \includegraphics[scale = 0.5]{kennelly}
+	 \caption{Transformation d'une étoile par le théorème de Kennelly}
+ \end{figure}
+
+ \begin{equation}
+	 R_{AT} = \frac{R_{AB}.R_{AC}}{R_{AB} + R_{AC}+R_{BC}}
+ \end{equation}
+
+ \begin{equation}
+	 R_{BT} = \frac{R_{BA}.R_{BC}}{R_{AB} + R_{AC}+R_{BC}}
+ \end{equation}
+
+ \begin{equation}
+	 R_{CT} = \frac{R_{CA}.R_{CB}}{R_{AB} + R_{AC}+R_{BC}}
+ \end{equation}
+
+
+ \end{document}

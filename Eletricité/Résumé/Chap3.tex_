@@ -1,0 +1,32 @@
+ \documentclass[10pt,a4paper]{article}
+ \usepackage[utf8]{inputenc}
+ \usepackage[francais]{babel}
+ \usepackage[T1]{fontenc}
+ \usepackage{amsmath}
+ \usepackage{amsfonts}
+ \usepackage{amssymb}
+ \usepackage{fixltx2e}
+ \usepackage{hyperref}
+ \usepackage{graphicx}
+ \usepackage{caption}
+ \usepackage{subcaption}
+ \usepackage{textcomp}
+
+ \author{Timothée Simon}
+ \title{Résumé Electricité}
+
+ \begin{document}
+ \part{Lois et formules importantes}
+ \section{Théorème de Thévenin}
+Un réseau électrique linéaire vu de deux points est équivalent à un générateur de tension parfait dont la force électromotrice est égale à la différence de potentiels à vide entre ces deux points, en série avec une résistance égale à celle que l'on mesure entre les deux points lorsque les générateurs indépendants sont rendus passifs.
+\hyperref[Vidéo d'exemple]{https://www.youtube.com/watch?v=cSiJ08XExAE}
+\section{Théorème de Norton}
+tout circuit linéaire est équivalent à une source de courant idéale I, en parallèle avec une simple résistance R.
+\begin{itemize}
+	\item Le courant de Norton est le courant entre les bornes de la charge lorsque celle-ci est court-circuitée, d'où Ic = I (court-circuit).
+	\item La résistance de Norton est celle mesurée entre les bornes de la charge lorsque toutes les sources sont rendues inactives, en court-circuitant les sources de tension et en débranchant les sources de courant.
+\end{itemize}
+\hyperref[Vidéo d'exemple]{https://www.youtube.com/watch?v=sCx-uHiobb4}
+
+
+ \end{document}
