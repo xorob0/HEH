@@ -1,0 +1,34 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Manipulations}{}% 2
+\BOOKMARK [1][-]{section.2.1}{TP1:\040Bling\040Bling}{chapter.2}% 3
+\BOOKMARK [2][-]{subsection.2.1.1}{Objectif}{section.2.1}% 4
+\BOOKMARK [2][-]{subsection.2.1.2}{Matériel}{section.2.1}% 5
+\BOOKMARK [2][-]{subsection.2.1.3}{LED\040clignotante}{section.2.1}% 6
+\BOOKMARK [2][-]{subsection.2.1.4}{LED\040RGB}{section.2.1}% 7
+\BOOKMARK [2][-]{subsection.2.1.5}{Afficheur\0407\040segments\040simple}{section.2.1}% 8
+\BOOKMARK [2][-]{subsection.2.1.6}{Afficheur\0407\040segments\040quadruple}{section.2.1}% 9
+\BOOKMARK [1][-]{section.2.2}{TP2:\040LCD\040Time}{chapter.2}% 10
+\BOOKMARK [2][-]{subsection.2.2.1}{Objectif}{section.2.2}% 11
+\BOOKMARK [2][-]{subsection.2.2.2}{Matériel}{section.2.2}% 12
+\BOOKMARK [2][-]{subsection.2.2.3}{Nom-Prenom}{section.2.2}% 13
+\BOOKMARK [2][-]{subsection.2.2.4}{Texte\040deroulant}{section.2.2}% 14
+\BOOKMARK [2][-]{subsection.2.2.5}{Horloge}{section.2.2}% 15
+\BOOKMARK [2][-]{subsection.2.2.6}{Decompte}{section.2.2}% 16
+\BOOKMARK [1][-]{section.2.3}{TP3:\040Push\040Push}{chapter.2}% 17
+\BOOKMARK [2][-]{subsection.2.3.1}{Objectif}{section.2.3}% 18
+\BOOKMARK [2][-]{subsection.2.3.2}{LED\040et\040boutton}{section.2.3}% 19
+\BOOKMARK [2][-]{subsection.2.3.3}{Debounce}{section.2.3}% 20
+\BOOKMARK [2][-]{subsection.2.3.4}{Matrice\040de\040bouttons}{section.2.3}% 21
+\BOOKMARK [1][-]{section.2.4}{TP4:\040IR}{chapter.2}% 22
+\BOOKMARK [2][-]{subsection.2.4.1}{Objectif}{section.2.4}% 23
+\BOOKMARK [2][-]{subsection.2.4.2}{Matériel}{section.2.4}% 24
+\BOOKMARK [2][-]{subsection.2.4.3}{Controle d'une LED à distance}{section.2.4}% 25
+\BOOKMARK [2][-]{subsection.2.4.4}{Controle de la couleur d'une LED RGB à distance}{section.2.4}% 26
+\BOOKMARK [2][-]{subsection.2.4.5}{Controle d'un moteur à distance}{section.2.4}% 27
+\BOOKMARK [1][-]{section.2.5}{TP5:\040Motors}{chapter.2}% 28
+\BOOKMARK [2][-]{subsection.2.5.1}{Objectif}{section.2.5}% 29
+\BOOKMARK [2][-]{subsection.2.5.2}{Matériel}{section.2.5}% 30
+\BOOKMARK [2][-]{subsection.2.5.3}{LED\040et\040boutton}{section.2.5}% 31
+\BOOKMARK [2][-]{subsection.2.5.4}{Debounce}{section.2.5}% 32
+\BOOKMARK [2][-]{subsection.2.5.5}{Matrice\040de\040bouttons}{section.2.5}% 33
+\BOOKMARK [1][-]{section.2.6}{Remerciement}{chapter.2}% 34

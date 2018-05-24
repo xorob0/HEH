@@ -1,0 +1,136 @@
+\documentclass[a4paper, 12pt]{report}
+% Forces PDF version 1.7
+\pdfminorversion=7
+% Allows writing the document in french
+\usepackage[utf8]{inputenc}
+\usepackage[francais]{babel}
+% Allows to use images
+\usepackage{graphicx}
+% Provides hyperlinks within the document
+\usepackage{enumitem}
+% Adds space between paragraphs
+\usepackage{parskip}
+% Supports Text Companion fonts (necessary for gensymb)
+\usepackage{textcomp}
+\usepackage{array}
+\usepackage{multicol}
+% Better tabular
+\usepackage{tabularx}
+% Allows to use colors
+\usepackage{xcolor}
+\usepackage[margin=4cm]{geometry}
+\usepackage{varwidth}
+% Euro
+\usepackage{eurosym}
+\usepackage{amsmath}
+% Lipsum
+\usepackage{lipsum}
+\usepackage{listings}
+\usepackage{color}
+
+\definecolor{mygreen}{rgb}{0,0.6,0}
+\definecolor{mygray}{rgb}{0.47,0.47,0.33}
+\definecolor{myorange}{rgb}{0.8,0.4,0}
+\definecolor{mywhite}{rgb}{0.98,0.98,0.98}
+\definecolor{myblue}{rgb}{0.01,0.61,0.98}
+
+\lstset{ %
+  backgroundcolor=\color{mywhite},
+  basicstyle=\footnotesize,
+  breakatwhitespace=false,
+  breaklines=true,
+  captionpos=b,
+  commentstyle=\color{mygray},
+  deletekeywords={...},
+  escapeinside={\%*}{*)},
+  extendedchars=true,
+  frame=shadowbox,
+  keepspaces=true,
+  keywordstyle=\color{myorange},
+  language=Octave,
+  morekeywords={*,...},
+  numbers=left,
+  numbersep=5pt,
+  numberstyle=\tiny\color{mygray},
+  rulecolor=\color{black},
+  rulesepcolor=\color{myblue},
+  showspaces=false,
+  showstringspaces=false,
+  showtabs=false,
+  stepnumber=2,
+  stringstyle=\color{myorange},
+  tabsize=2,
+  title=\lstname
+}
+\usepackage{float}
+
+\setcounter{secnumdepth}{5}
+
+\usepackage[
+    type={CC},
+    modifier={by-nc-nd},
+    version={4.0},
+]{doclicense}
+
+\usepackage[colorlinks=true,urlcolor=black,linkcolor=black]{hyperref}
+% New columns types
+% Left
+\newcolumntype{L}{>{\raggedright\arraybackslash}X}
+% Center
+\newcolumntype{C}{>{\centering\arraybackslash}X}
+% Right
+\newcolumntype{R}{>{\raggedleft\arraybackslash}X}
+
+% Add more space before and after table
+\newenvironment{centerspace}{\setlength{\topsep}{1ex}\center}{\endcenter}
+% Sets the color of gray.
+\newcommand{\gray}{\rowcolor[gray]{.90}}
+% Allows to draw lines.
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+% Uses the arabic numerals for sections.
+\renewcommand{\thesection}{\arabic{section}}
+
+% Width of text.
+\addtolength{\textwidth}{2cm}
+% Odd page left margin.
+\addtolength{\oddsidemargin}{-1cm}
+% Height of main text.
+\addtolength{\textheight}{2cm}
+% Removes indentation.
+\setlength\parindent{0pt}
+% Indicates overflow words.
+\setlength{\overfullrule}{10pt}
+% Height of items.
+\setitemize{itemsep=1em}
+
+% Starts roman numbering (trick to not numbering the first pages)
+\pagenumbering{roman}
+
+\begin{document}
+\renewcommand{\bibname}{Références}
+\input{src/flyleaf}
+\clearpage
+\input{src/blank}
+\clearpage
+\input{src/license}
+\newpage
+\pagenumbering{arabic}
+\tableofcontents
+\newpage
+\input{src/intro}
+\clearpage
+\chapter{Manipulations}
+\input{src/tp1.tex}
+\clearpage
+\input{src/tp2.tex}
+\clearpage
+\input{src/tp3.tex}
+\clearpage
+\input{src/tp4.tex}
+\clearpage
+\input{src/tp5.tex}
+\clearpage
+\input{src/thanks}
+\clearpage
+\input{src/references}
+\end{document}
